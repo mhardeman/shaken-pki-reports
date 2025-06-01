@@ -219,7 +219,7 @@ func RunLintCommand(args *LintCommandArgs) error {
 	}
 
 	providers := repository.Providers{
-		&repository.MartiniSecurityProvider{},
+		/* &repository.MartiniSecurityProvider{}, */
 	}
 	for _, provider := range providers {
 		repoUrls, err := provider.GetURLs()
