@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://certs.telonium.net/24/e99cf2ae.crt` | 30&#160;Jan&#160;25&#160;20:39&#160;UTC | true | [view](../../REPOS/3870879a30f38feaeccc3195c7664c23884211aa/README.md) |
+| `https://cdn.cnxcdn.com/shaken/bdd4efd9d4.crt` | 30&#160;Jan&#160;26&#160;20:39&#160;UTC | true | [view](../../REPOS/d5c3f9a7de5eac85815588c6cb9669531cacf9db/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

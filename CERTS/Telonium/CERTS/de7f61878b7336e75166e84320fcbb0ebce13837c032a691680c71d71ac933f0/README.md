@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 902K
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 01 Jun 25 21:44 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 208 day(s)\
+Remaining Validity Period: -32 day(s)\
 Subject: serialNumber=C229EB37-1317-49D7-94AC-E7D0ADF460D8, CN=SHAKEN 902K, O=BTBIZ LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://btbiz.46labs.com/btbiz.pem
@@ -14,4 +14,4 @@ Link: https://btbiz.46labs.com/btbiz.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

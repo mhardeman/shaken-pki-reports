@@ -19,4 +19,4 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

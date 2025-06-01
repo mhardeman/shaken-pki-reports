@@ -12,13 +12,12 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 418c | [view](../../CERTS/d424701c02b81c205c4165377b02fa44632991e28a5bd26416ef362212ac27d6/README.md) | the SPC value '418c' contains characters other than uppercase letters and numbers |
+| error | SHAKEN 418c | [view](../../CERTS/7cba7a88ee508d4394523cb770b00f1f3b59865f7561847cab1684b93b3371a3/README.md) | the SPC value '418c' contains characters other than uppercase letters and numbers |
 | error | SHAKEN 558a | [view](../../CERTS/6af235e2580e430922580fbdf255be09b24d784d63ddd118d338dd2527a6fa36/README.md) | the SPC value '558a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN 719k | [view](../../CERTS/31b8e7e61121d38cb205a6e125de2112289f5c775402f6920a327f140b8c0ce2/README.md) | the SPC value '719k' contains characters other than uppercase letters and numbers |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 652J
+
+Tested At: 01 Jun 25 21:41 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -31 day(s)\
+Subject: CN=SHAKEN 652J, O=IPitomy, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/652J/429C7C70711E3820F0B8E1DEAE6FF3262264C588.pem
+
+[View certificate details](https://x509.io/?cert=MIICmDCCAj%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkxYgwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDQwMTE5MDEyNFoXDTI1MDUwMTE5MDEyNFowNTELMAkGA1UEBhMCVVMxEDAOBgNVBAoMB0lQaXRvbXkxFDASBgNVBAMMC1NIQUtFTiA2NTJKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE8muwtHtv%2B9NvGX9Ow14PrWR0OSMD2AK%2FdkKWX9RnHZlGXEimgd0rvk7A18MPAByjyyzVFweruVde9PYvQIC6PaOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYENjUySjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFP3OkfvCsrQwlQvmVzjcFgneo94CMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNHADBEAiB6P183%2FVQj8X9qePivBdMIlpdUfcB%2FVT25018wg7McFQIgFRZM7%2BYX9xXNE3vW1wXWC%2BeUDnmW9%2F%2BuzX1iWMvIPgQ%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 01 Jun 25 21:52 UTC

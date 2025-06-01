@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 187J
+
+Tested At: 01 Jun 25 21:46 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -10 day(s)\
+Subject: CN=SHAKEN 187J, O=Alvaria, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/187J/429C7C70711E3820F0B8E1DEAE6FF3262264C852.pem
+
+[View certificate details](https://x509.io/?cert=MIICmTCCAj%2BgAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkyFIwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDQyMjAwMTcxNFoXDTI1MDUyMjAwMTcxNFowNTELMAkGA1UEBhMCVVMxEDAOBgNVBAoMB0FsdmFyaWExFDASBgNVBAMMC1NIQUtFTiAxODdKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE%2F%2BYaUm6P%2By109XVqOEg%2BQ2wvHBlAZfqJ0w7%2BnwpmGGwMUBqM%2FiM7YfYfm%2Fp1EbdCTFjjn2gexPs6%2BHcBk86rjqOB2zCB2DAWBggrBgEFBQcBGgQKMAigBhYEMTg3SjAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQQwHQYDVR0OBBYEFE4hswnCdx2RDd9F2IjWs4xprzuEMB8GA1UdIwQYMBaAFKzTk%2FVDQ8wKvkVYFxN9knzcwwFGMEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNIADBFAiBQJujT%2F%2BbNNXJKWY%2BVnLvw1Euz8gqDusJY1BqlRlUzQQIhAO909Sf5FlIjmg8si31LWF1YJzRad0h3544h81hIyb9%2B)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 01 Jun 25 21:52 UTC

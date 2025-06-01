@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 986K
+
+Tested At: 01 Jun 25 21:44 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: 5 day(s)\
+Subject: CN=SHAKEN 986K, O=7G Network\\, Inc, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/986K/429C7C70711E3820F0B8E1DEAE6FF3262264CA78.pem
+
+[View certificate details](https://x509.io/?cert=MIICoDCCAkegAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkyngwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDUwNzAwMDAwMFoXDTI1MDYwNjAwMDAwMFowPTELMAkGA1UEBhMCVVMxGDAWBgNVBAoMDzdHIE5ldHdvcmssIEluYzEUMBIGA1UEAwwLU0hBS0VOIDk4NkswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAStluu8PtkE%2BJhcEMSZlPlWArvnBw%2BeaHw9W958gLRoKtTu4OOoJ1h44wNPS4VVal7n0yV2P1VtWx14jk0R4A46o4HbMIHYMBYGCCsGAQUFBwEaBAowCKAGFgQ5ODZLMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBBDAdBgNVHQ4EFgQUBhYyAoUUhL9wmiwKa5F6SidLMRowHwYDVR0jBBgwFoAUrNOT9UNDzAq%2BRVgXE32SfNzDAUYwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgeAMAoGCCqGSM49BAMCA0cAMEQCIB%2F3w5eefI8Dr%2BEANJmrDF4E6Qzy%2FedTF7nXAeDT4m2cAiBINE38gYUMMkRrTBg37wwAkBSxkpxLHP5hooGUQ0zKJA%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 01 Jun 25 21:52 UTC

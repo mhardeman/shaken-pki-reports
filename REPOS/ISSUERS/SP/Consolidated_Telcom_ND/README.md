@@ -2,14 +2,14 @@
 
 ## Consolidated Telcom ND
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 66ms average time it took to download each certificate
+- 300ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/1e9efaedff05b3fc118ca5c6c413a10ce0a84b98` | 13&#160;Mar&#160;26&#160;23:37&#160;UTC | true | [view](REPOS/cdf9d18fa1e11569b0df275f0ad10d6fc972fee7/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/b6611ffc50b1fd72c8f64e468c93c1d5eea181e2` | 13&#160;Mar&#160;26&#160;23:37&#160;UTC | true | [view](REPOS/7d41c779b3e2749de7ce315a90c7de05e0edf814/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

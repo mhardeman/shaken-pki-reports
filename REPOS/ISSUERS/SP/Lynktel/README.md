@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 33ms average time it took to download each certificate
+- 153ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://ssc.getsipnav.com/certs/adb11abc916d55f59390aebfac21a502f9e4a3ef` | 31&#160;May&#160;25&#160;19:33&#160;UTC | true | [view](REPOS/eb50badc766712a76d2902ee5e826bae8273c158/README.md) |
+| `https://lynktelecom.peeredge.com/cert/3pm1Luxn.pem` | 18&#160;Dec&#160;25&#160;16:10&#160;UTC | true | [view](REPOS/b55cfd40f20ad1bf630e2ecc61869aaf4a67a480/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

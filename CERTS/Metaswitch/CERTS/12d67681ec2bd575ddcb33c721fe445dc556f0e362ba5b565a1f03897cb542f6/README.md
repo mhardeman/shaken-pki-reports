@@ -2,9 +2,9 @@
 
 ## Certificate Metaswitch STI-CA SHAKEN Issuing 1
 
-Tested At: 04 Oct 24 16:27 UTC\
+Tested At: 01 Jun 25 21:52 UTC\
 Initial Validity Period: 4380 day(s)\
-Remaining Validity Period: 4183 day(s)\
+Remaining Validity Period: 3943 day(s)\
 Subject: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Issuer: CN=Metaswitch STI-CA SHAKEN Root
 
@@ -15,4 +15,4 @@ Issuer: CN=Metaswitch STI-CA SHAKEN Root
 | [e_atis_subject_c_us_ca](../../ISSUES/e_atis_subject_c_us_ca/README.md) | error | US_SHAKEN_CP | Subject MUST contain a Country (C=) of "US". |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

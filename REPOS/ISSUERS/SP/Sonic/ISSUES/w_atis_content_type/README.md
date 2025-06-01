@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://crs.qcall.sonic.net/certs/Sonic2024certchain.crt` | 13&#160;Jun&#160;27&#160;09:26&#160;UTC | true | [view](../../REPOS/bdd0d74e81ee55a0ed0d1b0c65e311b4be6fb370/README.md) |
+| `https://crs.qcall.sonic.net/certs/Sonic2024certchain.pem` | 13&#160;Jun&#160;27&#160;09:26&#160;UTC | true | [view](../../REPOS/1bc0dd2e2c2401e5c81a2d435d58bb3909af64b6/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

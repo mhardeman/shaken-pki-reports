@@ -12,156 +12,205 @@ Description: STI intermediate and end-entity certificates shall contain a CRL Di
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 688K Call Hub Inc. | [view](../../CERTS/c9514ae8afe29c81cba005d0e97ddd87c0588caca1e39a20368d4f872619984d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 826K Infinity Communications LLC | [view](../../CERTS/68b1119315e40d8b5e803ae4a01fa6de1b7fbef58d02dea80f372988da6987a0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/caa25b9032d314a7da1a605766aed27f2aa6eaba92a6946bbe166158818f153c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/b96de92f47b70e83abc414ca701cee4640954cd68436d5fdb8c8c7be054cc80f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/7ba3f4d9fbda5daf5efc1e0a0024e9dc807a27bb1e8ae3c58a3cec549200c35e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/534f899b41532bea044ccf09ee8c7c887d60b6d093cb22b078743647278bce32/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/761f66b777c9809e70c623a9e7968a4c35c41f6c5554c0ed20e1e7789e1f9311/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/4898a3f70f10ee2c757ab6452e09bd4585b7c4de8b8dfb31832f5c8134205a9f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 9157 | [view](../../CERTS/c0a0555fcf235da8ef7b238bcdeb3cb703148684c8279065a04ac103a7a3f637/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 583J Broadband Dynamics LLC | [view](../../CERTS/5d562510c2d4169f277a83e6cd4406b1fab0e66f127942b7010ef73fccbcfa20/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/5108a01239f37873dc50e7a2965ed9cdc63a49fcc9d0ad04cd11569d8b256c2c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/d8fa5c559b91149ddbc7948ea1aecbd14537285ca3060d304e755cbcdf1c30e0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 711K | [view](../../CERTS/cb14f5bc9526399cf58787e7c45ea51617bcba6e1b37cc1f61397639436175ac/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 187J | [view](../../CERTS/f86b701ef1b370bfa8336e2eaed80278d23f0fc2af4f8202cb867f98810901a7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/11006c0ec7aa83d8e9396198103ea4327b9f646d9b5a26c14404f0d686991c8c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/d6b4624fdf6624c8e13f4347be164b02ccba1695589f20db2b1b0b58acad9fcf/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/9cafa2da110ee17805106f7fa131da4bb7fa0a4fb3c206ed6f8a8492f066b759/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/129867fdad1a7f2e8f186579b76105d14c7c7db9a52c53ffccfbc8dfccb011d0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/75ca3f631d3f4f3e658ec373e53144d5b47bc1c7cfb1005424ad387b98e82de3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/1643126c0833efb8216a51e5d9e3ae28b9de913164c9ffbbc201bcee97ac272a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 816J | [view](../../CERTS/049b3b6a21d66af584268ad19aa242a3063dc9fbc2fb15c6124909ea59298aca/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 684J | [view](../../CERTS/7b7128c682a7774fb34af00206ec0a923634b2ae8759de579a728e7b4af9c983/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/07aff0f02f235b38dc73cf082b6f51cb5593424b73c420087d8ca0040145ea82/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/457aea8fc0c3d8e4c7a4115fc94f1ec4ca13ddff84e68170fc3240b9c3e47b4b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 020K | [view](../../CERTS/49df8a27115252b7dabf9507f0337e75ee3ea7b6f7fcb65a8bc2b309cab7c419/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/da9a1431330a6d00365721a3e01b9a5a77cc73e0173b8a80bb023957dd8d435a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 548J Quality Voice & Data Inc. | [view](../../CERTS/4c6acb3b95fb640cc7506b43c3f2a59558f94a8877abc7aac27c1cf783f69136/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 644J Bulk Solutions, LLC | [view](../../CERTS/990a495c31d1f01b0c57ceabce1d7d65392ac71cc19ffe213767b97e7c87bc5a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/757ab1e7373f840adfe62a983bbedd2a1465c52ebb07e5e6a4744c6771bbd2e5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/e1b1a9ab780bbfdc35135d96d3cd0790187328559baa25fd0a97a7daa3a3251a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8d9b1d48723b13cc55b452eaa4f0221b6a1e23d2ad4a874a29e14b2aafc96851/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/5fbe31eb7a73966196a6eb466364a61a81047c94a0f38892118dfac96f62a375/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/1baaa0f71dc9795d78a4f2f85efbd03c7e47ae66d5f9f8029f16f104cfd32257/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/7011bff1f3932e56416de3e4e6823b352ca90873a98328f7d7d13ebd8b02fd79/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/cea95118abfbd3370a9dd95581b6be58f2e94539306079e60e49f5160304304e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/a9e46bb8f95d100ca83081d884b47c85c3f4caecd4c2fa7ffb0e22e33ca5a033/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/e17c03976072ee971db2c1d83a839df929359d8244ca458f153766faf42bc80a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/f906c4626b09b2076e3d0ae7bcdabf8e099967ed6758841de9bdda6ee848a78e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/13b5ea99b1239b3bbba2144d8df9649309bc706c9df10f6ba34e1c85ffb9d31b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 696J Telcentris Inc. dba Voxox | [view](../../CERTS/4a28cf567357f13f1fd334e66f49b22c31d3627fcf293a3a4455ab69a3b84a41/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 5113 | [view](../../CERTS/b3d3e4150e4883bed837647bf4fadb82f81b3c489c4989ce5129569eefeb6574/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/ec311821ba36c27b26618ddb0d1628f9cfcd4775bba7a1d6d065ad24c524aa9e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 886G RCLEC, INC. | [view](../../CERTS/7a2d5a620a393ebf3cb70cd070ebcd1a0bf86e57bff57a1a14f273f21cbd060a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/8967d5f0e2f1a39d28c171f2f37c231c93aab0c550eb140bf058c41707668405/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 0179 Laurel Highland Telephone Company | [view](../../CERTS/652c8b8601a400173bc309184b9b5854aabae9cdce55d59fbcfad974560e16fd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/b18ed0dc589300e38e235a1f82b32d7e4080495a75f5267f4a2f30b3083bf9ec/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/d34ffbd34d904394fc44d008f433f26e14312638bd26548526fe5bc912d76453/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/94f6e8763259ecf93224aa6d303058d5de3dd5761aed66a2312abea2a03eb0ec/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 597F | [view](../../CERTS/b709567864fac36899b8a9c4a881415415875ab1d1518025a84afa2d7484fbfa/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 596J | [view](../../CERTS/18fb591ef19abe8a12cc772a982448422c947f3474891380e940b7f39059a4a0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/3bfe2e59748dfb8196641f8ac7774d5c8396a565209567d5aea7c1fc6613de8c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 525G | [view](../../CERTS/703da4b1d197ef4ec5acad260e76480705ea7b43425dc86a5017e417b544263c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/7386ae9314d59c208592c16b4e66113a84863e19b1ef35da29ec7ceb7a8250d1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/896fd1f026d7478a58e255cdd960f3ecc847e0be55d22d0b115624d3f673ca66/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/98f741067c88c1829cefc9e11e986a93652972cb7d7896f2cd92b3ae0356a276/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/936700f1882bed0c6fb066e4cc0bfadf617ec78d1940507d39a0aeb4fcaaf559/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 351K | [view](../../CERTS/106fe7d3fb2b85fec974a97ee0f09935eaaab4420a1fe245c9d4dd33cb1ddd41/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/4c683a7c841ce043500bff0ebe8d1e442bb7933459ba009652c2a809531dba6f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/113216ef5bbd377ee10ca0a6d937c6d3d3c89deba8aaed4aee75a6e8e92a176b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/f506581421793f7d0a350ed3b9bcdd726c4e61aedb66c910f02aa983493ba05c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 9451 | [view](../../CERTS/835365b651d1f2c9864e8957217bcd1ebbebef0b9a4f5da2a843709519083b25/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/ac66f3ac179f48d509737b27baab0c903bb2844c0a8134c515df70f6f11cf231/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 089K | [view](../../CERTS/0091f8ad0a4eed342e71b0e405e6833568fc3ce003be60e6f1c84f3334a96c49/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/c896e8358e115836478b3df10be3f101996e1c355a3d903bebb8779bfa28890d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 455K Cloud Connect LLC | [view](../../CERTS/7d072fe93e1d51156b2f34220c54c654c088b2ef5d794677cc4b19e31df80fca/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/64acc442a9de16ae3d475784dfbc3dd9cac1e599a6f7609b4c0731fb82b5291c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/cb01faa7d87d3afad858eb10bd54046aa5e44c28f91b80b179a4adfde29fc98d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/75dc0d3c0974ead3813568340563f30a5ec84a41ea16554908dd8ab3bde3358e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/d6d9ebd0113faee174a6f9651b56d37784078993ce7347ad58bffb144e4bbbd8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/4974b83bc0ab51a7e0a345a9a689d87a53516c3426b4ebc79d20862fb69f0a71/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8f4b824980d78aebca018bf35641b251bac18d0dd1198fd03a013db1b1f7e08f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/bdf7459ebac885e8c1cb7e35ff4a9ae8be26e649a7c21df4071440cbdeff5470/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/7ee19dbf05b0b82447b807b56ae01c8ba297ad538d2181040f1b89745c484a36/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/de5fc20d45c0954c1b199df54176fe931bc46d49505e4c6dc4bf3faae8977fea/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/e47daffb3b82ded6f2f71d8c0acf69ae4c716bbf8392a8df910e411ba04f0958/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 867K | [view](../../CERTS/7c4809e55e37211bd3dad1e32e81bdbc9dbb6302a8394fdffb82c09f9d066151/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 3395 | [view](../../CERTS/8d3c435d142cdb03da66c2ca1b36fff65f800ab8a71957b0c5640d77825ac941/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/288be422eb24ca0426d35293ce2db1bae6d0c5c727aeb667fe0c610a6e6e2ecc/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/d4ce5678ece48936e8ca2678a6ccc8829ef74a7ead94e16efe423cac17469b7f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN InteractiveTel, LLC 920J | [view](../../CERTS/5a0faaffb7ac3a38dbddd78c8fec0079123dfa02bb9faf37d413e09bf4c79069/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/adef752f15e8f0bf6f4ff033acb1c686007373192ed7c427baf2851249fc8f68/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/24d287d6c9861377c8b355c80396980a98c57984b3260c00d1712b783d4cbce7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 996H | [view](../../CERTS/71c70550e288b0ee19980130bf0381366089ee356860918b721d32ac6f867b6c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/3af8ad630c14cb4a09bb063e2790153440cc18ff0f4b27e690d50e6694170916/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 986K | [view](../../CERTS/0b238c6a9fc052384422bf113683e13e1d926065f7711909a1323b1276d96083/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/b8a148ac38a478b08bf08acb66e5f0e70a1d73235ce152e4b711e33afc1a4a89/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 782J | [view](../../CERTS/6d37eee4260e21189ae1a155ba248faa4b35853675b2b2048158ceb4abe9e369/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 703J | [view](../../CERTS/81b4f0a5de78e344ce9d4902d19823d3db676161d1acd6f9f6ee5957edccbf98/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/d22f1b82019451def20ebd923734fafdee06f43b541b995875bf24db610365c6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/07ffcf23ed1cf20620a6d2d2f8b72335376345da884e14aa03bbffb0fc6a0f93/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 895K | [view](../../CERTS/7f9656b8ac82c3a3d571c6314b7b0546d1e34dfe134b5a36f83229bc89455078/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/33983932c84a934203dbe1cc501211af9e9d6941b171890814a1e2bc7cc13449/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/ccfdbcfc180c69687b51f8e60de09ba9c045ff814534e650b94a9ed60ab8d5ed/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/3c9c9eca12676dfb5586cbd62e29c89dcd3b5db54d367e4992cdf65d0e663c88/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/0bc7028ab024a6361faafe794e39272b4b5852016ffae404c4a9703df403a5ee/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | SHAKEN 688K Call Hub Inc. | [view](../../CERTS/d8fe53673498502aa06d1deb531144cdeac93dba56e9c7094fef9fe192b5b14c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 599J Technology Innovation Lab | [view](../../CERTS/1f4f7ee438c7fb0441e8b67a27ee334e35a339112bfb63acb3e8cece2322c1ac/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 525K AU Telecom | [view](../../CERTS/694c1778f23e11db0dd3bdc9b48d3c96b62bba793f6883faa7d36776960ddc94/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Townes Telecommunications 0335 | [view](../../CERTS/33e15865325441feb4fe0cabae77222f0107e00b64de9b7b3d38b5554f4a248a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 056K Ascension Technologies | [view](../../CERTS/b6dc8e79b26eaaaa7e9a1419681b884b85797c027ade6d4153821f46b18bb924/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 089K Logista | [view](../../CERTS/494eca4dc32b870f9dd3a0de68c1e36cc5dd601645447dcd19e871b74d4ce761/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 203K Connexum LLC | [view](../../CERTS/901fcdbe4946f6c9f2f338dd125112cf748dec475f4052db54963ef4e3c55d1f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN SouthPoint Communications 205k | [view](../../CERTS/c426391e7c14ba62f2e2317e4e6b2cf6b89ac248631ba321d276aabb32c9dc68/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8fc08adc6e4b930b17faa8887f64974a69942fa99cdd786a833025f31ca1ce79/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/4c186ea5136b3c27728572bddeed4ee4afef0124e1d09c005441a315d3dc2103/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/b318637b105103209b33e22c7ab46c1efdc130baefbfec59d6853b13b5af2173/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/74c98bca870154211caa83ce35cf17bab028c4d0796218bbc5af0ec85295c804/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/050f29f6c847007e160772bf209654e5c1116833317fdb5ee59e786f29a22bbf/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/ed04ac2ac1a1648da80caea9be4fa3621415dc79114f1908f2fef0add1d4589b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/9aaf022bda3e63891f265a00cfa9fd0efd43c1aca06583c45742cb0ed5a4ab83/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/220710f11dfa2d3be6821e79f069c161f366fd235796259e8d1d303dd6beb726/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/f03892464fcb859ee389b6fd103a606829c7792abad25dfae305a596aec5a2c6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/9d236b3d8b4fda8f6253d8096a185078def8139c2677ef7bf86856301fb706f2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/617fffbd4fc0478c8822b0145da269adc075861fef1e4eed567c4b74916d0206/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/ac68eed7bc584bef0f43625d7a614a46bd0c2c2e6384bb51c6a3a3274e103bf7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/0d14c81e1e0e52daf3de2bc75fe9796415c71f65e423c663e72ccf85ba5e56b6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/64b8a3f1b378c478d072c840cd714a2854f9e6d5f80ce8ea97510b72b8f6bb40/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/1a0d8ed50070fb6ad3ecc0a654a0f59cefa00ee9c15dd5ba2c74b45cedd280f2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/e231b8aa49175fec507c50c4611460d45c495479090a3c59cba101a92ee9a8d0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/82255919587070102dc0ecbe01da726845c298d924a586284104ee3248563025/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8ee5434e8d84c00c80927c0070ebdfcf7e40634d87f6419c048ff35fd08ff6ad/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8b25d7e08575c4286ba92a5e1424f2afe9edcf2ad7db8e219b24b735e5d2ba86/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/e8735ccf2fcd27cec7194468bcbc410abb2c02d4ef5ed5dbefc0ccc90069dfbb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/26e252529d9aa6f254e61993fcbb59b6be2c47118bf01120131f9b5d8902ba12/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/f432d70f353dd43d8886f90664b468fadff555696998fa5da83a172b62876814/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/075b169220d147430a9eccf048ae9c61dfda08b60b3f9c82ce5c0d539aa6d689/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/8e9aaa5c0368d9faa5d1c2d91939a5ce7bd9ce1fbf06e69c24b041a8b9ac0628/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 267K Starlinq PBX Inc. | [view](../../CERTS/f4180665065d7d42522d2ff11a94fb0b18be7c242bf316f57325219909d93828/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN CIMA Telecom, Inc 313K | [view](../../CERTS/2de05d397c1de5537bb4cb6575d5b94ad281bf50c87342384aef3e03cb11e3fb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/f4f8682edceead8b45963dc0566c27dffb045a97af6413d9f48c5da05baf326f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/658fd8e79c2db9c79908fee48cf32a8129a647cc08bd5d7c288cbbeec82d2ec6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/c3baa851487357740488ea1de2a860b6b1a9c5f91bb82c6c1d744e7e457be943/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/ab0df089a20367ac11761caafadb8f82bb800c9c79da7266aa75c40e17483764/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/941a73a92e34043fb444e121ba0f7cf9c2ba0de9901fb9fd2391f76c63c19a1e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/26395a2ade862acdeb8de14e628d24f4025f0d19c82a8b5df4e6d06871a26297/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/f756956fe809acbc440e1baa7c8cd57af7ed3705cc0566186a39a3790aaa2a60/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/898b242fdebccaad67fb2f134854f11b075f6c205744e83a2a25f582afe82a80/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/63c3cc5c6fcbe9d6f373f95efcb5fb63767c32ffc2127d4149d9dd9a4e2024df/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/a70b53708e740466ad6e64155acf8f486fa4a7013fed39565447794379c4c96a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/1daf4465d895a11fb1e67205f018ead21411ee37b144882735ff13c99f20d4d2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/27f4ceb7f9005dc609abf7d9846910356dab2f87dd846e0b91c18df720fd856e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/b20c17abca67aa164675fcc54faeeb1ddc3a66f15256c5d59d2be1fbcc4cafe5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/009a6d2eea93d6baec19c88400d738ffc271d281dc3ec2916c4ff3c472746c62/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/726796b97497bcfd95222a14501fd7d25be5fc80fdc93dfd136bc4cd664a273f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/01cb84b293823051362a4cb0f0e332a1bffc4530e4601d31a46c1301de97db80/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/850efa8c5caf562a4bd16c50d4f2278560ebfc7e66926e302b5825d844d77582/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/9d811914cacec78e5671559aed4d96529086330c680067162a7d08559495c003/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/46afbd3cbe62cadcd8e0b2e358364633031afdef1107e2bbb1db6d7e73c18e74/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/00ad775b20353d97d9c808158c91c77a01a3529778cdc3dc1394d35a081ef2ad/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/e917cf4b97ed045860f4777330983956a9b230286a81f06d8bdd4c56b1a786a2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 1stPoint Communications, LLC 463G | [view](../../CERTS/d2fb90a73d3352321e0aca7f839e1c38f8be6ed5d14f85b35f4ad5e6cb47b1b2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 492K Telxio Networks | [view](../../CERTS/cf2eeaf7f14dcbcfac58ed276f8695116b260ed946dc7be13d5a66c07d2caf83/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 493K ComTelus Inc.  | [view](../../CERTS/af4cf171b2ca99abd62e41f7649ac1e22395fda011d173fdfdbd31891f743971/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/2e1fdbb5879169523c048bb81e0166c9c049f024830a17099f0bc3f52968f8a9/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/9b0e517839794248139d754aa2f5f24572f4dc71f600148f8db26962df12e3f0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/be0105a24acfbbd738a7e9e56257002e9d197401ab0014a7ab6cf0c86f4ac8cb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/5c5c3c8a38a19bbe433de5774bed34be6a7f21dbf1ad4e557cac2812a128429b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/15250c1bee54bb5a8879cfb70a2afc455971e4ebff6d4050df245882bf39d388/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/617f67e1e64fead5d81732fc6dd9c9be99a04383def443ddc45cb416e218ec51/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/72b19b9248f4fa0c73dd3c48ba8260a9a00f1e73b0d68708b8c2e5d5ccd11d24/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/ba894b7f5b591813ab14fe176e388ae6a1b9ee8df2084142c302e79794f657eb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/f9cafe80e39c5b0a99d67cf6a31ced88e1d4aabfb1180720af0f3450eb70bc90/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/d208a0a87ce1893aeeda82b23c0d5cfcca0ded0f8c7cd17d2204d714f6b1f201/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/f7e8528c79da623f2ae5368e54a59e922da189ee06adc24a4fa4b7359cf90f12/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/b9339e6e1a054a89ce2442cd149d625bf1161a2c3769976225b97f6f0a2c9576/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/1727c9625fe46b1070c19d2fbf19f0ac148f74ce9c3812cb412dd4c27e858f80/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/9a5e5fb75985c7c71bf03edfd21bf344ada97077e0d235f811b6dcaed2e3b283/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/e3499643e399f8cfc68c24be4a09a59998c536f4e84f35c633638d8c4caa3ec7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/a969ac34e43599365853f53fd2f239b081980d7bfebe8589eb802cd80d2e40a8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/d2fc701abdb990d283767b81c20cf75b2747f34b24a144cfd258f68fc1ee0822/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/fe13916f88bda07398f210dc52377859fc89481f1003066aed1ed304b69c8fc4/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/d791eb9757bf2291eab31f82c104bc3cd3307a62a79c3c4c7699d3b3257bbe4c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/fbcc22a3cd903716e6a1a686ee7d15374117114f94660ba0599e1de36bf12e25/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/16241228497cb74debe19464f431fd839a88abfbf8b2c974af4c8c81eb96e5a0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/89c28ee75f98cfa9876c0f4a1c1d42a06324eecae7d7a1f3a28106c647826abc/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Quality Voice & Data Inc. 548J | [view](../../CERTS/cc39b9af163b9ac535b980a6f90585bff0fa38d55a2dbc5736317455ab960feb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/ad2c53f8babb8cedb1b62bd9ff5f1daae244e3ac70d6e59ce873493856803f07/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/2215dd5c98b1a8e4ba64083a71174a475e68f34324d1a39113c76a759663a77c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/8c06057286de1eaea0bc2679df21968e8c57a52845265095dbc45e246d150fef/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/412781039d3611efe205c0be9c99a43029f6a842812ddad54cb554afa1aa3225/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/0095b29170325b74ea27e6e0cb1a022c6059c8c67cd2edba86433c29c528026b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/651fb24ddeec142984c05eb1e6c281458eac43d326369deb23cee7e8054bdca9/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/0f61b5358f34c41c787f5cd0554f2d2554de713c5abbfa7abbcd8c4cc4b18dc2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/b3fad654286bcac09078ba70e17c18513a0d5da072540400e9c5ce10ad6077f6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/6e173418b967ddd5bbdb0d5571c9899ac95930f58332c3676a39858567847fd1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/c6a4a858caeb3aab0b02f737ef4f7299f5c3d475753467fe2ecdc27aac1be862/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/4b99587f1b9d77da9981dd0945112c6d8d09acee53f42ef7dbf33c1460e393f0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Lightspeed Voice 557F | [view](../../CERTS/e394e7ed3c5c36107e36ca6c098ffdf2279ebd277b5c434e0f567c7f8d83a57c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/55c155ae238824836735772503878ecb35143bfe670fd6a0a80d96c02237a86d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/1a21f23117f7130cdff97d1a1d56b1f4a0662ea6d5b39385be7d062b3facea8f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/e565754c5b6a196ecd569af8895720e319216e9a50a21bd34d0af46b498c0e30/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/6dabaea104b986a2d1e6159391f3c606811d585af7cbd6f2a07def6d96d35f43/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 597F VoIP Innovations | [view](../../CERTS/daa381020f162344a666c69b83e4adff78c7438c494521ce9b084dee47c37f49/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 696J Telcentris Inc. dba Voxox | [view](../../CERTS/1e0ddc4c4b14c59473e582fcdebca549406328dcd40f47102ca4f4bf66641e16/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 731K ChaseData Corp | [view](../../CERTS/5e54f96ef86b3bfa4d20d0d4338366e809bc1cb7dd402fadc718bcecdd20de08/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 776K ActoinVox | [view](../../CERTS/87b5e4ebe2f75f3bb1c8efe86e8a26d08435b5672243786f8a7f96d349694219/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/beb9d43efccbf0c0208c96667a4326f1bbf19f82f1a898a8e3815cc36f517c12/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/3bdc9894412afdc43cbe44b3490fcf1928685089fe4f39a50bd6188fb7624839/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/b175019118d2d7d821103d49e48cc6bcb432a168302da263c387865bbd3401d7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/3eef531caccfa57c8c689c44eb789b86e17908cb8c96b2dd4fc190176d3bc54a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/13f83b0db80afe5287330ed0de56f3950c446a24fd6a3e42a305a1ed7859d82a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/b09dff2dfae9213e0acc6f9f24739d38cc6344c34af9b949f44602caee4a6c89/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/a375d39b795b30c4b2806a167219df605159a44c88aaf26115f21e171dafbe56/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 781J iNet Communications | [view](../../CERTS/e46cb2d0ae92726b11a121cee6fa0726a9dfabc72cfa74b5f7547c79838c503b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 782J AM Communication Labs Inc. | [view](../../CERTS/3abea89f7a0c9752a0af294e642070be6c7edd3fcf1f23c239708c1d2f798234/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN DLS Internet Services 815J | [view](../../CERTS/6d78ebd8ebdca5591222f2775051f49ad8ffffce5756cf104881773b401e9348/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/86ec0db4adad2c26011b72e0f5d9fcc6404d4a29186d9215a644814ac09559b9/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/72ba3ef768b00f9552ccce66f283928e547d356d39e92c7334e04fa9f9e21f52/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/830e5b8dd24686e536b9bea98a36886f492f1a05a32d379c01118a6397abdc5f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/ddfbcc8df581958f651cfe2606e81c3bcaa63d8391389044003e8b6b29c8c4d2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/8c2c2ddf2c74d771259bc800356c365e53e0ea5a1f1ec71aa2160ea5298fe396/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/02c3101853bb03f12838bf8acb5a5921a342d0c45b5e3b90acb1b8c6ebb12340/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 839J EON Telecom Inc. | [view](../../CERTS/e732c0ce34c1ac96d34e6489654b580c6c96a076ff3c082bfd5d18946967c4fb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 839K Sigma Broadband | [view](../../CERTS/d6f9b064110046c7c42acd971a566fb99b97c3740df54afb4b903a39179966b1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Zray Technologies Corporation 862J | [view](../../CERTS/930b00d582cc83dffb2bdb45b4d9c5f513cb4db7e50947d30289d5f98a68d5f4/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/b47ca0d6d20f0aa953543948bf7341b054363762422caf1567da5ff285c7b92c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/94902f31b8ea2faa0d87f69dd529a3f593d2e6e8ea06898f5911044d3ce4db18/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/fae4403ba2431e1a2fb31b4136baee2649d84dcda50c4fb51869f365fbc676e5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/5425f58de3d1207613ac7751012eca0919a4a2264e3794c2463fddb37c834210/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/582b755dd09060131537c698559ea19e6d2b5dfb68feb37443369e3079c2610c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/c7ed2be5460c774cdc2f70d9a2a373656f834b671502a1c3bbeb57274fc9ffc0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/b9d04c9ddf9efdef7cb8fac76f89bac999c3f651264cff31b14a764dc520bc48/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/07cb0fc25dbfa644ca29ec860a336bb449a2cac75b2e035429a4f134347b9d36/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/47fadda3c759cc08a9db15103faa8f68b7f16c16d01ec8cb0ed33b3a4b86e4df/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN BareTelecom 864J | [view](../../CERTS/de63ae7a2cb94597eb39ce4aa6c5738614809b138bb224560b172299b67ee8ce/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 867K Alpine Valley Consulting LLC | [view](../../CERTS/d8e42ff7151f25922813aae6e3e9d214f0157ac39fa1132017259254a6fe40d2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 879K COMMUNICATIONS AND TELEPHONE SYSTEMS | [view](../../CERTS/4fa5e10f0f209f8ea7352ff6ac522324adeb1ba6c2fc07b9bc0a5fddd586ecbd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 894K SIPVOICE, LLC | [view](../../CERTS/8f9b473e3a832636d10e3e83d66fc6c2298211e646bc7fa926fdfcc40875a177/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 895K 6x6 Termination | [view](../../CERTS/bef1d8df3e931bfba5331105c5375726011d60158f2463b25466bfd537ef1243/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/3a3a1478ab355caab708311c31a4e044a0d26c35520224f29c865c4fe3638115/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/2b12b83a26ee4ef2741f6cf4c8e63d3861ce2b9ee0119afe8bd314d3128e8356/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/97d20bccb5120c67e75db885c83d6a673558d42944f9780a229b2a0f0a65e8c2/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 649J | [view](../../CERTS/6b2f772417f1b30c1d1d58dc0c1354807b669779c7092d98ed8558a3530ddd2b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 776K | [view](../../CERTS/e921cf234d5f5d14191b33c7bb17f88d41150069f2575dbd79e91d8adb75a819/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IPSBS Managed Services LLC 828J | [view](../../CERTS/131b74824527cdeea7713821c533ff1e3531841861f665721d59d6f0ede400dd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/27ddc7ca50c0a624f7cdd2e9db53e5bd4cd082af726400ff60cb3cad0ecddaf3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 463K | [view](../../CERTS/d782e2c27053d930002fc479c416f093d72b030dd353d7a201ae2aa6dad44b24/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 634K | [view](../../CERTS/f4fac0ac1a974b5872cdd725e9c4c175f1c3f44585364704bfc2263ba50cec5d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/4bc9f7b14260a09d47aa0baee8afa850cc692cd06309dae0b5b577806af2f484/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 683A | [view](../../CERTS/6f70fd4a51290b79526b8e3abdec57f22f97315584c65c520534374b68f519bd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/2ff0790dcd4bec01ca793447305f723643e9b6d49ec99cf776fa34589d8f2761/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/0f6f8a20b5078f7920f6b3741348634f98b3d6d451f5a0105aab4e4a9d9ef35c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/1287f0432e22baf583ee16a87ea6bb2f61bc20bd43b71373defe96d8089793f1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 052L Call Logistics INC | [view](../../CERTS/138957dc3c44ec4d86c7d86669d6427ae04af5753decb8cafb4da515ffe066e8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/b39d1b57bc894d451ae6e3c5164a13c44c7272488f660bb7ef26f9439e075afe/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/783241f58e12104fea392933404e4a1947025f1d311f3f8e42f40040c713be31/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 938K Lynktel | [view](../../CERTS/a68c42c17cee40cd16de5665a354e1c64ee5cf9976dfb8928d75b417b89a331c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/c059af9bb403c8562621bea0c6a9c44902e616b85093c189c559e495b041eac9/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/1333044aa73aa7cb76322a1a22be7fe3f3e94b95c8e95d9cdbc69c11c8d9394b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Televergence Solutions Inc 779J | [view](../../CERTS/a677cec9212ab31248beec237b76a83215bc911924e4129cc4dc69a045a399c1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 | error | SHAKEN 932K Alliance Phones | [view](../../CERTS/277ded041e5ec5cda4c56eb0061ac4262dad2939b7ff40ce6b76946ed82facdb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 958K SaveVoip LLC | [view](../../CERTS/e78654b5bea29fa67df948244d36aefdad852322d5c375149c5ce147430f2b95/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 986K 7G Network, Inc | [view](../../CERTS/a72429200b39e65918e1e74562a1040baf0ec10307218baf94ec7b0d718a9ad4/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 732K Serius Network | [view](../../CERTS/942253ee2461223f4489b0996e387e0a8b43f365cdbc33f791f3542c153c7dde/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 249K Primo Dialler LLC | [view](../../CERTS/e37c2d2abb454090dc41a8a9b8f15661bde2d9f635106de57ea81bbd74dd3c3b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 521K Voice SY LLC | [view](../../CERTS/4543540ab57936221819dbdef685a8a4b09c87e6b72dd21fcbb346696de31a3b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 455K Cloud Connect LLC | [view](../../CERTS/e74d06224975e1d5c4b1a8a889b81da3ed4a0f9ed46a4a0b1a9179faed5b301e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 597F VoIP Innovations | [view](../../CERTS/80f9a4656d0d9e150183b3c4c10c11ef69148ab725647d650dd81be489d897cf/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN 938K Lynktel | [view](../../CERTS/b2aa0de697866f9e9dec031d059f9a3d478ee21f540ff87ebe0a8c429527b220/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
-| error | SHAKEN Convoso 758J | [view](../../CERTS/b235507a20c5a09a9c35e66bae5b3cff472db6142a907737802fac158356fa19/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/f60ad6ad7977773d5809756a0d73e0fa219306f96c6acdb54b8207b203ae4d75/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/90dfe8288f95c470b6ea870a07e3609619ff8ca9df163d17a4484c1dcb26a61a/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/58f54feea32b54fc098305a5311ec8ea4241ddeec2d3a1e5160532ba284ae3d6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/59081020bcd618a5a3c052d1d0d922fe9212f0f46fcd9c2448cc49beea987979/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/c94fb1552999a8f088358ac9f22145759bd0d6c77783a2e41f0fe1377751f16d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/f8ea47f7a58fc2370b71ace58af17d6dbd126aacf8a2bfc355b8a0e6a660ef91/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/9aa6adb235e722707a8185b787bf7ce71657fbad6da28f8872a376c6d783a426/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 839K | [view](../../CERTS/c5b3f58b85b80e4ced1413f6ba810fb2651fefa5c9d37b8d8223e6bf5836fceb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 3849 | [view](../../CERTS/be5a9cfb95f79f8e2f0247376ea4d52955354926282781d5af632f0b8357e507/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/24312ab7c5d3f2d75024e2305254914b0ad95d8e7bb49d36895f9a5c8c37c7da/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 382G | [view](../../CERTS/9b2460ed536c7f61e0f5e0ef205184b7387c899d5be75333c1884bd977458d3f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/b02415368f1af159968bb193562c94dffc9931f20efef92e0d61b252ce80bdbb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/85337042ac10d15084863cec66c2df5d03628b2919d6961ed0081b05d337c5c4/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/10f97c019c2f6350e593c5574744f6529d202cf94c63d7aae0c0fdf690c0acf3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 940K | [view](../../CERTS/c036e5b7c1d90d6ff94ca0f21a23b160a9fec7a692cd2574d7d6405ff7f0cdca/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 493K | [view](../../CERTS/447046563c983fe2d4f25657254fddb91cc90d01ffea9ea1a297337165c70862/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 688K Call Hub Inc. | [view](../../CERTS/c9514ae8afe29c81cba005d0e97ddd87c0588caca1e39a20368d4f872619984d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 388K | [view](../../CERTS/a55b6bf425a1d63b687aa0701c1d0b20fcab7a0dac943f30a890dd0b6f712ae8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 521K | [view](../../CERTS/6a8757a6e06800b00d63f0c91e476564b872813595a42196c59d6a4f2b989b0b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/09deeec067d6dd0f5958333a44bca9cd78883e6b0bc52874deb2b2862d7e58d3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/0b64ced51852047747315cef99c9ba9e55dc0e3bab0f761d2419b5e9ac1f7c51/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/0a71d8f4c8ee755d0c6db6cc0d3a8eff9373a3f813a7b58b3dcf286ee1547bdc/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 056K | [view](../../CERTS/9c73e0f3faa6d35048547cd0825f36ca36fe1465d8caf6002caa87725959ffe5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 053K | [view](../../CERTS/43f559f0cf3afa9ec04cddee021a7c21017e8021c91c5f52193787df85c2b38d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/9fde826dde8e2eb6fe2aaf2926c1f3c110633f97753b85cf5d061cd481e83ff5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/902ca3a6d9f50588d0235138586e3fd68ff395353c23e822a8a59d689f70de68/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 012J | [view](../../CERTS/ff82963bc57794220014bb3051487f3a7b4583c51a5460386a04324ae9110ab0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/704a2952f1a8e1d3f12593b27caaebfefb25de202e7b8cf8f9bc4547a42987a5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IP Link Telecom Inc. 902J | [view](../../CERTS/2ff532f3e54c7f977eacfeaee3e56374a9309bc51eae82adb8d74714ed7920a3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 694K Icon Global Services Ltd | [view](../../CERTS/b62da8c8aab66989c29febe4f191638817405c09f829cf50a2a20b04dfb1885c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 616K | [view](../../CERTS/15189226a8766851977e2f6525936247aa15c3e24b697597a5b8796747c3294e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 563j | [view](../../CERTS/6916a6aa706485c232ff6dd68b4f0d4f81d7485a14e0e3a5ec6ef56499a4fbfd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/5576f30b7ae34ddfe7814c4d36b7113d98edac692fc74452e1494b472fb1172c/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Convoso 758J | [view](../../CERTS/02ab6c36d71b7282bd6120b953c088bc9380eda096e8f1983bedb3d4f4ad5675/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 914H | [view](../../CERTS/3e5b28c818d757aa9d8f852a2fea737a4247b969d0888537c946d957b1155cdd/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN CIMA Telecom, Inc 313K | [view](../../CERTS/2ddd0ab377f59cc3b9302df7990a28c0725e2de89069184ac355d078e49f961b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/14ca2508f869737f531033839f3f2f8a092110813b684d5454b911b6be6fa957/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 880K | [view](../../CERTS/8cbe9168b79121bfedbb520a07dfe7e63a6b885e3d284004697853510520a23f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/5128a9bdcf644581cb20b9dda7a49948b8004bb786140acc4979356bc595913b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 0590 | [view](../../CERTS/10716df7aab521efe57498238265e990e33364396eb3ea92f0001db408663bc8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/e77ace212ed3f1ea51d40bcc52f0232f4721a5dfab71a44e29a4002a1f39262d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Zella Technologies LLC 647K | [view](../../CERTS/975ddb7d0ea6c2f0c448e8c7350a82f5dd8a8a373e64a44dd0d8ba3aaaa6fee6/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 321K | [view](../../CERTS/2bf53dd87885645f0c69e6f317a6a2def1a462852070620f69f3e1fecdc6c46b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DLS Internet Services 815J | [view](../../CERTS/1d8c984b0d3ab44b3d9a54a922fb68275ee344364516cc999be90cae5f4684d1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 617K | [view](../../CERTS/4b9968ba1d005dca86aa3c609e1b488bb9ce901774800b5214209a60231721c0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/9f0e7601bfb70543fba4db15ec33e6668d911fa867122b6702c9f31ef77d74ea/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/51bc87311386046b7c57ab40f7edd09545ce0f0820ec068ebb8336605b166fe0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 203K Connexum LLC | [view](../../CERTS/901fcdbe4946f6c9f2f338dd125112cf748dec475f4052db54963ef4e3c55d1f/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/91e6d46142ff65b679fbe3ed1b3d5ec54eb25335972276f7bab9812227a66c1e/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 3395 | [view](../../CERTS/455d1615e3784fc903164f755adb4848fd2765c5d5135068605c16ece5e520c0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/e9b7c6d97f5a01d4464753ff7ded224d58aa133cefc4cf0614df08acb9543b14/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/a8b3d0dba6a16de9f3fa6fe6b080eb281155826053894f2437fbc8c146baeb2b/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/11f4ee24af001d3531046448a99309e6105b0e151db4397bf271f68b7c8e38ec/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/01dfe0453139d5f9c9b47ae0a2ada17e24dda221d9584b0dd965ce529e68dc40/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN IDT America, Corp 363A | [view](../../CERTS/66928ab1b5c2f8106ac4cbcff636e8a5453ab66ce055dd4887ebc21325c68661/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/4847a86108c3c94e6f553c93bb96b550fd7baf1401edd953a33329e6d7038038/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/140824fd7eb2136a203b1ddde9aed071b9894afe6ce7a7713b9e5a59ed6321b3/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/dd8cb8b5b6992942a123c624ca065ac180f3cc36b593433ff68e1d4cddeb13fb/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/c9395a552e8578ef5b38252813c9420ff4f8e411ba593c0bbc31dd4d871f8bf5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 138K | [view](../../CERTS/3a7a8f94d8a159c2b46e2f365438a79fbdfe60cbef1bb48b873a5f6b1786fdc0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/a7f6438618bf4d4e1da4a774f29ad848b884e86de9d3420e2af996d6a054e1f5/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/52e4eed75e9e34f6f512e2b896db83b1752765b5e7c92250776ca10e7468a4ba/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 195L | [view](../../CERTS/6b9dcf2954bdb9406f3924a5d863cc30bb921d697153c3fd790d4193a0561355/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Mango Voice LLC 579K | [view](../../CERTS/d7f9af95ea9efb4b7c59c63ee65332f8ea18143c19f9366a296f718dfe3ae5ec/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/708c85b488e0dc0abcdfc6d2cb1682f87a20c923e34159826ef909eb67750ed0/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 630J | [view](../../CERTS/1dfffe62a80f8f065a60feac04563396ad79918bde39446a7755f269e3e9a219/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN BareTelecom 864J | [view](../../CERTS/6dc44ad36d87a22a07825bfc29189f6e059af0fe4d2ec8c67f45c7e6a768c967/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Greenfly Networks Inc dba Clearfly Communications 210J | [view](../../CERTS/ad9d3c3a6c91468a5f43646072f620787d965a29a572fa95c234c6be59bfc2be/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN ASIA PACIFIC NETWORK CORPORATION 988J | [view](../../CERTS/307d3fa711dd88be80d794a30ae3979efb5a555bcbbf49511dbff577f4d50d6d/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/b74e9c6a6438de7df8fdf3a7834506dc35167530a4fd32fd276428a37b938d67/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/4b3ef420854f3bf853017f01b97d705dc207cba1df88da7031e75fe69f7d0377/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 899K Snapcom LLC | [view](../../CERTS/c582d5a08cda913a0575c57c72ba785758b6db58ea79534bcb2fb3c5a62b10b7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 214K | [view](../../CERTS/2a37528a715ff03b8f44cb0045fe25f068d55cfaefb0b698efb4e78591187054/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 633J | [view](../../CERTS/e12509734be3aa584820d6a638aa1cbb46c57a2da601ac4918b9449e5d025796/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 324E | [view](../../CERTS/481cbd108b2f3ee7133a67ffb8a94ada8019e44041adf86399dc9c407c1184d7/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 652J | [view](../../CERTS/b6c155f04097b4a9fbd2870159429c4bffe7aa2117476a14cf257134737fb9e1/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 599J Technology Innovation Lab | [view](../../CERTS/49b4e630998d608cc95d3ab406123d07049fb3b79e578e00c5ce2da3695b0264/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN DialedIn 731K | [view](../../CERTS/c468ca5f28fab8b3984f529ef40753aba241a25805697554da1dd9e5eb4f69de/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
+| error | SHAKEN 525K | [view](../../CERTS/ebce41595a52d088bb76fb42451efeadd9867e410c092ec097bcbb1995f28cb8/README.md) | CRL Distribution Point shall contain a CRLIssuer field |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

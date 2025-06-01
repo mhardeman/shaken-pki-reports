@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 916J
+
+Tested At: 01 Jun 25 21:49 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -84 day(s)\
+Subject: CN=SHAKEN 916J, O=Fusion Networks, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/48c90e4a-a2cf-4e37-bd41-4c9bf99d32ac/d04ea4c7d5519e2896d92519375c20e8.pem
+
+[View certificate details](https://x509.io/?cert=MIICzzCCAnWgAwIBAgIQSl5LzTp3K7ohO3yA%2BKi43jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwMzAyMjE0OTM2WhcNMjUwMzA5MjE0OTM1WjA9MQswCQYDVQQGEwJVUzEYMBYGA1UEChMPRnVzaW9uIE5ldHdvcmtzMRQwEgYDVQQDEwtTSEFLRU4gOTE2SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABB2v3TT9IcVVbOOyXozZrmSLqmypB2UHIMuljlSZSH3Kl2cEJned%2B9wupbNm%2FnmUp0bxbdkdZN6tqGGY4AFtOyCjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUOvyMxm8J5mQ0scqqIdr2eXBgkSwwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEOTE2SjAKBggqhkjOPQQDAgNIADBFAiByl7f8n8ykPjj%2BsQ7HdhnRG6TGyx%2FPVu%2FfTYBo7X74lAIhAKFyg3dkarsw15bnp7IViamxqlDytxApH%2B8ttMfgzcns)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 01 Jun 25 21:52 UTC

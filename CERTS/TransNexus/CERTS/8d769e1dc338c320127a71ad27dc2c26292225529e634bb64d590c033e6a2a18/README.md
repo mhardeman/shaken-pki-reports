@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 324K
+
+Tested At: 01 Jun 25 21:44 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -89 day(s)\
+Subject: CN=SHAKEN 324K, O=Complete Computer Solutions, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/abec0c83-e51d-4f69-927f-9ac7d5f33a5e/75d1e6cc118a2f3eacac63ab6be7a32f.pem
+
+[View certificate details](https://x509.io/?cert=MIIC2zCCAoGgAwIBAgIQedHkWWhadvVOk%2FZdu0OecjAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwMjI1MTc0NjM0WhcNMjUwMzA0MTc0NjMzWjBJMQswCQYDVQQGEwJVUzEkMCIGA1UEChMbQ29tcGxldGUgQ29tcHV0ZXIgU29sdXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gMzI0SzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABATnjfHgklN7r%2B9pz9w8TLIrPGeIttEaiwQxtKJKxDae%2FF1vOhn48VX97IH%2FpIctKkEGhPnnV7mHJJXEnhWfNjOjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUz4GvpbHHnHletVQrFJVGeGmWHY4wHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMzI0SzAKBggqhkjOPQQDAgNIADBFAiAyIkYKo%2FleoykfuCXkBGabJo7PJYk0nha62AGplL0wwgIhAICNluno%2FRk7PAMonmo7e4607t9YeJEQmuofbbVrpMaQ)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 01 Jun 25 21:52 UTC

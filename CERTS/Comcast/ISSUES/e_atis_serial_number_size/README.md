@@ -12,41 +12,38 @@ Description: STI certificates shall have a serial number that contains at least 
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN 318J | [view](../../CERTS/49aea36fbfee73862ef5c21e9966d14ea0e23b3455bb29592c0f48e7ba0bf23c/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/d79de41532d2be7ddee01da88ee00a2857179924a519afd362090211c45d1f53/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | SHAKEN 318J | [view](../../CERTS/f15e34fa248cb946896d1f5d0ec4a0da6792664ec3985ed4fbcb319f26b7c278/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/12dcf1a5b032fa0037e6d1184df49b35441d40abf80a13bc25826264d436664b/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/2b314b69e696faa6019f975e44d11ff6c9faca922094040a2ed0e77cadcddc25/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/d4342a26bf246de4a703481b28ee1102df419d3fd2fb6764098aa97851076e37/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/d171be8bb640d1b68aa2468de53cc56dab43d4dc1361c8d733bd205e2b0dbbb3/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/7259a95dd63a3dbd7382e1b8b8205df089475e7309edc75e52b92cbb0abab97b/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/2cca6e9729499867a4cd163639f947102bd0fd538eaf84fc305c1cfbe5957bf7/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/94a8ecbc64ea99bdad388ac35a3435a487b47ae2dc3ee9fdbb8eb8e6375b5c6d/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | SHAKEN 318J | [view](../../CERTS/85d43e88f49e3d93f427a542edd1ea75f569a27d6f4ba0d04f101b92c9c6bdc0/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/572d1ddac5468a8b19e89d8730b0db99308a3b99dae1df43c2f193cd67d16933/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
-| error | SHAKEN 318J | [view](../../CERTS/df19c71644e2911d72db646e57aaa620d117b7c8183c8771b323dbee2956cb71/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/d27f624df30a354c58a821e67006615662d179b51d30c7aba3f748fcaf2d0e6d/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/255e99ac26c069fcb7eac289a1fcefde2d1e20a29457f2066b041fcfab15103b/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/c4f5fa49eb0181eb323b0561ff3759c44cbbb2ecb60508b91c9c35434837c119/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/c511dd9ea9c346d2d9932224a44510e3052393794b441cf348b8de2b337121ff/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/59d04b4782a838fe32db40716704d0ca8a3bf84bc8f7906e64fb984bb648f917/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/ce37efb8d48bcb24fdddb7f7ec185e80d4269c376b2ba68fa8077936998af0a6/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/a1bb9e984f775aef538fb005bb0d0b8c7f1c49a484783a1844f9ca836d9215c9/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/723a4c2b7d3d89e7112b63cc999cabce9af10c88497cdf36ee8d50d379ad06d8/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/c6972417e5b55a5f21927139eafbf8a96f9f1184ee723c4507943cf605a800aa/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
-| error | SHAKEN 318J | [view](../../CERTS/942f229c15165d09a83f96d5b1e54b6c125844cc870b3fb4bc5051b5ad759803/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
-| error | SHAKEN 318J | [view](../../CERTS/dcfb9efda1ed810a85d5090d751db09bfa3f83397d115c454fbe6232f0145c20/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/156730893bd9b8045036512c3cd40721ffeee159e2c312833f3c8fbb5ea3a3eb/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
-| error | SHAKEN 318J | [view](../../CERTS/c4f386c176fb5e17760fa1105585f776711fc4882063e91fef14968c05ba5c96/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | SHAKEN 318J | [view](../../CERTS/0fc4b2708c12cebd9dfc1de32cc5c2b0e394c583497ea3fe267253107c7da3ee/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 59 |
-| error | SHAKEN 318J | [view](../../CERTS/98f85d7cb7ee9aa5dfe7efb49c20aea5c45a54afb911c86f083f7dcffd10bda1/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
-| error | SHAKEN 318J | [view](../../CERTS/0c9682a36a7f55aca73664314021c6d707460962a46e1c1a1e48c1f9f6605d34/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
-| error | SHAKEN 318J | [view](../../CERTS/089839bc1ef1e2977cde7e9ca477fe8c44ea85126bad345297676da98468eb07/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
-| error | SHAKEN 318J | [view](../../CERTS/ef8c68219490a43926e2d9f1e6059d357f3d9dc472646a0c200f9b69a506092c/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/cffbd5f5f23fc76c06af85b46e58b982c1cdf825321a800330197a312de22ab3/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/2d7b0d1230096c0efd5e0ce880da4d78825ff61aa1094d9a02a68b64cedc8dba/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/a1d4f1c3b59263783f1cea608a7de6cd4fcf93a503cf1954034b9fcde9b0e9e9/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/2201739db2f5f989a7f4a4cab3c31307ebd5813fd6472252600923cd4953616c/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/1a147375731c538addb8d159db352024495f8b4fd9fc88ea17e9419487016ae7/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/7cb0a929ccf02283621fd20fd392f4b6b8e209f729097ee979b63fa65cf6dc93/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/fdbad88c364069585d91c1346dbfec1d344e2b2945bf6ae2ba3eeb13565d3537/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/3672479af0ec3e9fc6ff93c25e49afb3191e1dfdf77862a0e9d933452a2c215a/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/ffab69fefce217ff4c096887d48d3778855b898b78756ecc390b542446fe0c5a/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/aa5a8c57d6b052cf61cf105880b62f75609e34b3cb444af61dc68c1d98b8d95b/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/2e363445142eb76c5f44c8b0f3d40df8c761dccaf4fb9698b9c17a2b63750e5e/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/296473a45f0df18b646a7ade22acda669b5bc1a18653929ad10bcf00e2e745d7/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/b8c557a7cb44a98379c8929c618d0db2c4b5018d13cf70c391e3d47c56d302f5/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/ecdad80fc7370ec387bd222a2d79131b8d48d78936c88a9ea2102bb8510ec7d0/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/32e593a0a9bdaabcbe341430b7ea1764afe5759fdd52fdda381bfade46288ca8/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/ee37e65ef31d76a6756555779ade44056b85e4aa0f4716ba7745ab0dafaf4b03/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 61 |
+| error | SHAKEN 318J | [view](../../CERTS/c22212d96be067eec2abe9da116194d5b1254d69b8d545b5cc13cff417ba8b6e/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/cddb06a2ef02bd30ffdbf35fb9a242066217eba86389fbe638779fa51e6712e9/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/7025c070e59506272f6c511f4a3691d7ed795041b6ffc5a5bad884a32101bfa7/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/ee5af57b1ae8058b27dcb3ebb1c3b84ad3b2f0d9ec9c58672328b051188a5912/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/b541479a06e65e6953bcc08eace51479d983aef07b43876aa8b25a550688fd94/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/000e234decbfd2f178398648063ac5e37417709087285f2af0a7f5ac4818ed48/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/23463e18eb075d2c12e39f45bfd97f0840af13bc0470c0d2b7e6aea2faff0422/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/9f73acf34e95c165f47e06ff50bd7bc9a6f53903d821a957c8c935a2c1e2e54d/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+| error | SHAKEN 318J | [view](../../CERTS/a4aa05756cf19ffda86c926763e8910ca0b8e3c00a63ab89b1a376bc5202d05f/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/406c7d391aa38f45f10a119d417fa4a54c2a588dde3a69d188600ec9650c6b35/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 63 |
+| error | SHAKEN 318J | [view](../../CERTS/8f8786bd7946dab1e40f13c55715c09da6dd6ec9cdfa1ae5ea9595c976d479fb/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 56 |
+| error | SHAKEN 318J | [view](../../CERTS/9cf86292bf8261a9d49b41eac3e5eb75e2f61ed6d2bf912d35a7bdf8107fd490/README.md) | STI certificates shall have a serial number that contains at least 64 bits, got 60 |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

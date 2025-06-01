@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ALD Telecom 780J
 
-Tested At: 04 Oct 24 16:08 UTC\
+Tested At: 01 Jun 25 21:46 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 230 day(s)\
+Remaining Validity Period: -10 day(s)\
 Subject: CN=SHAKEN ALD Telecom 780J, OU=ALD_Telecom, O=ALD Telecom, ST=Arizona, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/780J/429C7C70711E3820F0B8E1DEAE6FF32622649D45.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/780J/429C7C70711E3820F0B8E1DEAE6FF32622649D45.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 780J', but common name is 'SHAKEN ALD Telecom 780J' |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

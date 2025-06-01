@@ -2,14 +2,14 @@
 
 ## Syringa Networks
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 67ms average time it took to download each certificate
+- 45ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/f9a476014f036865318edcafd2156667825b4092` | 29&#160;Jul&#160;24&#160;17:16&#160;UTC | true | [view](REPOS/e54ac980657c5f0973a98fb6ccdaf633ad901c4b/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/a29eefd5fda0c02556423cceaea87deb5e9401d9` | 17&#160;Jul&#160;27&#160;14:08&#160;UTC | true | [view](REPOS/e6dd9993fb51be4770c83249e029d745e2b32121/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

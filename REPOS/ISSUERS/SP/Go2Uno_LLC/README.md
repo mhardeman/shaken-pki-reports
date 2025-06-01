@@ -2,14 +2,14 @@
 
 ## Go2Uno LLC
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 114ms average time it took to download each certificate
+- 155ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://go2uno.46labs.com` | 28&#160;Jun&#160;25&#160;01:26&#160;UTC | true | [view](REPOS/c241b578178f75e34f07d8738b3b6b6b0e4f0ecd/README.md) |
+| `https://go2uno.46labs.com/go2uno.pem` | 28&#160;Jun&#160;25&#160;01:26&#160;UTC | true | [view](REPOS/449caecae52a240248d1294abf0940be2f616e1e/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

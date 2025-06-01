@@ -12,18 +12,15 @@ Description: The SPC value in the TNAuthList extension shall contain only number
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | SHAKEN SouthPoint Communications 205k | [view](../../CERTS/c426391e7c14ba62f2e2317e4e6b2cf6b89ac248631ba321d276aabb32c9dc68/README.md) | the SPC value '205k' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/ad2c53f8babb8cedb1b62bd9ff5f1daae244e3ac70d6e59ce873493856803f07/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/2215dd5c98b1a8e4ba64083a71174a475e68f34324d1a39113c76a759663a77c/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/8c06057286de1eaea0bc2679df21968e8c57a52845265095dbc45e246d150fef/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/412781039d3611efe205c0be9c99a43029f6a842812ddad54cb554afa1aa3225/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/0095b29170325b74ea27e6e0cb1a022c6059c8c67cd2edba86433c29c528026b/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
-| error | SHAKEN Broadband Dynamics LLC 583j | [view](../../CERTS/02c4ce9cf4dc82e32824fad2a5838b26279caa4b63db74fd1c40dabca7b9251b/README.md) | the SPC value '583j' contains characters other than uppercase letters and numbers |
-| error | SHAKEN KW Corporation, inc. 206k | [view](../../CERTS/b6441dfbf4073cb729806ab15547ac613968b2235ed989b9ae02c05d16aa1807/README.md) | the SPC value '206k' contains characters other than uppercase letters and numbers |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/da9a1431330a6d00365721a3e01b9a5a77cc73e0173b8a80bb023957dd8d435a/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/d22f1b82019451def20ebd923734fafdee06f43b541b995875bf24db610365c6/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/ccfdbcfc180c69687b51f8e60de09ba9c045ff814534e650b94a9ed60ab8d5ed/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
+| error | SHAKEN 563j | [view](../../CERTS/6916a6aa706485c232ff6dd68b4f0d4f81d7485a14e0e3a5ec6ef56499a4fbfd/README.md) | the SPC value '563j' contains characters other than uppercase letters and numbers |
+| error | SHAKEN Socket Telecom LLC 554a | [view](../../CERTS/b74e9c6a6438de7df8fdf3a7834506dc35167530a4fd32fd276428a37b938d67/README.md) | the SPC value '554a' contains characters other than uppercase letters and numbers |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

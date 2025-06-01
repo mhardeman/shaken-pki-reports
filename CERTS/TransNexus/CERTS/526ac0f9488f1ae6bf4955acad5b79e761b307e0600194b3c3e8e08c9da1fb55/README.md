@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 1577
+
+Tested At: 01 Jun 25 21:46 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -47 day(s)\
+Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/5e573b0a-6141-441b-bedb-f350aa71625f/5eb92ed31a1d2c653a92d559b94500f1.pem
+
+[View certificate details](https://x509.io/?cert=MIIC2jCCAoGgAwIBAgIQXPToi%2BR3r4%2Ftxar4rRdPKDAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwNDA4MTkzNjMxWhcNMjUwNDE1MTkzNjMwWjBJMQswCQYDVQQGEwJVUzEkMCIGA1UEChMbR3JlYXQgUGxhaW5zIENvbW11bmljYXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gMTU3NzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFRQUMbMbYwqJ1DgtWj%2F9jEuToNoq1z4AE6VP1X9Ik5Pf2nw6NNtzEemBsB3DHAATrb%2Bfh06dzhe0eLwKJnW1UmjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUVMpq%2Bd9r15etnW3w77tejoiYDtUwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYEMTU3NzAKBggqhkjOPQQDAgNHADBEAiBy7drqOm9Momvwc4MMEH1WHJPw686iNxJ8jl2SZPhZ4wIgdgfzN87gnbaZk%2BmSPfhwtg8zkt%2Bpuju7zhecAfSretA%3D)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 01 Jun 25 21:52 UTC

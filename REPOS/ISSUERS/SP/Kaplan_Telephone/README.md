@@ -2,14 +2,14 @@
 
 ## Kaplan Telephone
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 73ms average time it took to download each certificate
+- 54ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/c57d0a622b6d80dae91a7391b608bcf4c3d88f74` | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](REPOS/850bc969c2754dea6cddcd00ee875cbefb3e0e10/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/e8a30914a93822abe2262f6ffedfadd7837edc3e` | 03&#160;Mar&#160;28&#160;12:35&#160;UTC | true | [view](REPOS/ceb00f1dbfd4e6d5c7902ac37e2950b7ff59e6af/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate Eatel SHAKEN Cert 8839
 
-Tested At: 04 Oct 24 15:31 UTC\
+Tested At: 01 Jun 25 21:44 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 538 day(s)\
+Remaining Validity Period: 298 day(s)\
 Subject: CN=Eatel SHAKEN Cert 8839, O=Eatel, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/3dc4ef07987f8fb0892c9b426513c57173ed8c3e
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/3dc4ef07987f8fb0892c9b426513c57173ed8c3
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

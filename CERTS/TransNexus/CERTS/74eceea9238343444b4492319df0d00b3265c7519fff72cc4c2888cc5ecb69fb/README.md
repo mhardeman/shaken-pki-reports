@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 738J
+
+Tested At: 01 Jun 25 21:40 UTC\
+Initial Validity Period: 9 day(s)\
+Remaining Validity Period: -57 day(s)\
+Subject: CN=SHAKEN 738J, O=SkySwitch, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.transnexus.com/738J/65eddf91-f4e9-4ea3-bb0e-3c148915cc62.pem
+
+[View certificate details](https://x509.io/?cert=MIICyTCCAm%2BgAwIBAgIQfsjt3Mfin0xbRSeHjxmy9zAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwMzI2MjIwNzA0WhcNMjUwNDA0MjIwNzAzWjA3MQswCQYDVQQGEwJVUzESMBAGA1UEChMJU2t5U3dpdGNoMRQwEgYDVQQDEwtTSEFLRU4gNzM4SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDDCaeni9WHqskoo1rCURUpufstcIIIyibhMHjlOmCUZbCpRHvNMtMvxZ56bqFgXnNKvBQFvse2T42G9qGe%2BaqyjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUAfunEByaqobqk%2FLaAUpeuiFM4IgwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENzM4SjAKBggqhkjOPQQDAgNIADBFAiEAmkACmu3hlZvlgmuAGh18CRpf9K%2F5Y0MalmTEPiFIAQICIHTcjI%2BzqIY6llxipdxmHYmWPqoNRuj%2FoDOBTBg52k7V)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 01 Jun 25 21:52 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 698K
 
-Tested At: 04 Oct 24 15:50 UTC\
+Tested At: 01 Jun 25 21:42 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 201 day(s)\
+Remaining Validity Period: -40 day(s)\
 Subject: serialNumber=FA9A3885-2577-4A40-9411-FEC00843B7C4, CN=SHAKEN 698K, O=Vitel Global Communications LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/24/b4d1a480.crt
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/b4d1a480.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

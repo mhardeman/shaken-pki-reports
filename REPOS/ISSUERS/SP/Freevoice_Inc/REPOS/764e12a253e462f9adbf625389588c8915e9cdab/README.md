@@ -3,8 +3,8 @@
 ## Freevoice Inc
 
 Name: `https://freevoiceusa.com/963J_24`\
-Tested At: 04 Oct 24 16:16 UTC\
-Time: 228ms
+Tested At: 01 Jun 25 21:47 UTC\
+Time: 274ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 228ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

@@ -1,0 +1,20 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 318J
+
+Tested At: 01 Jun 25 21:43 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -9 day(s)\
+Subject: CN=SHAKEN 318J, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
+Issuer: CN=Comcast SHAKEN Intermediate CA, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
+Link: https://sticr.stir.comcast.com/85417075-2a22-4ef9-8311-4d807586186b.pem
+
+[View certificate details](https://x509.io/?cert=MIICqjCCAlGgAwIBAgIIP%2F4BvcaIGvswCgYIKoZIzj0EAwIwdjELMAkGA1UEBhMCVVMxFTATBgNVBAgTDFBlbm5zeWx2YW5pYTEVMBMGA1UEBxMMUGhpbGFkZWxwaGlhMRAwDgYDVQQKEwdDb21jYXN0MScwJQYDVQQDEx5Db21jYXN0IFNIQUtFTiBJbnRlcm1lZGlhdGUgQ0EwHhcNMjUwNDIzMDg1NjQ0WhcNMjUwNTIzMDg1NjQ0WjBjMQswCQYDVQQGEwJVUzEVMBMGA1UECBMMUGVubnN5bHZhbmlhMRUwEwYDVQQHEwxQaGlsYWRlbHBoaWExEDAOBgNVBAoTB0NvbWNhc3QxFDASBgNVBAMTC1NIQUtFTiAzMThKMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFrWvPgLrzxcl69kv1rAAF1fFGRr59MciIZqgrytMCJ72soMmFmvjUrXMs%2B7qx6PBXAPyXe4xJ%2BbqdlG5GnBUUaOB2zCB2DAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH%2FBAIwADAdBgNVHQ4EFgQUlgY8Hg0RqgBrSEJu%2FioCDz03%2FrEwHwYDVR0jBBgwFoAU64mTb7rIbYlz7nBF2qD7W9Q5IiEwRwYDVR0fBEAwPjA8oDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsMBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBBDAWBggrBgEFBQcBGgQKMAigBhYEMzE4SjAKBggqhkjOPQQDAgNHADBEAiBpZHJnYA4yNXh6eRHgJOB9liY%2FKaP7z1Di3dIpHqMqgwIgHwo3qRcHzs94fX07G9SSFQfVAepp%2F8zNRkk8YJvIFV4%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 62 |
+
+
+Generated: 01 Jun 25 21:52 UTC

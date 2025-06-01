@@ -3,8 +3,8 @@
 ## Peeringhub
 
 Name: `https://certificates.peeringhub.io/727K/qjDisELB/727K.crt`\
-Tested At: 04 Oct 24 15:48 UTC\
-Time: 145ms
+Tested At: 01 Jun 25 21:49 UTC\
+Time: 226ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 145ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

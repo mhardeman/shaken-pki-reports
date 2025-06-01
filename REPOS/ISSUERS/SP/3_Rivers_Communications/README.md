@@ -2,14 +2,14 @@
 
 ## 3 Rivers Communications
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 74ms average time it took to download each certificate
+- 348ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn-cr.cgah.tnsi.com/certs/3f3c33b7470f849766844b4a9a3ccc61f15c944a` | 02&#160;May&#160;26&#160;16:53&#160;UTC | true | [view](REPOS/5a4650b1a4a1dec3ff3b7905b58fa0988df7b1df/README.md) |
+| `https://cdn-cr.cgah.tnsi.com/certs/b88b96ada796369ea38b5f4a4d83851f50560e74` | 02&#160;May&#160;26&#160;16:53&#160;UTC | true | [view](REPOS/e37dbb1942652e8ebd88b6d9398660a3e5dce957/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC

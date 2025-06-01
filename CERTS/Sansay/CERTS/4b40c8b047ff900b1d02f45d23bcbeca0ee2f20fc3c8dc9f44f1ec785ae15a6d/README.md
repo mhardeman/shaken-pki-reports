@@ -1,0 +1,20 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN DialedIn 731K
+
+Tested At: 01 Jun 25 21:45 UTC\
+Initial Validity Period: 30 day(s)\
+Remaining Validity Period: -56 day(s)\
+Subject: CN=SHAKEN DialedIn 731K, O=DialedIn, ST=Florida, C=US\
+Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
+Link: https://cr.sansay.com/731K/429C7C70711E3820F0B8E1DEAE6FF3262264C21F.pem
+
+[View certificate details](https://x509.io/?cert=MIICtjCCAlugAwIBAgIUQpx8cHEeOCDwuOHerm%2FzJiJkwh8wCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRswGQYDVQQKDBJTYW5zYXkgQ29ycG9yYXRpb24xEjAQBgNVBAsMCVNhbnNheSBDQTEwMC4GA1UEAwwnU0hBS0VOIFNhbnNheSBJbnRlcm1lZGlhdGUgQ0EgVVMgV0VTVCAxMB4XDTI1MDMwNzE4MDk1MFoXDTI1MDQwNjE4MDk1MFowUTELMAkGA1UEBhMCVVMxEDAOBgNVBAgMB0Zsb3JpZGExETAPBgNVBAoMCERpYWxlZEluMR0wGwYDVQQDDBRTSEFLRU4gRGlhbGVkSW4gNzMxSzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABA8FjRr89nH5nsPQubM9YrXoVYbX65wVEjLcK5SP0ctknHv2gHo54mDoxmoTP8lnym%2BrizZ%2FZu7N04hJ2K2LWR%2BjgdswgdgwFgYIKwYBBQUHARoECjAIoAYWBDczMUswFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMB0GA1UdDgQWBBQVR%2BpWUoJT19KZtkbbPLwa3nx0PTAfBgNVHSMEGDAWgBSs05P1Q0PMCr5FWBcTfZJ83MMBRjBHBgNVHR8EQDA%2BMDygOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmwwDAYDVR0TAQH%2FBAIwADAOBgNVHQ8BAf8EBAMCB4AwCgYIKoZIzj0EAwIDSQAwRgIhAOGGLEDg8XLG66e1oQzw1Qc63NEjw2H4oTqjdFIUZN3lAiEAnhnyHwmnm0hxlUhvZAt0q%2F4H9h%2FjqMv%2FrVcVS9ChYQk%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 731K', but common name is 'SHAKEN DialedIn 731K' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+
+
+Generated: 01 Jun 25 21:52 UTC

@@ -1,0 +1,17 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 660C
+
+Tested At: 01 Jun 25 21:45 UTC\
+Initial Validity Period: 7 day(s)\
+Remaining Validity Period: -36 day(s)\
+Subject: CN=SHAKEN 660C, O=Hunter Communications, C=US\
+Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
+Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/4c606a81b802b19e0a1a44778118fee1.pem
+
+[View certificate details](https://x509.io/?cert=MIIC1TCCAnugAwIBAgIQXo%2FVPpAgTbwrZ9R9MAjk1jAKBggqhkjOPQQDAjBWMQswCQYDVQQGEwJVUzEZMBcGA1UEChMQVHJhbnNOZXh1cywgSW5jLjEsMCoGA1UEAxMjVHJhbnNOZXh1cywgSW5jLiBTSEFLRU4gSXNzdWluZyBDQTUwHhcNMjUwNDE5MTgyNTI2WhcNMjUwNDI2MTgyNTI1WjBDMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVSHVudGVyIENvbW11bmljYXRpb25zMRQwEgYDVQQDEwtTSEFLRU4gNjYwQzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMbnzsrPLAPoMwkMwkOepKgFQahpmwvikwcGuNcJoMWSQ4orE3LE64jcRdmSeu2%2BuMz1yEforLkKLwxssDC4LpqjggE8MIIBODAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB%2FwQEAwIHgDAdBgNVHQ4EFgQUU%2FdohfGzyTslJGNwzLHPSVjrlUUwHwYDVR0jBBgwFoAU2gCzh%2FiCP7%2B6IqJkY7X2L8yOdcowFwYDVR0gBBAwDjAMBgpghkgBhv8JAQEEMIGmBgNVHR8EgZ4wgZswgZigOqA4hjZodHRwczovL2F1dGhlbnRpY2F0ZS1hcGkuaWNvbmVjdGl2LmNvbS9kb3dubG9hZC92MS9jcmyiWqRYMFYxFDASBgNVBAcMC0JyaWRnZXdhdGVyMQswCQYDVQQIDAJOSjETMBEGA1UEAwwKU1RJLVBBIENSTDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBlNUSS1QQTAWBggrBgEFBQcBGgQKMAigBhYENjYwQzAKBggqhkjOPQQDAgNIADBFAiEAttXgz8i5zF0jLEypJokgZKPj16R7EJcpJZLjXKFDaQoCICWpQVZKtMoZRjPYMkawpQ4M4kNwglj4KsQMz%2FDzvro%2F)
+
+164 tests were ran and no error, warning, or notice level issues were found
+
+
+Generated: 01 Jun 25 21:52 UTC

@@ -2,14 +2,14 @@
 
 ## Simwood Inc
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 75ms average time it took to download each certificate
+- 177ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn.simwood.com/shaken/simwood_2023.crt` | 17&#160;Oct&#160;24&#160;17:32&#160;UTC | true | [view](REPOS/1300f8c8ebda89e20dc2139b72ac6cb32ac94bdd/README.md) |
+| `https://cdn.simwood.com/shaken/simwood.crt` | 04&#160;Oct&#160;25&#160;15:08&#160;UTC | true | [view](REPOS/808e29a87f66ccc9c571c3435c614547e4041dc4/README.md) |
 
 
-Generated: 04 Oct 24 16:29 UTC
+Generated: 01 Jun 25 21:52 UTC
