@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
-	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
+	"github.com/mhardeman/shaken-pki-reports/cmd/internal"
+	uLint "github.com/mhardeman/shaken-pki-reports/lint"
 	"github.com/zmap/zlint/v3/lint"
 )
 
