@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 241L
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 331 day(s)\
 Subject: serialNumber=11D3633B-DEC4-4E04-B7C3-7A845007E5AF, CN=SHAKEN 241L, O=BF Communications Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/2H2gpNwN.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

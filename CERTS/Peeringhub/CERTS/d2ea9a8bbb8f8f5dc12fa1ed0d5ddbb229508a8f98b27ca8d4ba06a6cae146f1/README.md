@@ -2,7 +2,7 @@
 
 ## Certificate beltalk solutions LLC_1747253421716 SHAKEN 745K
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 34 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=beltalk solutions LLC_1747253421716 SHAKEN 745K, O=beltalk, L=Sheridan, ST=WY, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/745K/CFHznOHy/745K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate allaccesstelecom.com
 
-Tested At: 01 Jun 25 21:44 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 364 day(s)\
 Remaining Validity Period: 85 day(s)\
 Subject: CN=allaccesstelecom.com, OU=VOIP, O=All Access Telecom Inc., ST=TX, C=US\
@@ -18,4 +18,4 @@ Link: https://q2c.allaccesstelecom.com/static/855K-cert.pem
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'allaccesstelecom.com' does not contain 'SHAKEN' |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

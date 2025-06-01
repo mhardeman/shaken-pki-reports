@@ -2,7 +2,7 @@
 
 ## Certificate Wavecall LLC_1718137942094 SHAKEN 939K
 
-Tested At: 01 Jun 25 21:41 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 10 day(s)\
 Subject: CN=Wavecall LLC_1718137942094 SHAKEN 939K, O=Wavecall LLC, L=Dover, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/939K/OEwhmbDj/939K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

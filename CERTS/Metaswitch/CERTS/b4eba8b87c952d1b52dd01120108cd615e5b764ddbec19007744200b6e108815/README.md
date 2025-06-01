@@ -2,7 +2,7 @@
 
 ## Certificate Mid-Rivers Telephone Coop SHAKEN 2246
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 886 day(s)\
 Subject: CN=Mid-Rivers Telephone Coop SHAKEN 2246, O=Mid-Rivers Telephone Coop, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/140cb0f2a2c837ef48ff430ab29e4b24599743d
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 222ms average time it took to download each certificate
+- 211ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://shaken-9171-5573-quebec-inc.s3.us-east-2.amazonaws.com/pubKeys/4722b9c5.crt` | 24&#160;Oct&#160;25&#160;19:27&#160;UTC | true | [view](REPOS/1cadec58997a32abe4d61bef2dc96bcced32c72b/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

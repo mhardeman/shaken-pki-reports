@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 177K
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -39 day(s)\
+Remaining Validity Period: -40 day(s)\
 Subject: CN=SHAKEN 177K, O=Cytracom\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/94c57d4fea5af980d0cb2fc5c41da21c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/8d118994-4994-4735-ac71-42c0bbb7848f/94c5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

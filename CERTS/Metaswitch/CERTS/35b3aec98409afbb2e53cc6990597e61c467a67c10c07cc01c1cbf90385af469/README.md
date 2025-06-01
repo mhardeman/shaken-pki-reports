@@ -2,7 +2,7 @@
 
 ## Certificate Lemonweir Valley Telephone Company SHAKEN Cert 0900
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 321 day(s)\
 Subject: CN=Lemonweir Valley Telephone Company SHAKEN Cert 0900, O=Lemonweir Valley Telephone Company, C=US\
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/a9a2447c07d34796f48eba3c111c847c9367595
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0900', but common name is 'Lemonweir Valley Telephone Company SHAKEN Cert 0900' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

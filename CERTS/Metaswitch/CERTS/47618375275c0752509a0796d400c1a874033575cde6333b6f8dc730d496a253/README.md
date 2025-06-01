@@ -2,7 +2,7 @@
 
 ## Certificate Consolidated Telcom ND SHAKEN Cert 7008
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 286 day(s)\
 Subject: CN=Consolidated Telcom ND SHAKEN Cert 7008, O=Consolidated Telcom ND, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/b6611ffc50b1fd72c8f64e468c93c1d5eea181e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

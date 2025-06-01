@@ -3,8 +3,8 @@
 ## Eugene Perkins Group LLP
 
 Name: `https://certs.telonium.net/25/cf428f5d.crt`\
-Tested At: 01 Jun 25 21:49 UTC\
-Time: 64ms
+Tested At: 01 Jun 25 22:38 UTC\
+Time: 39ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 64ms
 |------|------|--------|---------|
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

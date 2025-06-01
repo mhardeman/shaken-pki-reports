@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 324E
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 265 day(s)\
 Subject: CN=SHAKEN 324E, O=MagicJack, C=US\
@@ -16,4 +16,4 @@ Link: https://sns.magicjack.com/Magicjack_2602_324E.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

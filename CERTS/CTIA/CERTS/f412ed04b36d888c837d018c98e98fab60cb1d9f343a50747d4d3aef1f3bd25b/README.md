@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5807
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 247 day(s)\
 Subject: serialNumber=1, CN=SHAKEN 5807, O=Verizon Data Services LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://sti.verizon.com/vzwcert/vzshakenG-01-2026.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

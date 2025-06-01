@@ -2,7 +2,7 @@
 
 ## Certificate VoyageNetworks_1728672609930 SHAKEN 006L
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 132 day(s)\
 Subject: CN=VoyageNetworks_1728672609930 SHAKEN 006L, O=VoyageNetworks, L=HOUSTON, ST=TX, C=US\
@@ -14,4 +14,4 @@ Link: https://voipedia.peeredge.com/cert/vTIeUNV1.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

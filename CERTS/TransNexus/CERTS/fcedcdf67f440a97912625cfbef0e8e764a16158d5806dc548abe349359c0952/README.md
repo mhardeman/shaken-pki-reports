@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 602D
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -23 day(s)\
 Subject: CN=SHAKEN 602D, O=Rise Broadband, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f942af1d-919f-4965-9597-9e5072098176/196b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

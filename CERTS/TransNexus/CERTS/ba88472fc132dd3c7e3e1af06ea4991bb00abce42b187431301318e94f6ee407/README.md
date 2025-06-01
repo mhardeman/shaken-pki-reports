@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 98 day(s)\
 Subject: CN=SHAKEN 4036, O=ATT, C=US\
@@ -14,4 +14,4 @@ Link: https://cert.sticr.att.net:8443/certs/att/38ee3b4b-2902-40e8-aa31-e986de9e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

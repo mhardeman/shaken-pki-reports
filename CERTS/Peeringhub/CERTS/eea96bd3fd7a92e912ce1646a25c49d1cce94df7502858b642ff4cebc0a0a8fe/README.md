@@ -2,7 +2,7 @@
 
 ## Certificate Fullnet Advanced Communications Inc_1746461689005 SHAKEN 068F
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 338 day(s)\
 Subject: CN=Fullnet Advanced Communications Inc_1746461689005 SHAKEN 068F, O=Fullnet Advanced Communications Inc, L=Jasper, ST=IN, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/068F/R9BZLjdJ/068F.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

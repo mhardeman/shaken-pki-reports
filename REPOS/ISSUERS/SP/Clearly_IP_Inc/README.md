@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 223ms average time it took to download each certificate
+- 123ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://r.stir.tel/704J/250318171201Z/cert.pem` | 18&#160;Mar&#160;25&#160;17:12&#160;UTC | true | [view](REPOS/8dd33e78c6800e01a7ce229c61a3e85a612da056/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

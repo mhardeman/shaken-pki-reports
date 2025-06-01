@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 161K
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 145 day(s)\
 Subject: serialNumber=1DD367B0-A977-4A47-8017-53C2A59F1A0E, CN=SHAKEN 161K, O=9171-5573 Quebec Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://shaken-9171-5573-quebec-inc.s3.us-east-2.amazonaws.com/pubKeys/472
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -3,8 +3,8 @@
 ## ATT
 
 Name: `https://cert.sticr.att.net:8443/certs/att/38ee3b4b-2902-40e8-aa31-e986de9e17ac`\
-Tested At: 01 Jun 25 21:48 UTC\
-Time: 342ms
+Tested At: 01 Jun 25 22:37 UTC\
+Time: 371ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 342ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

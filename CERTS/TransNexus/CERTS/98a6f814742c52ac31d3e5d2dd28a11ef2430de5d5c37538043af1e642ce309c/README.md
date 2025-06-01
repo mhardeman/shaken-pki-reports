@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 663G
 
-Tested At: 01 Jun 25 21:41 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -74 day(s)\
 Subject: CN=SHAKEN 663G, O=Andrew Ward Consulting LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/6723ee74-0a05-49fc-821e-8d17e4205f76/2344
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

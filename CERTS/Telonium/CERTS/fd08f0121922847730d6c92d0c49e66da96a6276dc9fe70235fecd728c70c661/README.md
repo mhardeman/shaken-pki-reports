@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 033L
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 209 day(s)\
 Subject: serialNumber=1560A3FB-872F-4ECD-AF32-7CC07F782261, CN=SHAKEN 033L, O=Globilinks Cloud Services LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/6f1f4c50.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

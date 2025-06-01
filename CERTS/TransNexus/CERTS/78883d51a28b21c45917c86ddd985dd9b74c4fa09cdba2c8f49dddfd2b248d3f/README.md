@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 361H
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 361H, O=Atlantech Online, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/361H/b99e0a8f-2b7f-42e4-b31d-a0d420d29
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 495J
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -5 day(s)\
+Remaining Validity Period: -6 day(s)\
 Subject: CN=SHAKEN 495J, O=Stratus, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/a9f8fb818efbf3f8f9b21a28f9ba9e05.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/a9f8
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

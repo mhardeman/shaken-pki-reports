@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 141L
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 278 day(s)\
 Subject: serialNumber=162A3989-8C1C-4AF6-9A65-F0A1CBB8077C, CN=SHAKEN 141L, O=Eugene Perkins Group LLP, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/25/cf428f5d.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

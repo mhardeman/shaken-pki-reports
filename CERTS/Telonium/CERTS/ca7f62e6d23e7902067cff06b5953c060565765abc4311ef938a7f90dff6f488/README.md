@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 755J
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 381 day(s)\
 Remaining Validity Period: 21 day(s)\
 Subject: serialNumber=5452c62c-a110-442b-a6be-79d1941fa067, CN=SHAKEN 755J, O=CMSInter.net LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/da9f839e.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

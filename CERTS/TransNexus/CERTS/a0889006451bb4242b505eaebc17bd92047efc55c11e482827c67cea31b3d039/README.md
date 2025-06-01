@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 034K
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -37 day(s)\
 Subject: CN=SHAKEN 034K, O=Miron Enterprises LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/752ccfc5-e1bb-471c-9502-53983fe453a5/4b3b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

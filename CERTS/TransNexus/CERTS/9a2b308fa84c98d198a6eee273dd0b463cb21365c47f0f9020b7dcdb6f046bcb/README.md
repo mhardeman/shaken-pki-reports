@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 793J
 
-Tested At: 01 Jun 25 21:44 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 793J, O=UniTel Voice, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/45c216c2-fbb9-4f33-a3cf-6a64aad19357/0e11
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 133ms average time it took to download each certificate
+- 197ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://eon.peeredge.com/cert/29L4LZxt.pem` | 23&#160;Apr&#160;25&#160;20:32&#160;UTC | true | [view](REPOS/77baac03038d8218ea07379ca803616ef7c0ca45/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

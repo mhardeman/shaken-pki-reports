@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 205ms average time it took to download each certificate
+- 176ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sti.comsapi.com/773j/ca.crt` | 28&#160;May&#160;26&#160;16:10&#160;UTC | true | [view](REPOS/57542ce09da9231260f4f1504ec72a5046a8efd6/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

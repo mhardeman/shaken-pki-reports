@@ -11,19 +11,19 @@
 
 - 905 certificates were included in the corpus being tested
 - 0 certificates in the corpus were skipped because they are duplicates
-- 833 certificates in the corpus were skipped because they are expired
+- 837 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 72 certificates being tested against the remaining rules
+- 68 certificates being tested against the remaining rules
 - 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 99 days is the average remaining validity for the certificates in the corpus
-- 99 days is the average initial validity for the certificates in the corpus
-- 52 certificates expire in the next 30 days
+- 104 days is the average remaining validity for the certificates in the corpus
+- 104 days is the average initial validity for the certificates in the corpus
+- 48 certificates expire in the next 30 days
 - 1.26 average number of unexpired certificates per OCN observed
-- 57 unique OCNs observed in unexpired and valid certificate corpus
+- 54 unique OCNs observed in unexpired and valid certificate corpus
 
 No error, warning, or notice level issues were found
 
@@ -83,10 +83,6 @@ No error, warning, or notice level issues were found
 | 21&#160;May&#160;25&#160;03:34&#160;UTC | SHAKEN 551G | 20&#160;Jun&#160;25&#160;03:34&#160;UTC | false | [view](CERTS/26df362ec6f5c52fbc20db397d893181477d68123af02d64aec94c3a704ee174/README.md) |
 | 23&#160;May&#160;25&#160;23:04&#160;UTC | SHAKEN 4632 | 22&#160;Jun&#160;25&#160;23:04&#160;UTC | false | [view](CERTS/c070d44cc047bf006006967aaf5709256af2811def4888c6b56765f6f93b8d4d/README.md) |
 | 24&#160;May&#160;25&#160;07:55&#160;UTC | SHAKEN 345J | 23&#160;Jun&#160;25&#160;07:55&#160;UTC | false | [view](CERTS/e6c7baf405f53de64203872ed8a97611dccb824132fa82a9aeb67ccf70f71c68/README.md) |
-| 25&#160;May&#160;25&#160;21:54&#160;UTC | SHAKEN 819H | 01&#160;Jun&#160;25&#160;21:54&#160;UTC | false | [view](CERTS/bf78b96bf87835b5a8ee0f5a8c993296fe699d9b6a042f10a21dc43821b8b8f0/README.md) |
-| 25&#160;May&#160;25&#160;22:05&#160;UTC | SHAKEN 790J | 01&#160;Jun&#160;25&#160;22:05&#160;UTC | false | [view](CERTS/ef9f80248c269cdb416047decdc01a37ae53089faf592376bf0be96860329f75/README.md) |
-| 25&#160;May&#160;25&#160;22:12&#160;UTC | SHAKEN 672B | 01&#160;Jun&#160;25&#160;22:12&#160;UTC | false | [view](CERTS/1edfd7754dadea91e7fe26870638a31690ae0c232e0828d239240b090068ba9b/README.md) |
-| 25&#160;May&#160;25&#160;22:13&#160;UTC | SHAKEN 4156 | 01&#160;Jun&#160;25&#160;22:13&#160;UTC | false | [view](CERTS/76c2e274a301f2a82d416b1945027ebb3bde66cca96d3476f4494fdcb9b10c9c/README.md) |
 | 26&#160;May&#160;25&#160;12:24&#160;UTC | SHAKEN 841J | 09&#160;Jun&#160;25&#160;12:24&#160;UTC | false | [view](CERTS/33c327b8ebb656eab21c21dbbcebc34dfa82a580e64dc87ebb62ce1e0f11e93a/README.md) |
 | 26&#160;May&#160;25&#160;14:53&#160;UTC | SHAKEN 912K | 02&#160;Jun&#160;25&#160;14:53&#160;UTC | false | [view](CERTS/435eb7b6f23af39828ef2cd35b33b9928f53d7896625fdf358c3c545bec97d4c/README.md) |
 | 26&#160;May&#160;25&#160;14:57&#160;UTC | SHAKEN 107K | 02&#160;Jun&#160;25&#160;14:57&#160;UTC | false | [view](CERTS/486ae8a3fe67ccf42f55657260adcacd998c53663e46befe1c00d2fb7d75d70e/README.md) |
@@ -133,4 +129,4 @@ No error, warning, or notice level issues were found
 | 21&#160;Mar&#160;24&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Issuing CA5 | 20&#160;Mar&#160;34&#160;23:59&#160;UTC | false | [view](CERTS/cd50eeb8c083af686a49964a10b030048b800530edbeee8f0991388c3a79e75a/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

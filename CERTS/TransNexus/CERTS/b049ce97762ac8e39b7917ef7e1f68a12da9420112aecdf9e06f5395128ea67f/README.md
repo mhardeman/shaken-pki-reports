@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 786J
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 786J, O=CallShaper LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/786J/2932ccd6-7725-4135-96c0-d7035a22e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

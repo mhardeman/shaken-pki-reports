@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IP Link Telecom Inc. 902J
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 215 day(s)\
 Subject: CN=SHAKEN IP Link Telecom Inc. 902J, O=IP Link Telecom Inc., ST=Oregon, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/902J/429C7C70711E3820F0B8E1DEAE6FF3262264B92D.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Telcast Networks_1719335648799 SHAKEN 611J
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 24 day(s)\
 Subject: CN=Telcast Networks_1719335648799 SHAKEN 611J, O=Telcast Networks, L=Dover, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/724dcfb47a877f9ba8cf306376dfde026b11b227
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

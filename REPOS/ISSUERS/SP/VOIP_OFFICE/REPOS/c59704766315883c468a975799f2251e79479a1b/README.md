@@ -3,8 +3,8 @@
 ## VOIP OFFICE
 
 Name: `https://voucs.voipoffice.com/stirshaken/389K.chain.crt.pem`\
-Tested At: 01 Jun 25 21:46 UTC\
-Time: 757ms
+Tested At: 01 Jun 25 22:35 UTC\
+Time: 639ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 757ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

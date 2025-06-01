@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 927K
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -41 day(s)\
 Subject: CN=SHAKEN 927K, O=T3 Communications Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0d0adb4d-3f70-4f16-a3a8-979354ca2764/415e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

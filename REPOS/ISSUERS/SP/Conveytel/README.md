@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 146ms average time it took to download each certificate
+- 219ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://conveytel.peeredge.com/cert/z6wOuJ8R.pem` | 12&#160;Jun&#160;25&#160;17:13&#160;UTC | true | [view](REPOS/a3b942675a9e5592f81e71b579e5be6db4beed31/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

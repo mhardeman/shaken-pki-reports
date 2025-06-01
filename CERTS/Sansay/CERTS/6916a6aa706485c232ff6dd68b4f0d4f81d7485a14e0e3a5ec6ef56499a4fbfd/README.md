@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 563j
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN 563j, O=Threshold Communications Inc, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/563j/429C7C70711E3820F0B8E1DEAE6FF3262264CB73.pem
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '563j' contains characters other than uppercase letters and numbers |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

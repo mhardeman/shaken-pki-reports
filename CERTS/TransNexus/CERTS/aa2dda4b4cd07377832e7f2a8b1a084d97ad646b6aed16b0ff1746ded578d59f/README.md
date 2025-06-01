@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738K
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -46 day(s)\
 Subject: CN=SHAKEN 738K, O=Skytel Digicom\\ , C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/dbc3fe51-97bc-4b64-b9c3-6460f0ca4730/bb03
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

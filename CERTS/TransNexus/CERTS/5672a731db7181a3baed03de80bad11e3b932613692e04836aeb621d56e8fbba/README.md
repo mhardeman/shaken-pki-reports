@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 663G
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -64 day(s)\
+Remaining Validity Period: -65 day(s)\
 Subject: CN=SHAKEN 663G, O=Andrew Ward Consulting LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/130d8785-08a5-428a-9734-e37a9f3641a6/694d391cd9ed1576ca10cdb3a6cbaeb2.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/130d8785-08a5-428a-9734-e37a9f3641a6/694d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

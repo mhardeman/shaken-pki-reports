@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 749J
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 749J, O=iTalkGlobal, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d7bfa171-ff4f-483d-849b-3f987c919d43/3d62
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -3,8 +3,8 @@
 ## Comcast
 
 Name: `https://sticr.stir.comcast.com/85417075-2a22-4ef9-8311-4d807586186b.pem`\
-Tested At: 01 Jun 25 21:43 UTC\
-Time: 150ms
+Tested At: 01 Jun 25 22:33 UTC\
+Time: 153ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 150ms
 |------|------|--------|---------|
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The expiration time is less than 24 hours |
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

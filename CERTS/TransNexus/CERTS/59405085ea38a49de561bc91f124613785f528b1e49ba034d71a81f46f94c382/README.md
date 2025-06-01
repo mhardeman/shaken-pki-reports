@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7556
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -76 day(s)\
 Subject: CN=SHAKEN 7556, O=Andrew Ward Consulting LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/79ebd466-0bf6-45ae-a8f3-a796da0d8d13/1879
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

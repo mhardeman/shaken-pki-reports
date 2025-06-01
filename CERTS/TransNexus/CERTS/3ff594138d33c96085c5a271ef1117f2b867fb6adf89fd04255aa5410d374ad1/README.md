@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 060K, O=Telware, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/9b96
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

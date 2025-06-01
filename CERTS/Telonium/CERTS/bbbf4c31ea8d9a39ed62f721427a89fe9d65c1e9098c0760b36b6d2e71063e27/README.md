@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 225L
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 327 day(s)\
 Subject: serialNumber=433A461E-6419-4278-A14E-EA13F1CAB549, CN=SHAKEN 225L, O=Telecomez Corp, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/84fIjtNe.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

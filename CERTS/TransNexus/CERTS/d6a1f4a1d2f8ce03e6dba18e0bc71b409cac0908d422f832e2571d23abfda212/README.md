@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8526
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 102 day(s)\
 Subject: CN=SHAKEN 8526, O=MetTel, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/8526/b12d68b2-b704-4de8-89eb-381c7e367
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

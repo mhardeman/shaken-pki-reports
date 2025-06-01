@@ -2,7 +2,7 @@
 
 ## Certificate ABVoipTel LLC_1740586018058 SHAKEN 991K
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 26 day(s)\
 Remaining Validity Period: -69 day(s)\
 Subject: CN=ABVoipTel LLC_1740586018058 SHAKEN 991K, O=ABVoipTel LLC, L=Wilmington, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://coztel.peeredge.com/cert/roWGjY0B.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

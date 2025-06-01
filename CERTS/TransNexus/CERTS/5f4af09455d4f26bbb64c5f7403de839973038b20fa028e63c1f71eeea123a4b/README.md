@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 622J
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 328 day(s)\
 Subject: CN=SHAKEN 622J, O=Skye Telecom LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/622J/363451d5-e10f-44ea-b64b-16d55defc
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

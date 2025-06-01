@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 016L
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 133 day(s)\
 Subject: serialNumber=89EC03F1-FAF9-42A5-A740-436EECC7E209, CN=SHAKEN 016L, O=Dial Edge Telecom LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/9b183038.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

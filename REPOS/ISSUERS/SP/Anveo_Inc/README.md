@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 189ms average time it took to download each certificate
+- 62ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `http://anv-cert.s3.amazonaws.com/anveo072023.crt` | 28&#160;Jun&#160;25&#160;19:35&#160;UTC | true | [view](REPOS/88d187dc9e3102ca517af762fc95809d72179f9a/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

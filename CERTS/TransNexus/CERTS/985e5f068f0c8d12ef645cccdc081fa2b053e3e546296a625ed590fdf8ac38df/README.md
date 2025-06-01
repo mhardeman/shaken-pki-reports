@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 505J
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: -18 day(s)\
 Subject: CN=SHAKEN 505J, O=HFA Services LLC dba Call48, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/505J/a368b5b5-0c4a-490f-9a23-61246cd85
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

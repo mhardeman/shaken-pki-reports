@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 423G
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -74 day(s)\
+Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 423G, O=Voxbeam, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/6e308e2f-b328-4f35-8a08-1f71bd1e078b/e912ef2adf35647a75207bfa01d571e5.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/6e308e2f-b328-4f35-8a08-1f71bd1e078b/e912
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

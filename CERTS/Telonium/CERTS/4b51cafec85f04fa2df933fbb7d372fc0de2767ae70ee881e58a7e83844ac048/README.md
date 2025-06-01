@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 037L
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 129 day(s)\
 Subject: serialNumber=92E6A8F9-1FC9-4B3A-93DC-3A3CA314BFB4, CN=SHAKEN 037L, O=Tele-C Communications Corporation, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/589d3e00.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

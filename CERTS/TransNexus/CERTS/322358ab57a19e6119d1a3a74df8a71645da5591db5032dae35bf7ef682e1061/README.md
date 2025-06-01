@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 662K
 
-Tested At: 01 Jun 25 21:44 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN 662K, O=Trifecta, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/065e2a52-9475-481c-9c71-b5bf5ee1e188/a834
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

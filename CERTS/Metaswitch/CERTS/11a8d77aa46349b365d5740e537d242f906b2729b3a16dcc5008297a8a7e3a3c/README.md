@@ -2,7 +2,7 @@
 
 ## Certificate Whidbey Telephone Company SHAKEN Cert 2452
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 371 day(s)\
 Subject: CN=Whidbey Telephone Company SHAKEN Cert 2452, O=Whidbey Telephone Company, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4b8c18a5a68450eb480b9727e86382fdaa4afa6
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

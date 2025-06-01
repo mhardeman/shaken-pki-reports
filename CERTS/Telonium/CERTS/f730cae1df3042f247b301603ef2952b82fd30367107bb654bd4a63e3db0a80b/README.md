@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 854K
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 376 day(s)\
 Remaining Validity Period: 280 day(s)\
 Subject: serialNumber=EFC56DA7-9FE4-4500-AD52-0706A0A11D24, CN=SHAKEN 854K, O=UHK Networks LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/35b6438acf154c4814d7c3cf8cc0f4e03d75b23b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

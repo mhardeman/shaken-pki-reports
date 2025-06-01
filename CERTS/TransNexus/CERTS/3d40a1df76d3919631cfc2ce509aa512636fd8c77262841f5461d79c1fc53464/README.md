@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 401D
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -80 day(s)\
+Remaining Validity Period: -81 day(s)\
 Subject: CN=SHAKEN 401D, O=United Telephone Association, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/c358c640-0ab7-4bc7-b394-ebaa9bd47f88/b3bcd1d97d2d68ef60ef6a4c2073d743.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c358c640-0ab7-4bc7-b394-ebaa9bd47f88/b3bc
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

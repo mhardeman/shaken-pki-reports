@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Lightspeed Voice 557F
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 19 day(s)\
 Subject: CN=SHAKEN Lightspeed Voice 557F, O=Lightspeed Voice, ST=Florida, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/557F/429C7C70711E3820F0B8E1DEAE6FF3262264CC95.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

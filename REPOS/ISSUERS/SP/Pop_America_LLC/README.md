@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 132ms average time it took to download each certificate
+- 165ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cr.46labs.com/cr/apptelx/apptelx.pem` | 25&#160;Mar&#160;25&#160;18:34&#160;UTC | true | [view](REPOS/90d72c97b2047775f3efbcc514b9cf01e088ef57/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

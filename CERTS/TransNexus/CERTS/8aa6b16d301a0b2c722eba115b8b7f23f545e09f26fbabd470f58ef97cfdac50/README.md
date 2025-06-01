@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 796K
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -21 day(s)\
 Subject: CN=SHAKEN 796K, O=Advanced Procomm\\, LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1d123abb-032b-480a-bdcd-1ef5b59e6a11/1b0a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate VoxStrom LLC_1745014690467 SHAKEN 223L
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 37 day(s)\
-Remaining Validity Period: -6 day(s)\
+Remaining Validity Period: -7 day(s)\
 Subject: CN=VoxStrom LLC_1745014690467 SHAKEN 223L, O=VoxStrom LLC, L=Sheridan, ST=WY, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/223L/3fZ6xwMu/223L.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/223L/3fZ6xwMu/223L.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

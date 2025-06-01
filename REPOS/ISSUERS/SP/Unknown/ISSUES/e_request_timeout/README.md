@@ -9,8 +9,7 @@ Description: Request timed out
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://cdn.ultatel.com/shaken.pem` |  | true | [view](../../REPOS/916b8d75907b16208c88ca84808530b600b0a278/README.md) |
-| `https://ecms.securetransit.net/certs/159f2eaefcbba7900be5f7f7e1cd77fa.cer` |  | true | [view](../../REPOS/afb578b1459befc98144a1304539cf4add91f267/README.md) |
+| `https://customer.questblue.com/assets/questblue_shaken.cer` |  | true | [view](../../REPOS/8dc4c0c1b129963e864cd310fa6b03bb952981a5/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

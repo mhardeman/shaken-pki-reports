@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN GIP Technology 434K
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -39 day(s)\
 Subject: CN=SHAKEN GIP Technology 434K, OU=GIPT, O=GIP Technology, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://eon.peeredge.com/cert/29L4LZxt.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 434K', but common name is 'SHAKEN GIP Technology 434K' |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

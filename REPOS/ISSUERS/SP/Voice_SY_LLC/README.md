@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 161ms average time it took to download each certificate
+- 215ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://voice.peeredge.com/cert/rvXrJQSz.pem` | 25&#160;Oct&#160;25&#160;12:06&#160;UTC | true | [view](REPOS/dfef94a60c56d693ed45ad8debb351c8c0d1246d/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

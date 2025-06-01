@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 299K
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 192 day(s)\
 Subject: CN=SHAKEN 299K, O=Weave, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/299K/b19a5d8b-560e-4014-80c9-bd2085136
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

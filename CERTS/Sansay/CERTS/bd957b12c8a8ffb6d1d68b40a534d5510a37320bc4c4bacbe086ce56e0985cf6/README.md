@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 986K
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN 986K, O=7G Network\\, Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/986K/429C7C70711E3820F0B8E1DEAE6FF3262264C668.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate TalkAsiaVoip LLC_1740746025988 SHAKEN 198K
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: -58 day(s)\
 Subject: CN=TalkAsiaVoip LLC_1740746025988 SHAKEN 198K, O=TalkAsiaVoip LLC, L=Middletown, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/198K/ba4vsSeO/198K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

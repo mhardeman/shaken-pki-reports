@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 7459
 
-Tested At: 01 Jun 25 21:49 UTC\
+Tested At: 01 Jun 25 22:38 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -20 day(s)\
+Remaining Validity Period: -21 day(s)\
 Subject: CN=SHAKEN 7459, O=NineStar Connect, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/f515299c-7a83-42cf-afa5-bea516d90fc7/442d4ead6ad2aeeb9bd2e0b664245439.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f515299c-7a83-42cf-afa5-bea516d90fc7/442d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

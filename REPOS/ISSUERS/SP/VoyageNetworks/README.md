@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 208ms average time it took to download each certificate
+- 292ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://voipedia.peeredge.com/cert/vTIeUNV1.pem` | 11&#160;Oct&#160;25&#160;18:50&#160;UTC | true | [view](REPOS/13f3b70053b982ae38810ad0eaaa2b8bed4e5d82/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

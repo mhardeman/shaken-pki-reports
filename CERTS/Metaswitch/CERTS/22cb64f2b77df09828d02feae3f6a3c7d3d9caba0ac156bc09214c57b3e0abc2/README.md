@@ -2,7 +2,7 @@
 
 ## Certificate Allstream SHAKEN 4130
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 665 day(s)\
 Subject: CN=Allstream SHAKEN 4130, OU=QCall, O=Allstream Business US\\, LLC, L=Vancouver, ST=WA, C=US\
@@ -17,4 +17,4 @@ Link: https://cert-stir-us.allstream.com/certs/allstreamcertchain.crt
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

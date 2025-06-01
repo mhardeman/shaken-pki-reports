@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 653K
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 65 day(s)\
 Subject: CN=SHAKEN 653K, O=NGN LATAM Corp, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/810723d5a9f926973ae9e237f68202bf55cbb52f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

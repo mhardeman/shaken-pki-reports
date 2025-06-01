@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0639
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 0639, O=Com Net Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/fe0fb95c-eedf-41e0-8341-be726b84ca01/854c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

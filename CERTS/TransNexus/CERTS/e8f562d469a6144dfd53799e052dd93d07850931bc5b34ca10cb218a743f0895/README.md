@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 736J
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 200 day(s)\
 Subject: CN=SHAKEN 736J, O=Masergy Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/736J/c98eac7f-4658-48e9-a3ca-a5d83ed0d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

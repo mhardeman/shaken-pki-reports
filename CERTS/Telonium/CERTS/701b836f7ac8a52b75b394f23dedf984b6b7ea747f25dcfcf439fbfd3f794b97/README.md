@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 772J
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 438 day(s)\
 Remaining Validity Period: 307 day(s)\
 Subject: serialNumber=A1A54920-ACF7-4B2E-8D1D-381556E61EF4, CN=SHAKEN 772J, O=VoIP Essential LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://www.voipessential.com/certs/qxHaMBKwkLyNA3gtdQh4E5.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

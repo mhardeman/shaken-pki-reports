@@ -2,7 +2,7 @@
 
 ## Certificate prod SHAKEN 811J
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 80 day(s)\
 Subject: CN=prod SHAKEN 811J, O=Alianza, L=Pleasant Grove, ST=Utah, C=US\
@@ -16,4 +16,4 @@ Link: https://api.alianza.com/v2/stir-shaken/certs/b45a4083-1554-4412-b5fc-bbd2c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

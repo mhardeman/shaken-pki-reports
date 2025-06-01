@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 82ms average time it took to download each certificate
+- 44ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://ssc.getsipnav.com/certs/5f59d0c87a925e0ea0ef9f65214302711b824131` | 04&#160;Mar&#160;26&#160;16:13&#160;UTC | true | [view](REPOS/ea2048aa4ecf8d31f644d2ca263d182d88824d5d/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

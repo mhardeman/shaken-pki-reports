@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 369ms average time it took to download each certificate
+- 215ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cr.tntelecom.net/382G-2025.pem` | 20&#160;Feb&#160;26&#160;14:19&#160;UTC | true | [view](REPOS/60119d4e43e8c82798a833f09a754a7e691152b7/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

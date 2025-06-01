@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 812J
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -88 day(s)\
+Remaining Validity Period: -89 day(s)\
 Subject: CN=SHAKEN 812J, O=RyTel LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/afd399bd-9e2e-440e-bb1c-aab07d24b6b5/72dd48f4bdafb8c5f4ea1177a3148ae4.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/afd399bd-9e2e-440e-bb1c-aab07d24b6b5/72dd
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2282
 
-Tested At: 01 Jun 25 21:44 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -4 day(s)\
 Subject: CN=SHAKEN 2282, O=Manti Telephone Co, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1bc21def-aa9d-467e-8953-b61b659f4a85/6337
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

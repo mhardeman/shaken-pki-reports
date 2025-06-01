@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 651K
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 387 day(s)\
 Remaining Validity Period: 42 day(s)\
 Subject: serialNumber=C9A309B3-48F6-4474-AA4B-3E753B88815E, CN=SHAKEN 651K, O=Callsy Network LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/651K/651K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

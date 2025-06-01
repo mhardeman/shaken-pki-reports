@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 750J
 
-Tested At: 01 Jun 25 21:40 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 220 day(s)\
 Subject: CN=SHAKEN 750J, O=Microtalk Europe Limited, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn.cnxcdn.com/shaken/bb327a8979.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 860K
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -77 day(s)\
+Remaining Validity Period: -78 day(s)\
 Subject: CN=SHAKEN 860K, O=NTT Cloud Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/860K/401ef408-89b2-4345-864d-2a14c6759877.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/860K/401ef408-89b2-4345-864d-2a14c6759
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

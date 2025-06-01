@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN InPhonex 1821
 
-Tested At: 01 Jun 25 21:43 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 171 day(s)\
 Subject: CN=SHAKEN InPhonex 1821, OU=NOC Team, O=InPhonex, ST=Florida, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/1821/429C7C70711E3820F0B8E1DEAE6FF3262264B2E0.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1821', but common name is 'SHAKEN InPhonex 1821' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

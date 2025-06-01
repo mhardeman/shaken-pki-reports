@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 861K
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -68 day(s)\
 Subject: O=Pop America LLC, C=US, serialNumber=79DFD5DF4165547CD3DB31363CF8F1FC, CN=SHAKEN 861K\
@@ -14,4 +14,4 @@ Link: https://cr.46labs.com/cr/apptelx/apptelx.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

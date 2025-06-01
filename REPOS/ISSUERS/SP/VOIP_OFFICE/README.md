@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 757ms average time it took to download each certificate
+- 639ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://voucs.voipoffice.com/stirshaken/389K.chain.crt.pem` | 29&#160;Nov&#160;25&#160;18:10&#160;UTC | true | [view](REPOS/c59704766315883c468a975799f2251e79479a1b/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

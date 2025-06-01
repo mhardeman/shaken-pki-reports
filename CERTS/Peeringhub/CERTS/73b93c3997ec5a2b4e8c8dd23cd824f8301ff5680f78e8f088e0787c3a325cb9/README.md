@@ -2,7 +2,7 @@
 
 ## Certificate DIALZILLA_1745179097551 SHAKEN 507K
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 37 day(s)\
 Remaining Validity Period: -5 day(s)\
 Subject: CN=DIALZILLA_1745179097551 SHAKEN 507K, O=DIALZILLA, L=SHERDIAN, ST=WY, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/507K/4pL3ADUW/507K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

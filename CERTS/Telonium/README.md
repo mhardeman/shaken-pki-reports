@@ -9,21 +9,21 @@
 
 #### Leaf Certificates
 
-- 66 certificates were included in the corpus being tested
+- 67 certificates were included in the corpus being tested
 - 13 certificates in the corpus were skipped because they are duplicates
 - 5 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 48 certificates being tested against the remaining rules
+- 49 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 4.17% of certificates contain one or more Error level issue
+- 4.08% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 394 days is the average remaining validity for the certificates in the corpus
-- 399 days is the average initial validity for the certificates in the corpus
+- 393 days is the average remaining validity for the certificates in the corpus
+- 398 days is the average initial validity for the certificates in the corpus
 - 5 certificates expire in the next 30 days
 - 1.04 average number of unexpired certificates per OCN observed
-- 46 unique OCNs observed in unexpired and valid certificate corpus
+- 47 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -109,6 +109,7 @@
 | 28&#160;Apr&#160;25&#160;20:02&#160;UTC | SHAKEN 241L | 28&#160;Apr&#160;26&#160;20:03&#160;UTC | false | [view](CERTS/1c6b3c0f116e04a85ed5d92094eaeb4359297f0ae6c8913a53d20b26bdb5bd37/README.md) |
 | 03&#160;May&#160;25&#160;01:27&#160;UTC | SHAKEN 142L | 03&#160;May&#160;27&#160;01:28&#160;UTC | false | [view](CERTS/2093ae4e3a20fe19baffea6cf5b4838cd208525e1226e23ebbbd21b8a393354b/README.md) |
 | 12&#160;May&#160;25&#160;23:58&#160;UTC | SHAKEN 144L | 13&#160;Jun&#160;25&#160;23:13&#160;UTC | false | [view](CERTS/90b81e44d6fb304c53fe2141a437c21a26d31bff882cbac9e4db0c3eeaafa42a/README.md) |
+| 14&#160;May&#160;25&#160;18:47&#160;UTC | SHAKEN 242L | 14&#160;May&#160;26&#160;18:48&#160;UTC | false | [view](CERTS/4f0e992395004eb24a9c1fd525258ed6097bdd211a51170b0101b8edc8af6737/README.md) |
 | 15&#160;May&#160;25&#160;20:02&#160;UTC | SHAKEN 865K | 20&#160;May&#160;26&#160;13:50&#160;UTC | false | [view](CERTS/2c8997d580c5d54a6b52b322329573ea88192c6e8b102534b8573ac2faad76b1/README.md) |
 | 27&#160;May&#160;25&#160;17:09&#160;UTC | SHAKEN 223L | 28&#160;Jun&#160;25&#160;23:00&#160;UTC | false | [view](CERTS/b7ff0851db9c25f249965e81a396e28beb6d69c050ee11b130bc79de4655357e/README.md) |
 
@@ -123,4 +124,4 @@
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

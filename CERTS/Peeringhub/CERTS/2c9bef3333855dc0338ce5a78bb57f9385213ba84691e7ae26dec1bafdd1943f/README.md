@@ -2,9 +2,9 @@
 
 ## Certificate 1234Voip.com LLC_1733962630456 SHAKEN 056L
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 354 day(s)\
-Remaining Validity Period: 183 day(s)\
+Remaining Validity Period: 182 day(s)\
 Subject: CN=1234Voip.com LLC_1733962630456 SHAKEN 056L, O=1234Voip.com LLC, L=San Juan, ST=PA, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://certificates.peeringhub.io/056L/KDR68pha/056L.crt
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/056L/KDR68pha/056L.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

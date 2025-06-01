@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5113
 
-Tested At: 01 Jun 25 21:42 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN 5113, O=Consolidated Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/5113/429C7C70711E3820F0B8E1DEAE6FF3262264CB74.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

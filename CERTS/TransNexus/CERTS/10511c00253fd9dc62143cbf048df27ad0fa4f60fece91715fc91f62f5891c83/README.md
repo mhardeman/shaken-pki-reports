@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1026
 
-Tested At: 01 Jun 25 21:48 UTC\
+Tested At: 01 Jun 25 22:37 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -71 day(s)\
 Subject: CN=SHAKEN 1026, O=Harrisonville Telephone Company, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f4785cfd-1576-4ec1-acce-c7b677aa332c/d8af
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

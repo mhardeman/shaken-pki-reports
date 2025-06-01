@@ -2,7 +2,7 @@
 
 ## Certificate Smithville Communications CLEC SHAKEN Cert 774D
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 610 day(s)\
 Subject: CN=Smithville Communications CLEC SHAKEN Cert 774D, O=Smithville Communications CLEC, C=US\
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/05eb1b2fde3d68f2deffd36d9fadf8c3e42e327
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 774D', but common name is 'Smithville Communications CLEC SHAKEN Cert 774D' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 774D', but common name is 'Smithville Communications CLEC SHAKEN Cert 774D' |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

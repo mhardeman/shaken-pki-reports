@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 01 Jun 25 21:47 UTC\
+Tested At: 01 Jun 25 22:36 UTC\
 Initial Validity Period: 9 day(s)\
-Remaining Validity Period: -15 day(s)\
+Remaining Validity Period: -16 day(s)\
 Subject: CN=SHAKEN 738J, O=SkySwitch, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/738J/0a58e4d5-8f4f-4cc1-9723-58772aefb132.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/738J/0a58e4d5-8f4f-4cc1-9723-58772aefb
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

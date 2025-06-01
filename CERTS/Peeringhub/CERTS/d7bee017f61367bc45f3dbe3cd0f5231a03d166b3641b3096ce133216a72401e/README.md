@@ -2,7 +2,7 @@
 
 ## Certificate TheSchmied LLC_1743452080175 SHAKEN 165L
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 303 day(s)\
 Subject: CN=TheSchmied LLC_1743452080175 SHAKEN 165L, O=TheSchmied LLC, L=Port St. Lucie, ST=FL, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/165L/6VcNHkLl/165L.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

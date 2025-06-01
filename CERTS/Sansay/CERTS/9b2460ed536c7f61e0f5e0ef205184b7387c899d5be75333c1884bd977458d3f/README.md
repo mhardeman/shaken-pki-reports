@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 382G
 
-Tested At: 01 Jun 25 21:46 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 264 day(s)\
 Subject: CN=SHAKEN 382G, O=Terra Nova Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.tntelecom.net/382G-2025.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC

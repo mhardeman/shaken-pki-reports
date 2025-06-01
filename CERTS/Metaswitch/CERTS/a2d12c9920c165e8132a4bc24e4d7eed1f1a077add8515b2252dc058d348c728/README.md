@@ -2,7 +2,7 @@
 
 ## Certificate Mediacom SHAKEN 846F
 
-Tested At: 01 Jun 25 21:45 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 732 day(s)\
 Subject: CN=Mediacom SHAKEN 846F, OU=QCall, O=Mediacom Communications Corporation, L=Chester, ST=New York, C=US\
@@ -16,4 +16,4 @@ Link: https://shaken.stir.mediacomcc.com/certs/mediacom2024certchain.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 21:52 UTC
+Generated: 01 Jun 25 22:38 UTC
