@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/mhardeman/shaken-pki-reports/lint"
-	_ "github.com/mhardeman/shaken-pki-reports/lints"
+	"github.com/martinisecurity/shaken-pki-reports/lint"
+	_ "github.com/martinisecurity/shaken-pki-reports/lints"
 )
 
 func LintUrl(url *url.URL) *lint.LintResultSet {
