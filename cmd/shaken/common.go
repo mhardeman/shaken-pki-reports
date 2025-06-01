@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mhardeman/shaken-pki-reports/cmd/internal"
+	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
 	"github.com/zmap/zcrypto/x509"
 )
 
