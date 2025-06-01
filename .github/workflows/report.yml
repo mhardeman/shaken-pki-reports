@@ -26,5 +26,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FOLDER: x_report
           CLEAN: true
+          target-folder: october
           clean-exclude: |
             _config.yaml
