@@ -19,4 +19,4 @@ No error, warning, or notice level issues were found
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | Subject Public Key Info field contains a public key that is not 256 bits |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

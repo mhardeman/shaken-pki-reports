@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1555
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -80 day(s)\
 Subject: CN=SHAKEN 1555, O=Hamilton Telecommunications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1236e074-20ca-4639-9a13-6f26ef83f424/6e09
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

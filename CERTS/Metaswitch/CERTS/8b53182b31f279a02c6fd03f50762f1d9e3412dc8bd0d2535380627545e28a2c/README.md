@@ -2,7 +2,7 @@
 
 ## Certificate 3 Rivers Communications SHAKEN Cert 2255
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 335 day(s)\
 Subject: CN=3 Rivers Communications SHAKEN Cert 2255, O=3 Rivers Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/b88b96ada796369ea38b5f4a4d83851f50560e7
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2255', but common name is '3 Rivers Communications SHAKEN Cert 2255' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

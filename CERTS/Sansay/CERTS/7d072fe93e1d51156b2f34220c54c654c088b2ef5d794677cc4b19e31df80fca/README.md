@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 455K Cloud Connect LLC
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 261 day(s)\
 Subject: CN=SHAKEN 455K Cloud Connect LLC, O=Cloud Connect LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://sproxy1.teleserosuite.com/Cloud_Connect_LLC_2025_2
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

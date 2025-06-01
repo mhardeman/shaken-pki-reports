@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 42ms average time it took to download each certificate
+- 192ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certificates.smartcarrier.io/bc8a54f95e4549bc87884594162cf9402a907fd5.cer` | 21&#160;Jan&#160;26&#160;20:12&#160;UTC | true | [view](REPOS/f5c2a6078b8098099f686711f41c9289cf1c3202/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

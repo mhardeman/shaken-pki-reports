@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8858
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -23 day(s)\
 Subject: CN=SHAKEN 8858, O=Aureon, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/8858/8eba8722-63ee-448c-a16a-dbd17a192
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

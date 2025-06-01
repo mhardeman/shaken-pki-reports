@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7459
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -39 day(s)\
 Subject: CN=SHAKEN 7459, O=NineStar Connect, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f515299c-7a83-42cf-afa5-bea516d90fc7/d026
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

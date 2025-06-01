@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 318J
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:50 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: 19 day(s)\
 Subject: CN=SHAKEN 318J, O=Comcast, L=Philadelphia, ST=Pennsylvania, C=US\
@@ -17,4 +17,4 @@ Link: https://sticr.stir.comcast.com/1a7efa3a-4195-41e1-9364-e4105681f044.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

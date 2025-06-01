@@ -2,7 +2,7 @@
 
 ## Certificate VoxStrom LLC_1745831045482 SHAKEN 223L
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 28 day(s)\
 Remaining Validity Period: -7 day(s)\
 Subject: CN=VoxStrom LLC_1745831045482 SHAKEN 223L, O=VoxStrom LLC, L=Sheridan, ST=WY, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/397e6047e7.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

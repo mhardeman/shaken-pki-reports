@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 128K
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 254 day(s)\
 Subject: CN=SHAKEN 128K, O=textPlus Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/156.646
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 163ms average time it took to download each certificate
+- 65ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certs.icallr.com/279K/infinitysip.pem` | 26&#160;Mar&#160;26&#160;20:06&#160;UTC | true | [view](REPOS/b481e92084e3cc470e1e832978b08c5992e89da8/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

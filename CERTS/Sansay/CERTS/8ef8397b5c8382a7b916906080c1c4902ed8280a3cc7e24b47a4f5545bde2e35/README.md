@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN VOIP OFFICE.COM LLC 389K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 181 day(s)\
 Subject: CN=SHAKEN VOIP OFFICE.COM LLC 389K, OU=Communications, O=VOIP OFFICE, ST=Michigan, C=US\
@@ -13,8 +13,8 @@ Link: https://voucs.voipoffice.com/stirshaken/389K.chain.crt.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 389K', but common name is 'SHAKEN VOIP OFFICE.COM LLC 389K' |
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 389K', but common name is 'SHAKEN VOIP OFFICE.COM LLC 389K' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

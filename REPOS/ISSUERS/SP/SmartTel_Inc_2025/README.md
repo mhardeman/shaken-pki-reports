@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 302ms average time it took to download each certificate
+- 359ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://prov.smarttelinc.net/shaken/cert.pem` | 13&#160;May&#160;26&#160;19:38&#160;UTC | true | [view](REPOS/f89ef718a494b52903e6ef560ed272ed3b5f9abf/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

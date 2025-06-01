@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 495K
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=SHAKEN 495K, O=HelloSpoke, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/ae397985-0ec2-4bcf-b83f-d4a0ed9351d9/aafe
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

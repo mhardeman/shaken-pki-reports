@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 014L
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 220 day(s)\
 Remaining Validity Period: 118 day(s)\
 Subject: serialNumber=518A607B-8283-4235-A0EA-D808A4182A17, CN=SHAKEN 014L, O=First Tele Communications Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/25/b5953bd1.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 847K
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 393 day(s)\
 Remaining Validity Period: 276 day(s)\
 Subject: serialNumber=C53E0DB2-1299-47A2-B65A-ACEF517A7F58, CN=SHAKEN 847K, O=BlueTech Networks LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/5f59d0c87a925e0ea0ef9f65214302711b824131
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

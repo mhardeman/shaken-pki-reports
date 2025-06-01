@@ -2,7 +2,7 @@
 
 ## Certificate ccctelecom.com
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 364 day(s)\
 Remaining Validity Period: 254 day(s)\
 Subject: CN=ccctelecom.com, OU=VOIP, O=Carrier Connect Corp, ST=TX, C=US\
@@ -13,9 +13,9 @@ Link: https://www.ccctelecom.com/816K.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 816K', but common name is 'ccctelecom.com' |
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'ccctelecom.com' does not contain 'SHAKEN' |
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 816K', but common name is 'ccctelecom.com' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

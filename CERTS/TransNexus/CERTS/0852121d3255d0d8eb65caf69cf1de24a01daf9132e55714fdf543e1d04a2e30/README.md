@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 2251
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -4 day(s)\
+Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN 2251, O=Range Telephone Cooperative Inc. dba Range, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/1d519618465ff9e78afc1001f05fe1ba.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/1d51
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

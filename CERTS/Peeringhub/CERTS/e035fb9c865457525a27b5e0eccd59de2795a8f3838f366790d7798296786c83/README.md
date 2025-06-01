@@ -2,7 +2,7 @@
 
 ## Certificate DIAL WORLD COMMUNICATIONS LLC_1724804850035 SHAKEN 727K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 343 day(s)\
 Remaining Validity Period: 66 day(s)\
 Subject: CN=DIAL WORLD COMMUNICATIONS LLC_1724804850035 SHAKEN 727K, O=DIAL WORLD COMMUNICATIONS LLC, L=Canyon Lake, ST=CA, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/727K/qjDisELB/727K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

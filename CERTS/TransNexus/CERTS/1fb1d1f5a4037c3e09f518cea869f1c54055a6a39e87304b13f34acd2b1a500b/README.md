@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4632
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -50 day(s)\
+Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN 4632, O=TelNet Worldwide Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/4632/6e1552d2-1e2f-4c2c-8a80-9f40662d93ce.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/4632/6e1552d2-1e2f-4c2c-8a80-9f40662d9
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

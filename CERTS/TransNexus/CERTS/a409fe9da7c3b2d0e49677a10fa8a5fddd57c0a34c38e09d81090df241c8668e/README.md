@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 625J
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:50 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 625J, O=Victory Telecom Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/625J/85aeeada-0d99-4a9a-8402-aff87420f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

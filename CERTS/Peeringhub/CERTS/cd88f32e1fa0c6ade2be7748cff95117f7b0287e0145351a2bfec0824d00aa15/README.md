@@ -2,7 +2,7 @@
 
 ## Certificate Apex Teleocm LLC_1732515132751 SHAKEN 288K
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 177 day(s)\
 Subject: CN=Apex Teleocm LLC_1732515132751 SHAKEN 288K, O=Apex, L=Salem, ST=MA, C=US\
@@ -14,4 +14,4 @@ Link: https://sproxy1.teleserosuite.com/288K_2025
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

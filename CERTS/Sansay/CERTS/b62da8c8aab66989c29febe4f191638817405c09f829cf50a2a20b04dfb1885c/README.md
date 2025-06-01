@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 694K Icon Global Services Ltd
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 48 day(s)\
 Subject: CN=SHAKEN 694K Icon Global Services Ltd, O=Icon Global Services Ltd, C=US\
@@ -16,4 +16,4 @@ Link: https://xfone.us/brxjpch/8
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

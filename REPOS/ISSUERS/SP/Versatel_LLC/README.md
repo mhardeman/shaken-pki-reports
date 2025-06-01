@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 130ms average time it took to download each certificate
+- 188ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://eco.peeredge.com/cert/epqK2O2z.pem` | 01&#160;Jul&#160;25&#160;17:05&#160;UTC | true | [view](REPOS/9c03a43d2206a59a432a9cd18088b8fd573f8cb9/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

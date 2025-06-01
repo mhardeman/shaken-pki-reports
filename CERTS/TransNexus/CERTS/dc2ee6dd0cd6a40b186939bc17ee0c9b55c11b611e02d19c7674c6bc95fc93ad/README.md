@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 904K
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: CN=SHAKEN 904K, O=Call Bound LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/95833955-738c-4ee1-a657-49696491413b/1158
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

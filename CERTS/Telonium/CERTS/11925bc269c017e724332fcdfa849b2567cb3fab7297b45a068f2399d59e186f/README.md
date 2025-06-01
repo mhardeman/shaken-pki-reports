@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 123L
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 397 day(s)\
 Remaining Validity Period: 329 day(s)\
 Subject: serialNumber=6002C82A-3649-49A7-8138-C9EEF8CFDAE5, CN=SHAKEN 123L, O=Navitech Solutions LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://coztel.peeredge.com/cert/lKjXtorO.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 3704
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN 3704, O=TEC of Jackson, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/94d93edb-3229-4be8-b1ae-79c020c2fd95/632e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

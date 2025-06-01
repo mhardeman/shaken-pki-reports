@@ -3,8 +3,8 @@
 ## DTC Communications
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/82cf7b9a6d32df6dbe88d1a380b594f4be506929`\
-Tested At: 01 Jun 25 22:30 UTC\
-Time: 11ms
+Tested At: 01 Jun 25 22:53 UTC\
+Time: 190ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 11ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

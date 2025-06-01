@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 018L
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 165 day(s)\
 Subject: serialNumber=B9C99F16-D395-42DE-8E48-56E2CA2DE25D, CN=SHAKEN 018L, O=Infinititel LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://infinititel.peeredge.com/cert/lYF7XHUT.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

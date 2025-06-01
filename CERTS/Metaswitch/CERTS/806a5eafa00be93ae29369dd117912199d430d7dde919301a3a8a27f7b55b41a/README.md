@@ -2,7 +2,7 @@
 
 ## Certificate Vermont Telephone Company Inc SHAKEN Cert 3332
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 344 day(s)\
 Subject: CN=Vermont Telephone Company Inc SHAKEN Cert 3332, O=Vermont Telephone Company\\, Inc., C=US\
@@ -13,9 +13,9 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/a61dd4bdaec6164b6bf30c1fd3d6834d49e10a9
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3332', but common name is 'Vermont Telephone Company Inc SHAKEN Cert 3332' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3332', but common name is 'Vermont Telephone Company Inc SHAKEN Cert 3332' |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

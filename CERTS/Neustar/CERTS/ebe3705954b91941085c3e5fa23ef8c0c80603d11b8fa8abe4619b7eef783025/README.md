@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 899J
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 185 day(s)\
 Subject: CN=SHAKEN 899J, O=Telco Connection, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/ade2fd2f0878ca60bb3d4c36501875adde925945
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 684J Fonative, Inc.
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -73 day(s)\
 Subject: CN=SHAKEN 684J Fonative\\, Inc., O=Fonative\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/684J/429C7C70711E3820F0B8E1DEAE6FF3262264BF80.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

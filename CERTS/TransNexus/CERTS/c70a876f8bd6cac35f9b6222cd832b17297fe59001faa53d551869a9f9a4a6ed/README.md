@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1640
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -12 day(s)\
 Subject: CN=SHAKEN 1640, O=SDN, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/21ed4b39-a552-499c-9524-a18843bab43e/a12d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

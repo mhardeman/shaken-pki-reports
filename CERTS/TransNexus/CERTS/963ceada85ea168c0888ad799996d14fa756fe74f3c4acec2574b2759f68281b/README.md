@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 691J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -46 day(s)\
 Subject: CN=SHAKEN 691J, O=Toly Digital Networks Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/84c98183-b28e-415a-8dc4-ba02b9ca5418/35a3
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

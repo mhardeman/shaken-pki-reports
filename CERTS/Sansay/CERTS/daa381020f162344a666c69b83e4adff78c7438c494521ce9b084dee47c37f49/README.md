@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 597F VoIP Innovations
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -64 day(s)\
 Subject: CN=SHAKEN 597F VoIP Innovations, O=VoIP Innovations, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/597F/429C7C70711E3820F0B8E1DEAE6FF32622649735.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

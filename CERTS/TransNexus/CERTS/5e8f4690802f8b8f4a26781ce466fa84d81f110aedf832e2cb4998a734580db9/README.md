@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 120K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -76 day(s)\
 Subject: CN=SHAKEN 120K, O=VC3, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/bcb89748-38e2-45ae-8b54-7efd23525de2/d15f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

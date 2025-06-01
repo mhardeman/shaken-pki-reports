@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 717K
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: -16 day(s)\
 Subject: serialNumber=66C9D90E-461C-4A1D-89C3-EA53DFAE4DE7, CN=SHAKEN 717K, O=SK Teleco LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/aee8920fe5c3818d6b212726627fb1f93673d93c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

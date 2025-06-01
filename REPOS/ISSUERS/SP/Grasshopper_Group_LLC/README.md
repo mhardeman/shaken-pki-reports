@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 305ms average time it took to download each certificate
+- 125ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -18,4 +18,4 @@ No error, warning, or notice level issues were found
 | `https://pstn-cdn.live.gtc.goto.com/certs/stirshaken/gh-2025-10` | 09&#160;Oct&#160;25&#160;17:23&#160;UTC | false | [view](REPOS/ecb4937ec7b558c7fa14ca885bb0a98619aeef49/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

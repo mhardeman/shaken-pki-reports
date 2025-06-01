@@ -2,7 +2,7 @@
 
 ## Certificate Syringa Networks SHAKEN 5869
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 776 day(s)\
 Subject: CN=Syringa Networks SHAKEN 5869, O=Syringa Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/a29eefd5fda0c02556423cceaea87deb5e9401d
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -2 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://fstelephony.dialpad.net/static/cert/shaken_identity_2024_1.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

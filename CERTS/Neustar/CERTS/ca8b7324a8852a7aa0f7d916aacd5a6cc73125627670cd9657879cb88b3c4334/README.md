@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 791K
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 202 day(s)\
 Subject: CN=SHAKEN 791K, O=925 Telecom LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/abf66d22339de1cea2f7c85b7e66c4ab1206c5ad
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

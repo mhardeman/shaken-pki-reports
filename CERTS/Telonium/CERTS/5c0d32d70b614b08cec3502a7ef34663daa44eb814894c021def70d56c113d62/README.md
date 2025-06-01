@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 633K
 
-Tested At: 01 Jun 25 22:27 UTC\
+Tested At: 01 Jun 25 22:50 UTC\
 Initial Validity Period: 555 day(s)\
 Remaining Validity Period: 209 day(s)\
 Subject: serialNumber=D1E45F5D-18E6-4728-BB40-5FA4E3815038, CN=SHAKEN 633K, O=Telkart LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://telkart.46labs.com/telkart.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1917
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -77 day(s)\
 Subject: CN=SHAKEN 1917, O=Andrew Ward Consulting LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/450ef25e-eefe-418d-84fb-35222046f1cd/c556
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

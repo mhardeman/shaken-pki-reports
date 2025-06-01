@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4156
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 4156, O=Arvig, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/f0716e63-b288-44a2-8616-d4f89fc09da7/adea
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

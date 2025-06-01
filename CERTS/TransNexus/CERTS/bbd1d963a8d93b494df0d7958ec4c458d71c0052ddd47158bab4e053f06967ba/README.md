@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1680
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -57 day(s)\
 Subject: CN=SHAKEN 1680, O=SDN, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/a86393e3-972a-4710-a013-a1440e509889/d12e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

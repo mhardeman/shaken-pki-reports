@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 807J
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 60 day(s)\
 Remaining Validity Period: 34 day(s)\
 Subject: CN=SHAKEN 807J, O=SipPhony LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/807J/7a1ed9e2-c9bd-48b2-b4bd-8fff52e3c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

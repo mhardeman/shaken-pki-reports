@@ -3,8 +3,8 @@
 ## Sansay
 
 Name: `https://cr.sansay.com/776K/429C7C70711E3820F0B8E1DEAE6FF3262264C47A.pem`\
-Tested At: 01 Jun 25 22:32 UTC\
-Time: 257ms
+Tested At: 01 Jun 25 22:55 UTC\
+Time: 298ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 257ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

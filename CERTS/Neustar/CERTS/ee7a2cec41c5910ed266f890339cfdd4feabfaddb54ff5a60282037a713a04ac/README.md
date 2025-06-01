@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 023K
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 235 day(s)\
 Subject: CN=SHAKEN 023K, O=Pulsar360 Corp, C=US\
@@ -16,4 +16,4 @@ Link: https://ecms.securetransit.net/certs/159f2eaefcbba7900be5f7f7e1cd77fa.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

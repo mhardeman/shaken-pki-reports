@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 5606
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 97 day(s)\
 Subject: CN=SHAKEN 5606, O=Charter Communications\\, Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://shaken.spectrum.com/a9214dea8d75b74eb4717f01ceecf0ad.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

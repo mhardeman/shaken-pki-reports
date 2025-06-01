@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 578J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 34 day(s)\
 Subject: CN=SHAKEN 578J, O=Call Tools Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/578J/6389f7f5-aad0-4389-903d-a555d5169
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

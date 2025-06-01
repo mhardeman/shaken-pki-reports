@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 520F
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 221 day(s)\
 Subject: serialNumber=43F9A62D-1CF7-472D-A4CC-591D5C879DA3, CN=SHAKEN 520F, O=digitalIpvoice Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://x3x.us/jaoe0qp/9
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

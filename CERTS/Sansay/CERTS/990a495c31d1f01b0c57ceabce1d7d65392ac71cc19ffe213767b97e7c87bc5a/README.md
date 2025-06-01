@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 644J Bulk Solutions, LLC
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 185 day(s)\
 Subject: CN=SHAKEN 644J Bulk Solutions\\, LLC, O=Bulk Solutions\\, LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://bulkvs-cr.s3.amazonaws.com/644J_2024120301.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

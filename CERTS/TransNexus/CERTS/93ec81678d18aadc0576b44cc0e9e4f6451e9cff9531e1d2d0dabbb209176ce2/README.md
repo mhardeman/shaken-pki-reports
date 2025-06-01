@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9714
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -6 day(s)\
 Subject: CN=SHAKEN 9714, O=Grid4 Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/51a37c7a-5af2-439d-94ce-677fa750ee2f/ceca
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

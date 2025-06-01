@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 133K
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -93 day(s)\
 Subject: CN=SHAKEN 133K, O=Telnamix LTD, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/7ff4aee7-b144-456c-94be-4d682cab70f1/bbf4
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

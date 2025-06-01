@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2277
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -88 day(s)\
 Subject: CN=SHAKEN 2277, O=CentraCom, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/5cb5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

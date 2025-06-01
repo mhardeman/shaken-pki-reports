@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 117ms average time it took to download each certificate
+- 261ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://eon.peeredge.com/cert/Khz0m1yD.pem` | 14&#160;Apr&#160;26&#160;18:44&#160;UTC | true | [view](REPOS/5748d20e0e4c5add882710345e5fba51be37bce0/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

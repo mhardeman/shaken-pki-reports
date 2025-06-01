@@ -2,7 +2,7 @@
 
 ## Certificate Voipedia_1729536460984 SHAKEN 712K
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 142 day(s)\
 Subject: CN=Voipedia_1729536460984 SHAKEN 712K, O=Voipedia, L=Mountain View, ST=CA, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.icallr.com/712K/voipedia.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

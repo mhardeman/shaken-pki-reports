@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 597J
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 345 day(s)\
 Subject: CN=SHAKEN 597J, O=Voxtelesys, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/597J/8f1529ee-2db6-44f1-b155-3434a0b86
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

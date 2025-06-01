@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 606F
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: 2 day(s)\
 Subject: CN=SHAKEN 606F, O=Global Data Systems Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/756cb700-f9d2-4a05-850e-c9dfe3e22de4/dc57
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

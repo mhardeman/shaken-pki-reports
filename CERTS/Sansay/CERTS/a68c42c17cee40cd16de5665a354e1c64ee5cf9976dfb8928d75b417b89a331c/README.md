@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 938K Lynktel
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 200 day(s)\
 Subject: CN=SHAKEN 938K Lynktel, O=Lynktel, C=US\
@@ -16,4 +16,4 @@ Link: https://lynktelecom.peeredge.com/cert/3pm1Luxn.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

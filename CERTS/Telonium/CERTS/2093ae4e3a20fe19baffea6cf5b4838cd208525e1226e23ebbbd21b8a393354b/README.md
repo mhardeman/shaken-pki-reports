@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 142L
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 731 day(s)\
 Remaining Validity Period: 701 day(s)\
 Subject: serialNumber=8EE3C2A4-3AEF-4211-942C-73DEF890CA87, CN=SHAKEN 142L, O=Kallzer Tech LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/07274cfa59.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

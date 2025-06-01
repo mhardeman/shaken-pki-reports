@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 706J
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 107 day(s)\
 Subject: CN=SHAKEN 706J, O=TCN, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/706J/50ecc27e-770a-4239-a994-dddc8c4c9
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

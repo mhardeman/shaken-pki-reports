@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 895K 6x6 Termination
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -39 day(s)\
 Subject: CN=SHAKEN 895K 6x6 Termination, O=6x6 Termination, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/c132054dcafb95a721d1a48d772d299db1097d37
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

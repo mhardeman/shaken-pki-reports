@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 669B
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 349 day(s)\
 Subject: CN=SHAKEN 669B, O=BTC Broadband, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11408.10432.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

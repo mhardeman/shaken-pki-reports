@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Dalton Utilities 3139
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 191 day(s)\
 Subject: CN=SHAKEN Dalton Utilities 3139, OU=Dalton Utilities 3139, O=Dalton Utilities, ST=Georgia, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/3139/429C7C70711E3820F0B8E1DEAE6FF3262264B5C2.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 3139', but common name is 'SHAKEN Dalton Utilities 3139' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

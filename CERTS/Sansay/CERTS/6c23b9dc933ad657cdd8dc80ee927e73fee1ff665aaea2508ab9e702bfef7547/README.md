@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 012J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -10 day(s)\
 Subject: CN=SHAKEN 012J, O=Apeiron Systems, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/012J/429C7C70711E3820F0B8E1DEAE6FF3262264C84C.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

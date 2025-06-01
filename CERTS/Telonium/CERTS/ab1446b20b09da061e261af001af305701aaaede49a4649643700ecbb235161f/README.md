@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 188L
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 329 day(s)\
 Subject: serialNumber=18B7F05F-93D0-4231-A3CD-FEF87111971B, CN=SHAKEN 188L, O=TeleOneTen Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/qsWAQxa6.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

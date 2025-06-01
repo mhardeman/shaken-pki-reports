@@ -2,7 +2,7 @@
 
 ## Certificate INSTACALL LLC_1737586625863 SHAKEN 281K
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 235 day(s)\
 Subject: CN=INSTACALL LLC_1737586625863 SHAKEN 281K, O=INSTACALL, L=Wilmington, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://cr.46labs.com/cr/instacall/instacall.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

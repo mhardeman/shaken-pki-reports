@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 819J
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 139 day(s)\
 Subject: CN=SHAKEN 819J, O=Crexendo Business Solutions, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/146.614
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

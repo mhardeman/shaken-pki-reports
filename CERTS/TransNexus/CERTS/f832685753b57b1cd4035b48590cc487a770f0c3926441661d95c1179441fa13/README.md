@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 019K
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -45 day(s)\
 Subject: CN=SHAKEN 019K, O=InComm, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9dddba71-1c41-426f-b60d-e6ee2f306bd0/ac1a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

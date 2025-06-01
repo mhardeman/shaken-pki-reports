@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 214K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 264 day(s)\
 Subject: CN=SHAKEN 214K, O=Kloud 7 LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/214K/429C7C70711E3820F0B8E1DEAE6FF3262264BFF7.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bek Communications Cooperative 1604
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:59 UTC\
 Initial Validity Period: 364 day(s)\
 Remaining Validity Period: 27 day(s)\
 Subject: CN=SHAKEN Bek Communications Cooperative 1604, OU=Enterprise Technology Department, O=Bek Communications Cooperative, ST=North Dakota, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/1604/429C7C70711E3820F0B8E1DEAE6FF3262264A19B.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1604', but common name is 'SHAKEN Bek Communications Cooperative 1604' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

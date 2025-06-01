@@ -2,7 +2,7 @@
 
 ## Certificate Five Area Telephone SHAKEN Cert 2071
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 370 day(s)\
 Subject: CN=Five Area Telephone SHAKEN Cert 2071, O=Five Area Telephone Cooperative, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/738466bb39439e11398346bd5b0156a48680368
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

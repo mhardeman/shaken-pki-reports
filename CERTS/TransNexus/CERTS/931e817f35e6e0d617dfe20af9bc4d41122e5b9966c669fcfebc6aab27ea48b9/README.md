@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 107K
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -20 day(s)\
 Subject: CN=SHAKEN 107K, O=Atheral, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/4ba6f296-2d7c-42c2-8fe4-12b74f5076df/4d9d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

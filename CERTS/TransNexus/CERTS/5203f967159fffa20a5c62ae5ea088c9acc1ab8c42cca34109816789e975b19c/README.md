@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1826
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -1 day(s)\
 Subject: CN=SHAKEN 1826, O=Nex-Tech\\, LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2fb590ef-1300-4481-b00c-164b447c8c08/c005
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

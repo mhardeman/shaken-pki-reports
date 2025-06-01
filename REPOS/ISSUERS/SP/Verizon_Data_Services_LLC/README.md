@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 174ms average time it took to download each certificate
+- 294ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://sti.verizon.com/vzwcert/vzshakenG-01-2026.pem` | 03&#160;Feb&#160;26&#160;19:47&#160;UTC | true | [view](REPOS/3093acd9ee0a0252a67f7cfa0e6b662bb556381a/README.md) |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

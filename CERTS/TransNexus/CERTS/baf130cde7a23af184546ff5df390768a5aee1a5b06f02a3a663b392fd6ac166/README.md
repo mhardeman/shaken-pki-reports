@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 179K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 179K, O=The Tech Consultants\\, LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2d93d07b-20ff-4289-a40d-959976cc0595/6825
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

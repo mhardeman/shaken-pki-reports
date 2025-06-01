@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0797
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -84 day(s)\
 Subject: CN=SHAKEN 0797, O=Andrew Ward Consulting LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/db0a4a9e-cfa9-4468-af8d-f0879f076011/3a94
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

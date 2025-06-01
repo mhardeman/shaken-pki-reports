@@ -2,7 +2,7 @@
 
 ## Certificate On Air Telecom LLC_1742832914104 SHAKEN 861J
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 115 day(s)\
 Remaining Validity Period: 45 day(s)\
 Subject: CN=On Air Telecom LLC_1742832914104 SHAKEN 861J, O=On, L=Owings, ST=MD, C=US\
@@ -14,4 +14,4 @@ Link: https://onairtel.46labs.com/onairtel.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

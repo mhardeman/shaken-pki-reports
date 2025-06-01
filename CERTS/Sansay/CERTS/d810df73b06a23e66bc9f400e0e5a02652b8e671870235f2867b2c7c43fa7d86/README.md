@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN DialedIn 731K
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -24 day(s)\
 Subject: CN=SHAKEN DialedIn 731K, O=DialedIn, ST=Florida, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/731K/429C7C70711E3820F0B8E1DEAE6FF3262264C68B.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

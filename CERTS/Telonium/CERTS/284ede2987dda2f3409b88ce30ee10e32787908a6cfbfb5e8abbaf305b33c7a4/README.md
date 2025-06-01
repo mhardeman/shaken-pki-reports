@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 709K
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 379 day(s)\
 Remaining Validity Period: 85 day(s)\
 Subject: serialNumber=81827F94-D537-4C76-94EF-939DCCA9707C, CN=SHAKEN 709K, O=Coastal Redwood Networks LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/772a7300.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

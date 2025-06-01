@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 291K
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:54 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -47 day(s)\
 Subject: CN=SHAKEN 291K, O=Hypercore Networks\\, Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/b66a7496-cdd4-46e3-b219-cb0ecdc80d22/6001
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

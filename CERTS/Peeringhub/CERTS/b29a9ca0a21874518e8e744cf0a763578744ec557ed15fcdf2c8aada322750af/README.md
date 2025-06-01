@@ -2,7 +2,7 @@
 
 ## Certificate Navitech Solutions LLC_1740587055187 SHAKEN 123L
 
-Tested At: 01 Jun 25 22:27 UTC\
+Tested At: 01 Jun 25 22:50 UTC\
 Initial Validity Period: 28 day(s)\
 Remaining Validity Period: -67 day(s)\
 Subject: CN=Navitech Solutions LLC_1740587055187 SHAKEN 123L, O=Navitech Solutions LLC, L=Bethalto, ST=IL, C=US\
@@ -14,4 +14,4 @@ Link: https://coztel.peeredge.com/cert/uEKKEToI.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

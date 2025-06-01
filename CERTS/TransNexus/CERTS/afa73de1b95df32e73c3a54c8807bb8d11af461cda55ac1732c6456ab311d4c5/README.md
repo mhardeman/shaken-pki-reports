@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 6233
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -8 day(s)\
 Subject: CN=SHAKEN 6233, O=Southern Telecommunications Co\\, LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9b6336c6-a756-47eb-a80c-384319297ebb/3a49
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

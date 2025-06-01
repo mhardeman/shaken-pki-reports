@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 701J
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 191 day(s)\
 Subject: CN=SHAKEN 701J, O=MASH Telecom, C=CA\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/1b45d7701464b37e26ba8a8a9e1d0a7a4fc68285
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

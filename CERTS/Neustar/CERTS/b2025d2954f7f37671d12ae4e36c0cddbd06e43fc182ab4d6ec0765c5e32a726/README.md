@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 767J
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -1 day(s)\
+Remaining Validity Period: -2 day(s)\
 Subject: CN=SHAKEN 767J, O=Newmax\\, LLC dba Intermax Networks, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/127.552
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/127.552
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

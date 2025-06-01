@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 183L
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 312 day(s)\
 Subject: serialNumber=04CB7BB6-ECFC-40F2-8BB6-8A56C959641D, CN=SHAKEN 183L, O=Nationwide Telecom Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/A8lQtFlk.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

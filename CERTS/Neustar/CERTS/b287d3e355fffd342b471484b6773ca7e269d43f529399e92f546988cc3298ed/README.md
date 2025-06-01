@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 692J
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 290 day(s)\
 Subject: CN=SHAKEN 692J, O=EssexTel Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://essextel.peeredge.com/cert/U9FNez2N.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Telecom Business Network LLC_1731008761381 SHAKEN 824K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 159 day(s)\
 Subject: CN=Telecom Business Network LLC_1731008761381 SHAKEN 824K, O=Telecom Business Network LLC, L=Rancho Santa Margarita, ST=CA, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/824K/z6AY678S/824K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

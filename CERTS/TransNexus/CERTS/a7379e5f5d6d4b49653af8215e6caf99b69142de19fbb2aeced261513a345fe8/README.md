@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1373
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -83 day(s)\
 Subject: CN=SHAKEN 1373, O=Andrew Ward Consulting LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/8d9195ef-865c-4fa3-9171-a00a7c106252/d67c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

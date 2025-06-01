@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 278K
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:55 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -4 day(s)\
 Subject: CN=SHAKEN 278K, O=OIT, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/36952c34-78d8-4c32-9499-188a418f31ba/3f30
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

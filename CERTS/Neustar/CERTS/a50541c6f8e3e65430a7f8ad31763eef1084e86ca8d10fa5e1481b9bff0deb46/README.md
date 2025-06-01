@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 567G
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 181 day(s)\
 Subject: CN=SHAKEN 567G, O=Teliax Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11316.10798.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

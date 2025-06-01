@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 130B
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN 130B, O=Global Telecom, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/4efae05c-c8cd-405b-ae97-c62a52afd074/3f1b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

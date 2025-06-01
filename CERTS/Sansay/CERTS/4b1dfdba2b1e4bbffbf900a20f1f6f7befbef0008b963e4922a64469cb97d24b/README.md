@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Sansay Intermediate CA US WEST 1
 
-Tested At: 01 Jun 25 22:38 UTC\
+Tested At: 01 Jun 25 22:59 UTC\
 Initial Validity Period: 2555 day(s)\
 Remaining Validity Period: 1552 day(s)\
 Subject: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
@@ -21,4 +21,4 @@ Issuer: CN=SHAKEN Sansay Root CA US, OU=Sansay CA, O=Sansay Corporation, L=San D
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

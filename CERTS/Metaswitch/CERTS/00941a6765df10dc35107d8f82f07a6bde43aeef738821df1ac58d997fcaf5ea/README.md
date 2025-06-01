@@ -2,7 +2,7 @@
 
 ## Certificate Cellular South Licenses SHAKEN Cert 6581
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 624 day(s)\
 Subject: CN=Cellular South Licenses SHAKEN Cert 6581, O=Cellular South Licenses  DBA C Spire, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/d1af372b9cdb3ceba1f85f4ec3657797b3eb1c7
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 6581', but common name is 'Cellular South Licenses SHAKEN Cert 6581' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 223L
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:57 UTC\
 Initial Validity Period: 33 day(s)\
 Remaining Validity Period: 28 day(s)\
 Subject: serialNumber=FF1941F2-C7D0-48AC-BC2C-6859612427FD, CN=SHAKEN 223L, O=VoxStrom LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/2b68e1ea3c.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

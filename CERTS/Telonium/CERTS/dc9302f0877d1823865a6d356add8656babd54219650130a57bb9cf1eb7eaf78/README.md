@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 042L
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 143 day(s)\
 Subject: serialNumber=2223F3D0-3562-48F1-AB52-4546C076C906, CN=SHAKEN 042L, O=Telepath Communications Corp, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/NIJA8BOr.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

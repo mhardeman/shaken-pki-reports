@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN WWT INC dba VoIP Networks 053K
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -46 day(s)\
 Subject: CN=SHAKEN WWT INC dba VoIP Networks 053K, OU=Tier3, O=WWT INC dba VoIP Networks, ST=New Jersey, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/053K/429C7C70711E3820F0B8E1DEAE6FF32622649907.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

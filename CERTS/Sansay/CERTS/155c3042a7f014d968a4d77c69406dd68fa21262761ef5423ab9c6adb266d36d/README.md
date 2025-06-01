@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Socket Telecom LLC 554a
 
-Tested At: 01 Jun 25 22:27 UTC\
+Tested At: 01 Jun 25 22:50 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN Socket Telecom LLC 554a, O=Socket Telecom LLC, ST=Missouri, C=US\
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/554a/429C7C70711E3820F0B8E1DEAE6FF3262264C2E3.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 554a', but common name is 'SHAKEN Socket Telecom LLC 554a' |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

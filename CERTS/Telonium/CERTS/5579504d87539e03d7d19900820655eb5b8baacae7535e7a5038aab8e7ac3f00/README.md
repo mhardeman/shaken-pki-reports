@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 698K
 
-Tested At: 01 Jun 25 22:28 UTC\
+Tested At: 01 Jun 25 22:51 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: 325 day(s)\
 Subject: serialNumber=2DFF7978-37D6-4C3A-AB1B-4BFF100A1085, CN=SHAKEN 698K, O=Vitel Global Communication LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/25/95ce6176.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 660C
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -30 day(s)\
 Subject: CN=SHAKEN 660C, O=Hunter Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/a541dde9-cb96-4612-bb82-7884c3a4d18b/8876
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

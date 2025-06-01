@@ -2,7 +2,7 @@
 
 ## Certificate DTC Communications SHAKEN 0562
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:53 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 1027 day(s)\
 Subject: CN=DTC Communications SHAKEN 0562, O=DTC Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/82cf7b9a6d32df6dbe88d1a380b594f4be50692
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

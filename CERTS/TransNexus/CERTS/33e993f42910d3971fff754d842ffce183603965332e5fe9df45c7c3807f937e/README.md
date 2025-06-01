@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 860K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -27 day(s)\
 Subject: CN=SHAKEN 860K, O=NTT Cloud Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/860K/b99e6425-3929-4b7f-b9e2-0171552e6
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

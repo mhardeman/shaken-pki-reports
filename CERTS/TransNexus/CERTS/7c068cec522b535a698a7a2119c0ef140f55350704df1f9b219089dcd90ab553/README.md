@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 878K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:58 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -48 day(s)\
 Subject: CN=SHAKEN 878K, O=Bridge Communications\\, LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/e26810c5-120e-49ed-8336-7e785874bfda/feec
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

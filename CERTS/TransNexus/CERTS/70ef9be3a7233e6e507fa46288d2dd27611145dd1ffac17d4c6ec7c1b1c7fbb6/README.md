@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0753
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:56 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -93 day(s)\
 Subject: CN=SHAKEN 0753, O=Endeavor Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/426afef5-4cac-437d-817b-671ec10e028a/2a64
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC

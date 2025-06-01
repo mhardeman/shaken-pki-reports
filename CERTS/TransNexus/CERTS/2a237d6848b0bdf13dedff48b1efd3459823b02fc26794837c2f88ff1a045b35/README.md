@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 819H
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:52 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -30 day(s)\
 Subject: CN=SHAKEN 819H, O=BluIP Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/3c4ce448-386b-4d47-a276-7fe32e380a83/9371
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:39 UTC
+Generated: 01 Jun 25 22:59 UTC
