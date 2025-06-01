@@ -1,4 +1,4 @@
-module github.com/mhardeman/shaken-pki-reports
+module github.com/martinisecurity/shaken-pki-reports
 
 go 1.18
 
