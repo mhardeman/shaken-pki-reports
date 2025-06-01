@@ -11,14 +11,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/martinisecurity/shaken-pki-reports/cmd/internal"
-	"github.com/martinisecurity/shaken-pki-reports/repository"
+	"github.com/mhardeman/shaken-pki-reports/cmd/internal"
+	"github.com/mhardeman/shaken-pki-reports/repository"
 	"github.com/zmap/zcrypto/x509"
 	"github.com/zmap/zlint/v3"
 	"github.com/zmap/zlint/v3/lint"
 
-	uLint "github.com/martinisecurity/shaken-pki-reports/lint"
-	uLinter "github.com/martinisecurity/shaken-pki-reports/linter"
+	uLint "github.com/mhardeman/shaken-pki-reports/lint"
+	uLinter "github.com/mhardeman/shaken-pki-reports/linter"
 )
 
 type LintCommandArgs struct {
