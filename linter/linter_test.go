@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/martinisecurity/shaken-pki-reports/lint"
-	"github.com/martinisecurity/shaken-pki-reports/linter"
+	"github.com/mhardeman/shaken-pki-reports/lint"
+	"github.com/mhardeman/shaken-pki-reports/linter"
 )
 
 func TestLintUrl_HttpStatus404(t *testing.T) {
