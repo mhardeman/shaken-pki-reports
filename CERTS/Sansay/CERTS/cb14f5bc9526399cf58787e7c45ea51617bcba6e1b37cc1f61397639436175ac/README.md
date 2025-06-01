@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 711K
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 265 day(s)\
 Subject: CN=SHAKEN 711K, O=Contactivity Corp., C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/2b0bc92ebf4882b7c359a5c9b1894e9170775f99
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 219H
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 124 day(s)\
 Subject: CN=SHAKEN 219H, O=Network Enhanced Telecom LLP, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/219H/41fb1926-017a-4159-af36-bfadb1eb2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

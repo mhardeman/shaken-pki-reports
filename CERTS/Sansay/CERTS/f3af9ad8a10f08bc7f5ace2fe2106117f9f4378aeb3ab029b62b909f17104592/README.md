@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 7379
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -24 day(s)\
 Subject: CN=SHAKEN 7379, O=Matrix, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/7379/429C7C70711E3820F0B8E1DEAE6FF3262264C674.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

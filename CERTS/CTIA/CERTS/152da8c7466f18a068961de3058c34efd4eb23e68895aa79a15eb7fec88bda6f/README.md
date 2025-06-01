@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Intermediate CA 4
 
-Tested At: 01 Jun 25 22:38 UTC\
+Tested At: 01 Jun 25 22:39 UTC\
 Initial Validity Period: 3650 day(s)\
 Remaining Validity Period: 3450 day(s)\
 Subject: CN=SHAKEN Intermediate CA 4, O=CTIA, C=US\
@@ -13,4 +13,4 @@ Issuer: CN=SHAKEN Root CA, O=CTIA, C=US
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

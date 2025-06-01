@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0588
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN 0588, O=Com Net Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/fc014f5d-4bb4-4344-bae4-62b18a67786b/ec5e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 144L
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 32 day(s)\
 Remaining Validity Period: 13 day(s)\
 Subject: serialNumber=e02e600a-75fb-4485-a165-384de14db9f9, CN=SHAKEN 144L, O=Flexo Telecom LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/ocn/144L.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

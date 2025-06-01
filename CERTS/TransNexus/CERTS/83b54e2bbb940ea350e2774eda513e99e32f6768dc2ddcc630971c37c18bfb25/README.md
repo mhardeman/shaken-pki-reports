@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1577
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -8 day(s)\
 Subject: CN=SHAKEN 1577, O=Great Plains Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/5e573b0a-6141-441b-bedb-f350aa71625f/5886
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 825J
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: serialNumber=18E4F534-A63D-4F60-BA50-F5E2E2EB908F, CN=SHAKEN 825J, O=Rural Telecom Experts Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/5WwVcH7G.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

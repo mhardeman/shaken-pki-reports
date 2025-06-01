@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 187L
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 317 day(s)\
 Subject: serialNumber=C4407082-1BC0-4193-87A1-E22786BFE149, CN=SHAKEN 187L, O=Nikoo Incorporated, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/Khz0m1yD.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

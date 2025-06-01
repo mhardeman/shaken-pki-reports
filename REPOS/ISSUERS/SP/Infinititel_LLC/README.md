@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 203ms average time it took to download each certificate
+- 118ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://infinititel.peeredge.com/cert/lYF7XHUT.pem` | 13&#160;Nov&#160;25&#160;02:01&#160;UTC | true | [view](REPOS/c68ee7208d99ff221a794c4c664bf783f1891812/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

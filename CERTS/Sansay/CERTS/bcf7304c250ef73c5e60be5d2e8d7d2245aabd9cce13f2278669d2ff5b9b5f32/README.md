@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN BareTelecom 864J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -9 day(s)\
 Subject: CN=SHAKEN BareTelecom 864J, O=BareTelecom, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/864J/429C7C70711E3820F0B8E1DEAE6FF3262264C884.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

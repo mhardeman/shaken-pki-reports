@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 871J
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 177 day(s)\
 Subject: CN=SHAKEN 871J, O=Third Base International Telecom LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/0a8c103b1a8ad924229f7602a8149b7708c8fa6c
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

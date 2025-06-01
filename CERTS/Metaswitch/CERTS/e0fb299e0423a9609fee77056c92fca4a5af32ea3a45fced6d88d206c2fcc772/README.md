@@ -2,7 +2,7 @@
 
 ## Certificate Duo Broadband SHAKEN Cert 0401
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 603 day(s)\
 Subject: CN=Duo Broadband SHAKEN Cert 0401, O=Duo Broadband\\ , C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e6c8f8013706c0cbf0a78beb80d1f21374f43b1
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0401', but common name is 'Duo Broadband SHAKEN Cert 0401' |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

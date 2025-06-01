@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 812J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -59 day(s)\
 Subject: CN=SHAKEN 812J, O=RyTel LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/afd399bd-9e2e-440e-bb1c-aab07d24b6b5/e33b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

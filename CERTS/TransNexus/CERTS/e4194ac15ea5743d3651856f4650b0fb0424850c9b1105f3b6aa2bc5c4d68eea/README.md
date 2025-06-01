@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0800
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -73 day(s)\
 Subject: CN=SHAKEN 0800, O=NITCO, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/b010492a-20be-445f-94c4-7ed48f647a38/580c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 54ms average time it took to download each certificate
+- 136ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://x3x.us/jaoe0qp/9` | 08&#160;Jan&#160;26&#160;20:26&#160;UTC | true | [view](REPOS/4e02f3b2d922a46b6971be46e1a195df788101b7/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

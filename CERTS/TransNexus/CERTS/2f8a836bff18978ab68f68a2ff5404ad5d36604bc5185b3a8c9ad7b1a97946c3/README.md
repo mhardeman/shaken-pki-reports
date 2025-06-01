@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 841J
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 14 day(s)\
 Remaining Validity Period: -51 day(s)\
 Subject: CN=SHAKEN 841J, O=Securus Technologies LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/841J/06cd3f00-8585-4c4e-a11a-4edb3039d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

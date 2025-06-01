@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 525K
 
-Tested At: 01 Jun 25 22:38 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 318 day(s)\
 Subject: CN=SHAKEN 525K, O=AU Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/0a31260426020902a005c5dcd884b592b83f62e2
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

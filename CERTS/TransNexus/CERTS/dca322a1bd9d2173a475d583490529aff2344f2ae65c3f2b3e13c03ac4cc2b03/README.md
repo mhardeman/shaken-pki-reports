@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 9 day(s)\
 Remaining Validity Period: -86 day(s)\
 Subject: CN=SHAKEN 738J, O=SkySwitch, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/738J/fb9239e3-baea-4068-9870-174a5d82e
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

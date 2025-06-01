@@ -2,7 +2,7 @@
 
 ## Certificate Vexus Fiber SHAKEN Cert 4913
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 392 day(s)\
 Subject: CN=Vexus Fiber SHAKEN Cert 4913, O=Vexus Fiber, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/97be1f553890f85d8a8bf06683588ce5061742f
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 4913', but common name is 'Vexus Fiber SHAKEN Cert 4913' |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 866J
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 38 day(s)\
 Subject: CN=SHAKEN 866J, O=VocalIP, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/866J/80cc5dd0-1bd8-4a6c-94c6-f8b3a35e5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

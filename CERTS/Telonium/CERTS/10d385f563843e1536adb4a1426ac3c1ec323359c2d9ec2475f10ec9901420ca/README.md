@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 034L
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 231 day(s)\
 Remaining Validity Period: 128 day(s)\
 Subject: serialNumber=46A98D2B-4290-4ADA-85B2-3E5012B7C9AC, CN=SHAKEN 034L, O=Tele-Data Communications Corporation, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/s447T28n.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

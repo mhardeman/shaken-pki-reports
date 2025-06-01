@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 178L
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 312 day(s)\
 Subject: serialNumber=542BC89E-505E-482F-B658-907EBC6530C6, CN=SHAKEN 178L, O=UTEL USA LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/LHBPGlEG.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

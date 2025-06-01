@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 183ms average time it took to download each certificate
+- 169ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://essextel.peeredge.com/cert/U9FNez2N.pem` | 18&#160;Mar&#160;26&#160;15:07&#160;UTC | true | [view](REPOS/401687d884fa74e408bb6b618b71c07385bcd550/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IP Link Telecom Inc. 902J
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 215 day(s)\
 Subject: CN=SHAKEN IP Link Telecom Inc. 902J, O=IP Link Telecom Inc., ST=Oregon, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/902J/429C7C70711E3820F0B8E1DEAE6FF3262264B92E.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 902J', but common name is 'SHAKEN IP Link Telecom Inc. 902J' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 902J', but common name is 'SHAKEN IP Link Telecom Inc. 902J' |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

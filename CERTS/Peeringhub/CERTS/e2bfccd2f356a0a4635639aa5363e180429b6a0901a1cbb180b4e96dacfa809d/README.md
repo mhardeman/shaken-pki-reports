@@ -2,7 +2,7 @@
 
 ## Certificate Autodial Telecommunications LLC_1723148189119 SHAKEN 677K
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:27 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 68 day(s)\
 Subject: CN=Autodial Telecommunications LLC_1723148189119 SHAKEN 677K, O=Autodial Telecommunications LLC, L=Fremont, ST=CA, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/677K/r1RvaBfe/677K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

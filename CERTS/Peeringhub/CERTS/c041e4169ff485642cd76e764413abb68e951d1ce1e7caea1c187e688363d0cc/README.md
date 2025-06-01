@@ -2,7 +2,7 @@
 
 ## Certificate Ahoi SHAKEN 883K
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 17 day(s)\
 Subject: CN=Ahoi SHAKEN 883K, O=Ahoi, L=Dover, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/883K/883K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

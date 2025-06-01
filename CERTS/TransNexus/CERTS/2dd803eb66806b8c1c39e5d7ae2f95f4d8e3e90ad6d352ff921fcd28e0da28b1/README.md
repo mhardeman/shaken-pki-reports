@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 523H
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -13 day(s)\
 Subject: CN=SHAKEN 523H, O=CDYNE Services LLC\\, dba Esendex, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9c662d50-29c6-431b-a367-42e9bd4925f1/75a2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

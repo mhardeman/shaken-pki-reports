@@ -2,7 +2,7 @@
 
 ## Certificate U. S. Telepacific Corp SHAKEN 7453
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 673 day(s)\
 Subject: CN=U. S. Telepacific Corp SHAKEN 7453, OU=Qcall, O=U. S. Telepacific Corp, L=Los Angeles, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://qcall.meta.tpx.net/certs/tpx2024certchain.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 242L
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 347 day(s)\
 Subject: serialNumber=C18254C1-1AAE-4153-864C-095B2AD4BB3E, CN=SHAKEN 242L, O=ULTATEL LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.ultatel.com/shaken.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

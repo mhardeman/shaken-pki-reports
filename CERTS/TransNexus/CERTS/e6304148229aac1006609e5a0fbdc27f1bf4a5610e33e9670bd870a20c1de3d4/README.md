@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 735J
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -18 day(s)\
 Subject: CN=SHAKEN 735J, O=AVOXI Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/11124177-79f3-48b2-867a-386d4dc61c99/6cdb
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

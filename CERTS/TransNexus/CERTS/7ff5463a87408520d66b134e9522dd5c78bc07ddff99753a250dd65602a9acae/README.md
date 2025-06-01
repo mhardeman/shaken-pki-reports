@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 021K
 
-Tested At: 01 Jun 25 22:38 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -19 day(s)\
 Subject: CN=SHAKEN 021K, O=Voipia Networks, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/05505eb7-fca1-40a5-bdc0-55eeaa9901e7/8a27
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 852J
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -3 day(s)\
 Subject: CN=SHAKEN 852J, O=Active Solutions Group dba CallHarbor, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0d5f1694-4a5b-4728-9c5f-fc76d46a3c55/c98a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

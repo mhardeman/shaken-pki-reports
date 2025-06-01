@@ -2,7 +2,7 @@
 
 ## Certificate Nemont SHAKEN 2247
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 699 day(s)\
 Subject: CN=Nemont SHAKEN 2247, O=Nemont Telephone Cooperative Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/6391f2249c27f88e11aef29333b4bc382cdc154
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

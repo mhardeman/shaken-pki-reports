@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 951J
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 250 day(s)\
 Subject: CN=SHAKEN 951J, O=Zultys\\, Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://zultys-pem-cert-2022.s3.amazonaws.com/b0e8d800221ea37e21e5a76775c1
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

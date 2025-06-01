@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 197ms average time it took to download each certificate
+- 120ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://coztel.peeredge.com/cert/mLLEnVJO.pem` | 26&#160;Mar&#160;26&#160;13:45&#160;UTC | true | [view](REPOS/9cabea7e779cce9cbebb0988d7e04a5811fb033d/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

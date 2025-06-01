@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 974K
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 80 day(s)\
 Subject: serialNumber=846717C8-E608-44ED-8046-FD2AF679C6BD, CN=SHAKEN 974K, O=SIP Crew LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/58c3abfdfe.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

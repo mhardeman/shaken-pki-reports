@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 521K
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 180 day(s)\
 Remaining Validity Period: 146 day(s)\
 Subject: CN=SHAKEN 521K, O=Voice SY LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://voice.peeredge.com/cert/rvXrJQSz.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

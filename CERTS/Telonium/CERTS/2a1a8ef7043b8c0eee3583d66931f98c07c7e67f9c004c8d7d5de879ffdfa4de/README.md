@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 217L
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 325 day(s)\
 Subject: serialNumber=00D44C20-9FA3-4EE4-86F3-5060229FF6FA, CN=SHAKEN 217L, O=Nationwide Telecom Inc - Canada, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/s17bdPXJ.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

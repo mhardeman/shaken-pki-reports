@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 155ms average time it took to download each certificate
+- 191ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -20,4 +20,4 @@
 | `https://fstelephony.dialpad.net/static/cert/shaken_identity_2025_1.cer` | 02&#160;May&#160;26&#160;17:12&#160;UTC | true | [view](REPOS/a7fdd94d85a69f049e45b333e655df728a366fa5/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

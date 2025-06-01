@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 747J
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -75 day(s)\
 Subject: CN=SHAKEN 747J, O=Magic Apple, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9e31f6fe-cfd3-49cc-b9fc-22963012a8d7/92a3
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

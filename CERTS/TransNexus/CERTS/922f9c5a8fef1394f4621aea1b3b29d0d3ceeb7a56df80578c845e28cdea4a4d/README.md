@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 8128
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN 8128, O=BCN Telecom, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/6c0344f9-59da-4a95-8f91-5ca4d2177a9a/7a62
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

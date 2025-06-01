@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 769J
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -33 day(s)\
 Subject: CN=SHAKEN 769J, O=Affiliated Technology Solutions LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/471a46b3-3de4-4aa2-964b-2ff03ddbc8fe/6956
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

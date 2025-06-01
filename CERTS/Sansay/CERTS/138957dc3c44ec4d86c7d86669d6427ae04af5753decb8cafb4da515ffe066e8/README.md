@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 052L Call Logistics INC
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 153 day(s)\
 Subject: CN=SHAKEN 052L Call Logistics INC, O=Call Logistics INC, C=US\
@@ -16,4 +16,4 @@ Link: https://autelecom.peeredge.com/cert/eERiTLql.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

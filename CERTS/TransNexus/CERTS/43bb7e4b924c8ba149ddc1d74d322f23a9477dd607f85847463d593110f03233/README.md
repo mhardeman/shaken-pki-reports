@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2252
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -68 day(s)\
 Subject: CN=SHAKEN 2252, O=Vantage Point Solutions\\ , C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/b0b715fe-25e1-4ac9-97a4-c4334ef5ae19/ce53
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

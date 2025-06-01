@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 406K
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 406K, O=CommandLink, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c1c27f53-dd56-44ca-9bba-45ce603a05d9/9435
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

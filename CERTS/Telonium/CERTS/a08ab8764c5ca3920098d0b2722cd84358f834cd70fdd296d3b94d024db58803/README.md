@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 176L
 
-Tested At: 01 Jun 25 22:38 UTC\
+Tested At: 01 Jun 25 22:35 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 319 day(s)\
 Subject: serialNumber=BE8D2CD2-E4FB-43C0-B45A-06D6D6887D71, CN=SHAKEN 176L, O=Telepars Telecommunications Corp, C=US\
@@ -14,4 +14,4 @@ Link: https://eon.peeredge.com/cert/LShmLxSX.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

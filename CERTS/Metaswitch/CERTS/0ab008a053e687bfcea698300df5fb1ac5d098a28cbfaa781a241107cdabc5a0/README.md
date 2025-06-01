@@ -2,7 +2,7 @@
 
 ## Certificate Avid Communication SHAKEN 742D
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 1022 day(s)\
 Subject: CN=Avid Communication SHAKEN 742D, O=Avid Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/0cd04dcda95032f0305055d449d60db49bfd1b0
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

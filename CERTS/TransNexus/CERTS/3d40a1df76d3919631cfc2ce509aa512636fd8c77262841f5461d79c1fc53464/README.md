@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 401D
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -81 day(s)\
 Subject: CN=SHAKEN 401D, O=United Telephone Association, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c358c640-0ab7-4bc7-b394-ebaa9bd47f88/b3bc
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

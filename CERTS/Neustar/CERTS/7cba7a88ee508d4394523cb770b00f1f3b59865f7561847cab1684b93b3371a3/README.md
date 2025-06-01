@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 418c
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 221 day(s)\
 Subject: CN=SHAKEN 418c, O=Armstrong Telecommunications Inc, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11114.10884.pem
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '418c' contains characters other than uppercase letters and numbers |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

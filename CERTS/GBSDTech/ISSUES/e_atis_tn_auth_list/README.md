@@ -19,4 +19,4 @@ Description: STI End-Entity certificates shall contain a TNAuthList extension as
 No error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

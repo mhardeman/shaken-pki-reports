@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 025L
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 118 day(s)\
 Subject: serialNumber=BDC12629-EC96-4988-8922-9847A804EF50, CN=SHAKEN 025L, O=GradCon Intl LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/b190235921.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

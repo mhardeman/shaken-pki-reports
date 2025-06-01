@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 014E
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -69 day(s)\
 Subject: CN=SHAKEN 014E, O=IdeaTek Telcom, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/1d654fd0-a496-463d-87c0-7fef44ec35c9/45e5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

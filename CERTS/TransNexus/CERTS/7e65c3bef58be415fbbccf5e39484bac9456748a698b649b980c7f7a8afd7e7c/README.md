@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 284K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -73 day(s)\
 Subject: CN=SHAKEN 284K, O=VoiceLift\\, Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/21415d15-f5d7-4c58-abe7-c434ef2bae36/ea9d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 830K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 761 day(s)\
 Remaining Validity Period: 616 day(s)\
 Subject: serialNumber=EE45D541-9257-4B3F-969B-46E1B3A89D8E, CN=SHAKEN 830K, O=Cebod Technologies LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/25/b3b00e31.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

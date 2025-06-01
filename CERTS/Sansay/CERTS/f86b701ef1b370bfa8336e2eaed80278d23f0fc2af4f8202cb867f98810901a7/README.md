@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 187J
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN 187J, O=Alvaria, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/187J/429C7C70711E3820F0B8E1DEAE6FF3262264CB7C.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

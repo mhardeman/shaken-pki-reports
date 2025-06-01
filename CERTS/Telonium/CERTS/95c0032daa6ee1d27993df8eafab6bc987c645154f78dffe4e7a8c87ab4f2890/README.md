@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 086L
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 285 day(s)\
 Subject: serialNumber=C5997AAC-5FD4-44B5-9718-FD0BAD4C8F76, CN=SHAKEN 086L, O=Mexico IP Phone LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/bbde6c2b4a7229cca5d3b00f2a633182171dac13
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

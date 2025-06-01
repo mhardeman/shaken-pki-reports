@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 695G
 
-Tested At: 01 Jun 25 22:37 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -89 day(s)\
 Subject: CN=SHAKEN 695G, O=ImOn Communications LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/cbb08c21-d354-4f21-9e97-141fc880ebca/6020
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

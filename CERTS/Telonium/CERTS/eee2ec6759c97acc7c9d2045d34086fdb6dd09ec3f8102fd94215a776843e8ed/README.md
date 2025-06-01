@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 068F
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 379 day(s)\
 Remaining Validity Period: -19 day(s)\
 Subject: serialNumber=F784E084-DC06-4512-B8E3-4D6D673EAECA, CN=SHAKEN 068F, O=Fullnet Advanced Communications Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/d29abadb.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 753J
 
-Tested At: 01 Jun 25 22:29 UTC\
+Tested At: 01 Jun 25 22:27 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -40 day(s)\
 Subject: CN=SHAKEN 753J, O=Senawave Communications\\, Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/ec37fdce-f409-4bc8-89e7-bd7f2679e0c8/c71c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

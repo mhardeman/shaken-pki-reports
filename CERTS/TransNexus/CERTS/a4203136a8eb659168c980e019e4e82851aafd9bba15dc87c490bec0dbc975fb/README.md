@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2218
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -56 day(s)\
 Subject: CN=SHAKEN 2218, O=RINA Wireless, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/aee1513c-0418-4b1a-92cf-534717e3adad/8407
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -3,8 +3,8 @@
 ## Ribbon Communications
 
 Name: `https://prod001-prod011-cr.rbbnidhub.com/fh2Fl4xVgz/0renew-5b163d53d5d0798dc2ea9f0515c2ab0a`\
-Tested At: 01 Jun 25 22:38 UTC\
-Time: 127ms
+Tested At: 01 Jun 25 22:35 UTC\
+Time: 148ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 127ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

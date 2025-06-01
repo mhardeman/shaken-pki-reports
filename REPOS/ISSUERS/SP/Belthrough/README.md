@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 33ms average time it took to download each certificate
+- 28ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cdn.cnxcdn.com/shaken/2845505593.crt` | 11&#160;Mar&#160;26&#160;19:26&#160;UTC | true | [view](REPOS/ddd7efc241a59a77a45cf773167b75055b8007da/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

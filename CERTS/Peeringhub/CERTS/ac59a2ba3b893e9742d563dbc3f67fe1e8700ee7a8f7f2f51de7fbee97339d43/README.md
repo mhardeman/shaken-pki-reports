@@ -2,7 +2,7 @@
 
 ## Certificate Teleinx, LLC_1730756614004 SHAKEN 744J
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 320 day(s)\
 Remaining Validity Period: 111 day(s)\
 Subject: CN=Teleinx\\, LLC_1730756614004 SHAKEN 744J, O=Teleinx\\, LLC, L=Boynton Beach, ST=FL, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/744J/YKyL2ekt/744J.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

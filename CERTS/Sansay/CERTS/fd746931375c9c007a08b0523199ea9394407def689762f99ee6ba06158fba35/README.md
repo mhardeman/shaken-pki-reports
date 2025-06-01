@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Zray Technologies Corporation 862J
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -49 day(s)\
 Subject: CN=SHAKEN Zray Technologies Corporation 862J, O=Zray Technologies Corporation, ST=California, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/862J/429C7C70711E3820F0B8E1DEAE6FF3262264C320.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 862J', but common name is 'SHAKEN Zray Technologies Corporation 862J' |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

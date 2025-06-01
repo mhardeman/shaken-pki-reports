@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 952J
 
-Tested At: 01 Jun 25 22:30 UTC\
+Tested At: 01 Jun 25 22:28 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -43 day(s)\
 Subject: CN=SHAKEN 952J, O=Syndeo LLC dba Broadvoice, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/952J/18956555-cb28-45b3-bbd5-292a5ed91
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

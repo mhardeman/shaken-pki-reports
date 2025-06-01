@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://primodialer.peeredge.com/cert/AVWQeQjF.pem`\
-Tested At: 01 Jun 25 22:37 UTC\
-Time: 43ms
+Tested At: 01 Jun 25 22:34 UTC\
+Time: 29ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 43ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://primodialer.peeredge.com/cert/AVWQeQjF.pem": dial tcp: lookup primodialer.peeredge.com: no such host |
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

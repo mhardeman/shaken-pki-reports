@@ -9,7 +9,7 @@
 - 77.69% of repository URLs contain one or more Error level issue
 - 28.10% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 84ms average time it took to download each certificate
+- 98ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -143,4 +143,4 @@
 | `https://sticr.stir.comcast.com/ffb96d68-f119-42bd-bbd0-b8f94f30def2.pem` | 12&#160;Apr&#160;25&#160;10:41&#160;UTC | true | [view](REPOS/cc9b05a17da8ed005df09bc35293e54f66f00c8e/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Appalachian Wireless SHAKEN 6940
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 705 day(s)\
 Subject: CN=Appalachian Wireless SHAKEN 6940, O=Appalachian Wireless, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/1ad08815a367305dc038359652947c0e17ee05b
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

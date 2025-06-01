@@ -2,7 +2,7 @@
 
 ## Certificate Kaplan Telephone SHAKEN 0432
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 1006 day(s)\
 Subject: CN=Kaplan Telephone SHAKEN 0432, O=Kaplan Telephone, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e8a30914a93822abe2262f6ffedfadd7837edc3
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

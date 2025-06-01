@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN GIP Technology 434K
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -39 day(s)\
 Subject: CN=SHAKEN GIP Technology 434K, OU=GIPT, O=GIP Technology, ST=California, C=US\
@@ -13,8 +13,8 @@ Link: https://eon.peeredge.com/cert/29L4LZxt.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 434K', but common name is 'SHAKEN GIP Technology 434K' |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

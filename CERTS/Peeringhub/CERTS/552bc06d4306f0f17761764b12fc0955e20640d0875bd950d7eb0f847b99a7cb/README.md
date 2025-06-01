@@ -2,7 +2,7 @@
 
 ## Certificate TruTelco SHAKEN 926K
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 308 day(s)\
 Remaining Validity Period: -12 day(s)\
 Subject: CN=TruTelco SHAKEN 926K, O=TruTelco, L=Lake, ST=FL, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/926K/926K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

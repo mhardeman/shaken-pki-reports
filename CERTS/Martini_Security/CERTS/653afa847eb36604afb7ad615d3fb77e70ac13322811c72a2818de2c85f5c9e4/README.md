@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 760K
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 230 day(s)\
 Subject: O=Last Mile Corp., C=US, serialNumber=EBB469FB634453005C3FF66693A32782, CN=SHAKEN 760K\
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/6bc459fc6b5d5a3c8957f5d04c4f5d75461700a6
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

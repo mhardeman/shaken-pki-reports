@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 91ms average time it took to download each certificate
+- 201ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certs.icallr.com/712K/voipedia.pem` | 21&#160;Oct&#160;25&#160;18:47&#160;UTC | true | [view](REPOS/5b5869d27fd70f837cca9453ff4f2ec422de6025/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 270ms average time it took to download each certificate
+- 247ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -635,4 +635,4 @@
 | `https://cr.sansay.com/996H/429C7C70711E3820F0B8E1DEAE6FF3262264BFDC.pem` | 20&#160;Feb&#160;26&#160;14:25&#160;UTC | true | [view](REPOS/a9e8c45ee634dfbd88d3c4d3b6a87a5e38e88342/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

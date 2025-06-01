@@ -2,7 +2,7 @@
 
 ## Certificate MAQS Solutions LLC_1744844807390 SHAKEN 255K
 
-Tested At: 01 Jun 25 22:31 UTC\
+Tested At: 01 Jun 25 22:29 UTC\
 Initial Validity Period: 37 day(s)\
 Remaining Validity Period: -8 day(s)\
 Subject: CN=MAQS Solutions LLC_1744844807390 SHAKEN 255K, O=MAQS Solutions LLC, L=Lewes, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/255K/jxcM2GOW/255K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

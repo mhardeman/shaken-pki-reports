@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 366G
 
-Tested At: 01 Jun 25 22:32 UTC\
+Tested At: 01 Jun 25 22:30 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -36 day(s)\
 Subject: CN=SHAKEN 366G, O=USA Digital, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/366G/a57e41d6-6551-45ee-9619-d7b78abc6
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

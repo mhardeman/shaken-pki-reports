@@ -2,7 +2,7 @@
 
 ## Certificate CTS Telecom SHAKEN 8331
 
-Tested At: 01 Jun 25 22:35 UTC\
+Tested At: 01 Jun 25 22:32 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 812 day(s)\
 Subject: CN=CTS Telecom SHAKEN 8331, O=CTS Telecom, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/71289d110a8664f62a9c8585e99f82aba104720
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

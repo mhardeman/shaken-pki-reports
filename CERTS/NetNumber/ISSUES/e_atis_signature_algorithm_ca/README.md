@@ -20,4 +20,4 @@ No error, warning, or notice level issues were found
 | error | NetNumber SHAKEN Root CA 1 | [view](../../CERTS/2dd1386ca717f31d550b35b9bce9daa9b02483bcdb98bdfcfca07202276136d7/README.md) | SignatureAlgorithm field is not 'ecdsa-with-SHA256', got 1.2.840.10045.4.3.4 |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

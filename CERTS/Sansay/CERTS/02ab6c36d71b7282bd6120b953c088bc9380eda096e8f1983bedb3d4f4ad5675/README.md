@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Convoso 758J
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:34 UTC\
 Initial Validity Period: 35 day(s)\
 Remaining Validity Period: 29 day(s)\
 Subject: CN=SHAKEN Convoso 758J, O=Convoso, ST=California, C=US\
@@ -13,8 +13,8 @@ Link: https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 758J', but common name is 'SHAKEN Convoso 758J' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 758J', but common name is 'SHAKEN Convoso 758J' |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

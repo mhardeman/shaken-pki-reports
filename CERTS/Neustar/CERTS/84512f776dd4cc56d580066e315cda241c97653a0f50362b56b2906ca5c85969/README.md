@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 743J
 
-Tested At: 01 Jun 25 22:33 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -26 day(s)\
 Subject: CN=SHAKEN 743J, O=Whisl Telecom LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://whisl.peeredge.com/cert/3aJ5EfRe.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -65,4 +65,4 @@
 | 12&#160;Mar&#160;24&#160;00:00&#160;UTC | SHAKEN Ribbon Issuing CA 2 | 11&#160;Mar&#160;36&#160;23:59&#160;UTC | true | [view](CERTS/2b48949bed753b3edc3645a638704bd1e708cd047117e3fe8af6cb144fa3a8c5/README.md) |
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

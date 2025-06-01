@@ -3,8 +3,8 @@
 ## 925 Telecom LLC
 
 Name: `https://ssc.getsipnav.com/certs/abf66d22339de1cea2f7c85b7e66c4ab1206c5ad`\
-Tested At: 01 Jun 25 22:34 UTC\
-Time: 51ms
+Tested At: 01 Jun 25 22:31 UTC\
+Time: 43ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 51ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

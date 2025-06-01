@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 653J
 
-Tested At: 01 Jun 25 22:34 UTC\
+Tested At: 01 Jun 25 22:31 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -76 day(s)\
 Subject: CN=SHAKEN 653J, O=PhoenixSoft, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/891134e3-7b9b-4c08-bff2-d7c157fbd5cf/ce9d
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 979K
 
-Tested At: 01 Jun 25 22:36 UTC\
+Tested At: 01 Jun 25 22:33 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 199 day(s)\
 Subject: serialNumber=DBC5E3E7-12C6-4C94-BCD2-6861C75D976A, CN=SHAKEN 979K, O=Vonexta Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/e29dc4ea.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 01 Jun 25 22:38 UTC
+Generated: 01 Jun 25 22:39 UTC
