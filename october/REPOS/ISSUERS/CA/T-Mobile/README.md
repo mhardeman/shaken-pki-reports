@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 164ms average time it took to download each certificate
+- 116ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -24,4 +24,4 @@
 | `https://t-mobile-sticr.fosrvt.com/f59530d22b839d3b50a91a6279e8b1e0510cade2b8913ff3011c89e3f3725300.pem` | 11&#160;Sep&#160;24&#160;14:47&#160;UTC | true | [view](REPOS/f82ef671c6b685ba76c9ac3aa18ead1811598767/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

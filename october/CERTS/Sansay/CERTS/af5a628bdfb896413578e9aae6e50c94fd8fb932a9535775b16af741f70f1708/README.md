@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ALD Telecom 780J
 
-Tested At: 02 Jun 25 03:23 UTC\
+Tested At: 02 Jun 25 18:37 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -10 day(s)\
+Remaining Validity Period: -11 day(s)\
 Subject: CN=SHAKEN ALD Telecom 780J, OU=ALD_Telecom, O=ALD Telecom, ST=Arizona, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/780J/429C7C70711E3820F0B8E1DEAE6FF32622649D45.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/780J/429C7C70711E3820F0B8E1DEAE6FF32622649D45.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 46ms average time it took to download each certificate
+- 59ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://certificates.piratel.com/piratel_20240813.crt` | 13&#160;Aug&#160;25&#160;18:14&#160;UTC | true | [view](REPOS/9fad5944a28b0e33e6a5b5630630953a66458c7c/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN ConvergeTel LLC 388K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -479 day(s)\
 Subject: CN=SHAKEN ConvergeTel LLC 388K, OU=IT Depart, O=ConvergeTel LLC, ST=Delaware, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/ConvergeStirShaken
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 388K', but common name is 'SHAKEN ConvergeTel LLC 388K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 388K', but common name is 'SHAKEN ConvergeTel LLC 388K' |
 
 ### Not Effective
 
@@ -26,4 +26,4 @@ Link: https://cr.sansay.com/ConvergeStirShaken
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

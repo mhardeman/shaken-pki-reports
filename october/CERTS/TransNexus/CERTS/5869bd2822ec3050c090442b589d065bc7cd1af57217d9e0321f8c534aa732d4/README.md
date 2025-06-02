@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 495J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -252 day(s)\
 Subject: CN=SHAKEN 495J, O=Stratus, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/94c136bd-6438-40a6-b740-7765d5ead597/a69f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

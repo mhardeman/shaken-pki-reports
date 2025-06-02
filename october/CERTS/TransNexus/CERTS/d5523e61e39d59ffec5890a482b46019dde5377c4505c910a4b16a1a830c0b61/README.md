@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0382
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -292 day(s)\
+Remaining Validity Period: -293 day(s)\
 Subject: CN=SHAKEN 0382, O=Ringgold Telephone, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/50408dfc-c7d7-40d7-890d-70e7db9bbf4f/4fd4dbcd2e0d1199e5cd5ec8821c3796.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/50408dfc-c7d7-40d7-890d-70e7db9bbf4f/4fd4
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

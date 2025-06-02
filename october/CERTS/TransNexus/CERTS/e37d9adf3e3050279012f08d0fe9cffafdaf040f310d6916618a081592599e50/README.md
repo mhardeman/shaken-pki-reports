@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 833J
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -322 day(s)\
+Remaining Validity Period: -323 day(s)\
 Subject: CN=SHAKEN 833J, O=PressONE, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/9e6c2ab77c74725163ea5e5868934042.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/b6b24cc6-4f92-4a6b-a293-f52579c0d95a/9e6c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

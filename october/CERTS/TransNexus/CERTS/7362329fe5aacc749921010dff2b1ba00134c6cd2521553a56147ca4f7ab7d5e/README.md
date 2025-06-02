@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 131K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -322 day(s)\
+Remaining Validity Period: -323 day(s)\
 Subject: CN=SHAKEN 131K, O=MVP Holdings, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e03b2ef9-7f1c-4e39-ad7f-800ba8d3f614/86e5736baf5b1d761f3ab8e9b115c318.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/e03b2ef9-7f1c-4e39-ad7f-800ba8d3f614/86e5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

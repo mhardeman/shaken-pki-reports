@@ -9,7 +9,7 @@
 - 50.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 88ms average time it took to download each certificate
+- 134ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://hostedpbx.siplink.in/new_cert.crt` | 20&#160;May&#160;26&#160;13:50&#160;UTC | true | [view](REPOS/ab8cd14d9a32636182b9f3f6116ed2c27da85f75/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

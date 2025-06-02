@@ -21,12 +21,11 @@ Description: Request timed out
 | `https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11021.10007` |  | true | [view](../../REPOS/d7aa26b0beeab515cea6e351a452e7e36f79a7de/README.md) |
 | `https://cr.ccid.alticeusa.com/ccid/authn/v2/certs/11022.10007` |  | true | [view](../../REPOS/f0fef40686e9f573ca8e66dd7ae6658709bfa59a/README.md) |
 | `https://crs.sti.uscellular.com/certs/uscc_shaken_CA.crt` |  | true | [view](../../REPOS/b2a4177b5a547e2a4c30c52aa4ff68a0b2d2899c/README.md) |
-| `https://ecms.securetransit.net/certs/06517b2e2010ec1a2b429664047353b6.cer` |  | true | [view](../../REPOS/c6cfa5a7974b7a02686bec7814d02480dbb59175/README.md) |
-| `https://ecms.securetransit.net/certs/410bad9e05a57353f0d8739a421be619.cer` |  | true | [view](../../REPOS/6034f9862b22502cb879614b1690e2d94043ecb9/README.md) |
+| `https://dial.maqssolution.live/255KJA23.pem` |  | true | [view](../../REPOS/f376e485e636045a531156ebf2bf9116e201a30d/README.md) |
 | `https://eighty9.maqssolution.live/MAQS255K.crt` |  | true | [view](../../REPOS/fcc4cdb4bed5d498cd31b0ea1cfc1d7a847951c5/README.md) |
 | `https://nyc01.trunks2.calldecibel.com:5000/stirshaken_certs/149K.pem` |  | true | [view](../../REPOS/b16568b0edf5403b4e836d10e1494c45c935b2c2/README.md) |
 | `https://ss.verify.sas2.co/cert.pem` |  | true | [view](../../REPOS/4db9e0762985e72566407f6b4893a7cd30ce5a47/README.md) |
 | `https://stirshaken.bts.io/api/v1/certificates/b3f8527d0c31ee0d9d9e19da01e8cf68.cer` |  | true | [view](../../REPOS/bbcb5a6f6b8ed016e644dc0203c867ebe0aa902c/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

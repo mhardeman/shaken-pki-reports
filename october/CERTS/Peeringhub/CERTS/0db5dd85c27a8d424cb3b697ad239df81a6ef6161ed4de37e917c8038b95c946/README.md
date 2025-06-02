@@ -2,7 +2,7 @@
 
 ## Certificate IronSIP LLC_1715023953862 SHAKEN 676K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 33 day(s)\
 Remaining Validity Period: -359 day(s)\
 Subject: CN=IronSIP LLC_1715023953862 SHAKEN 676K, O=IronSIP LLC, L=Phoenix, ST=AZ, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/676K/Y7Tt1BPb/676K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

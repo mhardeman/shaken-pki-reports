@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1501
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 325 day(s)\
 Subject: CN=SHAKEN 1501, O=West Central Telephone Association, C=US\
@@ -16,4 +16,4 @@ Link: https://cr-partner.ccid.neustar.biz/ccid/authn/v2/certs/65.310
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

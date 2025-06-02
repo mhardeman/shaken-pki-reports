@@ -2,9 +2,9 @@
 
 ## Certificate FlowVOIP LLC._1744088504457 SHAKEN 849K
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 311 day(s)\
+Remaining Validity Period: 310 day(s)\
 Subject: CN=FlowVOIP LLC._1744088504457 SHAKEN 849K, O=FlowVOIP, L=miami, ST=FL, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://cdn.cnxcdn.com/shaken/2cee92bfa4.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/2cee92bfa4.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 049K
 
-Tested At: 02 Jun 25 03:31 UTC\
+Tested At: 02 Jun 25 18:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -703 day(s)\
 Subject: CN=SHAKEN 049K, O=Dialpad Inc., C=US\
@@ -25,4 +25,4 @@ Link: https://fstelephony.appspot.com/static/cert/shaken_identity_2022_3.cer
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

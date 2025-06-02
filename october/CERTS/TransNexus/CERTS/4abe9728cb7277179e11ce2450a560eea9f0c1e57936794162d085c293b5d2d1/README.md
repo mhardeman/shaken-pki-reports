@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 878K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -348 day(s)\
+Remaining Validity Period: -349 day(s)\
 Subject: CN=SHAKEN 878K, O=Bridge Communications\\, LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/e26810c5-120e-49ed-8336-7e785874bfda/a7526d4d5cf06c7b0f3150308d9ca38b.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/e26810c5-120e-49ed-8336-7e785874bfda/a752
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

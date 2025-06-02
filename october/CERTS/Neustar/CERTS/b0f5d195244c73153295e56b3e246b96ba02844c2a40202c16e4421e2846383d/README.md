@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 502E
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -64 day(s)\
 Subject: CN=SHAKEN 502E, O=AccessLine Communications Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://sscerts.accessline.com/sscerts/Cert-US-04-2024.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 653J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -277 day(s)\
+Remaining Validity Period: -278 day(s)\
 Subject: CN=SHAKEN 653J, O=PhoenixSoft, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/891134e3-7b9b-4c08-bff2-d7c157fbd5cf/6a352a47e9682fbd718afe422c5d48e4.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/891134e3-7b9b-4c08-bff2-d7c157fbd5cf/6a35
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

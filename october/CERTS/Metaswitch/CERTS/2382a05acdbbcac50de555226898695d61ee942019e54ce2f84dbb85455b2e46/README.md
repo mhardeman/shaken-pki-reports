@@ -2,9 +2,9 @@
 
 ## Certificate U. S. Telepacific Corp SHAKEN 7453
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 673 day(s)\
+Remaining Validity Period: 672 day(s)\
 Subject: CN=U. S. Telepacific Corp SHAKEN 7453, OU=Qcall, O=U. S. Telepacific Corp, L=Los Angeles, ST=California, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://qcall.meta.tpx.net/certs/tpx2024certchain.crt
@@ -17,4 +17,4 @@ Link: https://qcall.meta.tpx.net/certs/tpx2024certchain.crt
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

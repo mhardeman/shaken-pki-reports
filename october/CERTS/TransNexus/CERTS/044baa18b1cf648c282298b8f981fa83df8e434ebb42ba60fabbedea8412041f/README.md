@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 159H
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -356 day(s)\
 Subject: CN=SHAKEN 159H, O=Edge Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/159H/3ef0d243-a472-4e59-aef1-cfb53926f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

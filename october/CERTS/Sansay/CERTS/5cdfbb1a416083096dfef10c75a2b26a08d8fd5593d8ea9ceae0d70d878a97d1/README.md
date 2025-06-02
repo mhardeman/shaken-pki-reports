@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Every1 Telecom 486K
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -441 day(s)\
 Subject: CN=SHAKEN Every1 Telecom 486K, OU=President, O=Every1 Telecom, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://ssc.getsipnav.com/certs/151999133200d5cd3cac1e5d07af806d25ef74f4
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 486K', but common name is 'SHAKEN Every1 Telecom 486K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

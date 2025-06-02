@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 785K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: -143 day(s)\
+Remaining Validity Period: -144 day(s)\
 Subject: serialNumber=211EDC0E-B816-4861-8227-6F8AF530BA1F, CN=SHAKEN 785K, O=TechRx LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/24/74cb84b8.crt
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/74cb84b8.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

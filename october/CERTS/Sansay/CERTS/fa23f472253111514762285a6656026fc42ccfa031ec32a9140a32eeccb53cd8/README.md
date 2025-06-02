@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Zella Technologies LLC 647K
 
-Tested At: 02 Jun 25 03:21 UTC\
+Tested At: 02 Jun 25 18:36 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -327 day(s)\
+Remaining Validity Period: -328 day(s)\
 Subject: CN=SHAKEN Zella Technologies LLC 647K, O=Zella Technologies LLC, ST=Louisiana, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/647K/429C7C70711E3820F0B8E1DEAE6FF32622649F6C.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/647K/429C7C70711E3820F0B8E1DEAE6FF32622649F6C.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 647K', but common name is 'SHAKEN Zella Technologies LLC 647K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

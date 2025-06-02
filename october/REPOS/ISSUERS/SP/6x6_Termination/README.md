@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 160ms average time it took to download each certificate
+- 181ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cr.46labs.com/cr/autelecom/autelecom.pem` | 23&#160;Apr&#160;26&#160;00:00&#160;UTC | true | [view](REPOS/03d726c9ac9cebedb5eea156f1375f7cda1733d1/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

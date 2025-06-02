@@ -2,9 +2,9 @@
 
 ## Certificate FirstDigital SHAKEN 5727
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -33 day(s)\
+Remaining Validity Period: -34 day(s)\
 Subject: CN=FirstDigital SHAKEN 5727, OU=Voice, O=FirstDigital Communications, C=US, ST=UT, L=Lindon\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-78bf61afb1a4b8aa288102a78b1a185f
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/VaMEsVjGRz/0-78bf61afb1a4b8aa2881
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

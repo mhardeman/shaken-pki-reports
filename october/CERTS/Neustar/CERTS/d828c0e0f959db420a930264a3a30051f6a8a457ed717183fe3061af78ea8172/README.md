@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -481 day(s)\
+Remaining Validity Period: -482 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/d509b32d1990301002c39e0ac5f722be7aa4dcde
@@ -25,4 +25,4 @@ Link: https://ssc.getsipnav.com/certs/d509b32d1990301002c39e0ac5f722be7aa4dcde
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

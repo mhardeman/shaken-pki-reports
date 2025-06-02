@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 930K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: 25 day(s)\
 Subject: serialNumber=DBCB6EDC-DA8B-462C-9A19-E615F99E8E6C, CN=SHAKEN 930K, O=QEMERT Pro Technology SRL, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/ebf37ff6.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

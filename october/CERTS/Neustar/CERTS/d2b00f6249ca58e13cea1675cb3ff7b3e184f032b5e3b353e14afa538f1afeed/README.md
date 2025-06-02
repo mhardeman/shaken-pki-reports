@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 863J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -116 day(s)\
 Subject: CN=SHAKEN 863J, O=Contact Center Specialists LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/c3ba6bd835e9d915f1c9d21f7fe1319bfebf2729
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

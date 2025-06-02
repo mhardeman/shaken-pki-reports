@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Call Hub Inc. 688K
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -295 day(s)\
+Remaining Validity Period: -296 day(s)\
 Subject: CN=SHAKEN Call Hub Inc. 688K, OU=Technical, O=Call Hub Inc., ST=Wyoming, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cdn.cnxcdn.com/shaken/73.crt
@@ -17,4 +17,4 @@ Link: https://cdn.cnxcdn.com/shaken/73.crt
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 688K', but common name is 'SHAKEN Call Hub Inc. 688K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

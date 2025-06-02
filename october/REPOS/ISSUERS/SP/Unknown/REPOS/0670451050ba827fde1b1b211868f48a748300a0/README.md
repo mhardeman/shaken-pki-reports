@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://risinginteractions.astppbilling.org/cert.pem`\
-Tested At: 02 Jun 25 03:40 UTC\
-Time: 242ms
+Tested At: 02 Jun 25 18:52 UTC\
+Time: 287ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 242ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://risinginteractions.astppbilling.org/cert.pem": dial tcp: lookup risinginteractions.astppbilling.org: No address associated with hostname |
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

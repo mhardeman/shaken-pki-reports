@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Medtel Communications 994J
 
-Tested At: 02 Jun 25 03:29 UTC\
+Tested At: 02 Jun 25 18:43 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -4 day(s)\
+Remaining Validity Period: -5 day(s)\
 Subject: CN=SHAKEN Medtel Communications 994J, OU=Medtel Communications, O=Medtel Communications, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/994J/429C7C70711E3820F0B8E1DEAE6FF32622649DE8.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/994J/429C7C70711E3820F0B8E1DEAE6FF32622649DE8.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

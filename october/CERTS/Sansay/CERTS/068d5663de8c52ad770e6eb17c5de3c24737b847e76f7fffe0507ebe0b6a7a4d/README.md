@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Magna5, LLC 8249
 
-Tested At: 02 Jun 25 03:23 UTC\
+Tested At: 02 Jun 25 18:37 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -331 day(s)\
 Subject: CN=SHAKEN Magna5\\, LLC 8249, OU=Operations, O=Magna5\\, LLC, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/8249/429C7C70711E3820F0B8E1DEAE6FF32622649F09.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

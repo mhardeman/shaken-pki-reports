@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Cascabel Networks 536K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -339 day(s)\
 Subject: CN=SHAKEN Cascabel Networks 536K, OU=Cascabel, O=Cascabel Networks, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Cascabel_Networks_536K
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 536K', but common name is 'SHAKEN Cascabel Networks 536K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

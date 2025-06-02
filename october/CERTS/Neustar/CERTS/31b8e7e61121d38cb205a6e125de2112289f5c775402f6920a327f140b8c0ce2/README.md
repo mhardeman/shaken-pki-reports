@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 719k
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -164 day(s)\
+Remaining Validity Period: -165 day(s)\
 Subject: CN=SHAKEN 719k, O=925 Telecom LLC, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/765ab8defea02c4a4de45048909cf0c21946154f
@@ -17,4 +17,4 @@ Link: https://ssc.getsipnav.com/certs/765ab8defea02c4a4de45048909cf0c21946154f
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

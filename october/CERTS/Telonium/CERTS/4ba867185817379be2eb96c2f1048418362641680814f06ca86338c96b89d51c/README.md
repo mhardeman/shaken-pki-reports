@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 442K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 367 day(s)\
 Remaining Validity Period: -122 day(s)\
 Subject: serialNumber=32DCE765-1CA3-4F51-939C-55DC994A7C7F, CN=SHAKEN 442K, O=Meta-Lynk LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/e99cf2ae.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

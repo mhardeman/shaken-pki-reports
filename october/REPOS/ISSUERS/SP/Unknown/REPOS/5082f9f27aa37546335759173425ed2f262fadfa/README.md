@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://certificates.piratel.com/piratel_20230907_e3b5b3828635760a.crt`\
-Tested At: 02 Jun 25 03:11 UTC\
-Time: 257ms
+Tested At: 02 Jun 25 18:26 UTC\
+Time: 220ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 257ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

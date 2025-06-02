@@ -2,9 +2,9 @@
 
 ## Certificate Project Mutual SHAKEN Cert 2231
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 331 day(s)\
+Remaining Validity Period: 330 day(s)\
 Subject: CN=Project Mutual SHAKEN Cert 2231, O=Project Mutual, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/d4e575ce3348a47b80616aae48c240808772df2d
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/d4e575ce3348a47b80616aae48c240808772df2
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

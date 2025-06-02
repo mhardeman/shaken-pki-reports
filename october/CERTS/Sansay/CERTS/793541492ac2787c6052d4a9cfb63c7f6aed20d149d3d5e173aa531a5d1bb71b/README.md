@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Sangoma 777G
 
-Tested At: 02 Jun 25 03:22 UTC\
+Tested At: 02 Jun 25 18:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 115 day(s)\
+Remaining Validity Period: 114 day(s)\
 Subject: CN=SHAKEN Sangoma 777G, OU=Network Engineering, O=Sangoma, ST=Georgia, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/777G/429C7C70711E3820F0B8E1DEAE6FF3262264AB61.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/777G/429C7C70711E3820F0B8E1DEAE6FF3262264AB61.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

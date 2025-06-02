@@ -2,7 +2,7 @@
 
 ## Certificate Jaintel LLC SHAKEN 586K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 95 day(s)\
 Subject: CN=Jaintel LLC SHAKEN 586K, O=Jaintel, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/586K/586K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

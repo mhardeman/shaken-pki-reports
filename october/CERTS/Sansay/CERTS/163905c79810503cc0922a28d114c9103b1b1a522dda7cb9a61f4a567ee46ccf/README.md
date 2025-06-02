@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Socket Telecom LLC 554a
 
-Tested At: 02 Jun 25 03:20 UTC\
+Tested At: 02 Jun 25 18:34 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -458 day(s)\
+Remaining Validity Period: -459 day(s)\
 Subject: CN=SHAKEN Socket Telecom LLC 554a, O=Socket Telecom LLC, ST=Missouri, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/554a/429C7C70711E3820F0B8E1DEAE6FF32622648FF7.pem
@@ -18,4 +18,4 @@ Link: https://cr.sansay.com/554a/429C7C70711E3820F0B8E1DEAE6FF32622648FF7.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

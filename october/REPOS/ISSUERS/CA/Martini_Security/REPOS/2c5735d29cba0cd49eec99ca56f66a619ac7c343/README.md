@@ -3,13 +3,11 @@
 ## Martini Security
 
 Name: `https://p.mtsec.me/2dd5/KGooOP8qrCkY.pem`\
-Tested At: 02 Jun 25 03:34 UTC\
-Time: 3002ms
+Tested At: 02 Jun 25 18:48 UTC\
+Time: 2013ms
 
 ### Issues
 
-| Code | Type | Source | Details |
-|------|------|--------|---------|
-| [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
+no warning, or error, or notice date level issues were found
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

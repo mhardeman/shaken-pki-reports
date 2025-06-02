@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Convoso 758J
 
-Tested At: 02 Jun 25 03:43 UTC\
+Tested At: 02 Jun 25 18:56 UTC\
 Initial Validity Period: 35 day(s)\
-Remaining Validity Period: 29 day(s)\
+Remaining Validity Period: 28 day(s)\
 Subject: CN=SHAKEN Convoso 758J, O=Convoso, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem
@@ -17,4 +17,4 @@ Link: https://stirshaken.s3.us-west-1.amazonaws.com/stirshaken.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 758J', but common name is 'SHAKEN Convoso 758J' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

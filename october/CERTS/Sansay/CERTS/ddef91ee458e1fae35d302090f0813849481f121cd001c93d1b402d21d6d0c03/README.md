@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Matrix 7379
 
-Tested At: 02 Jun 25 03:22 UTC\
+Tested At: 02 Jun 25 18:36 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -282 day(s)\
 Subject: CN=SHAKEN Matrix 7379, OU=Operations, O=Matrix, ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/7379/429C7C70711E3820F0B8E1DEAE6FF3262264A47E.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 7379', but common name is 'SHAKEN Matrix 7379' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

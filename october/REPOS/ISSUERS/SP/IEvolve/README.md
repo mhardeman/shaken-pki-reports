@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 452ms average time it took to download each certificate
+- 355ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt` | 19&#160;Nov&#160;25&#160;19:12&#160;UTC | true | [view](REPOS/24181f4ad2af01e25a755c1452ff8b1379363e96/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

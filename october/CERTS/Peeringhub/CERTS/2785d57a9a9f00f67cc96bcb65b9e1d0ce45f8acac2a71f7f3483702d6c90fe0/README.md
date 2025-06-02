@@ -2,7 +2,7 @@
 
 ## Certificate VOCALTRANSIT SHAKEN 783J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 41 day(s)\
 Remaining Validity Period: 13 day(s)\
 Subject: CN=VOCALTRANSIT SHAKEN 783J, OU=VOCALTRANSIT, O=IT Vocal LLC, ST=NV, C=US\
@@ -14,4 +14,4 @@ Link: https://shaken.vocaltransit.com/783J/vocaltransit-STIRSHAKEN.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

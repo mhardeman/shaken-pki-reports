@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 888J
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -293 day(s)\
 Subject: CN=SHAKEN 888J, O=LightSpar, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/e2e5ceb4-de54-4a67-8956-519eb3fd615c/0fe1
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

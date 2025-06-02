@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 237F
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -269 day(s)\
 Subject: CN=SHAKEN 237F, O=Blue Valley, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/3e2bb06d-f75f-45ff-9418-7f08ea7451a4/dbdd
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

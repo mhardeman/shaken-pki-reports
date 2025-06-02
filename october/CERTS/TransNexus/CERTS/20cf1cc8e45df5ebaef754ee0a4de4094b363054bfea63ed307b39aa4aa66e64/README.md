@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 138K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -250 day(s)\
+Remaining Validity Period: -251 day(s)\
 Subject: CN=SHAKEN 138K, O=TeleVoIPs, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/eb2b94b6-d392-42f3-a4e5-8819a228964c/0f45c1616ba0c83b7b56b5cd3616cb95.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/eb2b94b6-d392-42f3-a4e5-8819a228964c/0f45
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

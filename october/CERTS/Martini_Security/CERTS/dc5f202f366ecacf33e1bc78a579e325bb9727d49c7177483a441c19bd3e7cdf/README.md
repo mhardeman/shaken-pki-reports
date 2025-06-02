@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 738J
 
-Tested At: 02 Jun 25 03:36 UTC\
+Tested At: 02 Jun 25 18:49 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -364 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=BAA34E5CEA286F345E16A4ADA38F479C, CN=SHAKEN 738J\
@@ -16,4 +16,4 @@ Link: https://p.mtsec.me/2e5a/MhObMgs0xV4w.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

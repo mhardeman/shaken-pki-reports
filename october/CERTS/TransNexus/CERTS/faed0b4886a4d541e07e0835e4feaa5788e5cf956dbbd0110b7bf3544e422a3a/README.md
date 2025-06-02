@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2116
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -264 day(s)\
 Subject: CN=SHAKEN 2116, O=Nortex, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9169f04b-375b-4897-b4e5-0b18e4f7f950/87e2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

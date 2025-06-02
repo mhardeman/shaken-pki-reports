@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 697J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 17 day(s)\
+Remaining Validity Period: 16 day(s)\
 Subject: CN=SHAKEN 697J, O=Coeo Solutions, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/OesNvM4ngz/5
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/OesNvM4ngz/5
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

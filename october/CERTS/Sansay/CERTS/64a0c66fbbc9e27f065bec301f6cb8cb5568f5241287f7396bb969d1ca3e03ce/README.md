@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN IDT America, Corp 363A
 
-Tested At: 02 Jun 25 03:17 UTC\
+Tested At: 02 Jun 25 18:31 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -465 day(s)\
 Subject: CN=SHAKEN IDT America\\, Corp 363A, O=IDT America\\, Corp, ST=New Jersey, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/363A/order/1216_363A_17
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 849K
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -50 day(s)\
+Remaining Validity Period: -51 day(s)\
 Subject: O=Flow VOIP LLC., C=US, serialNumber=127610CED3468D3E1A756DC70AB9018E, CN=SHAKEN 849K\
 Issuer: CN=Martini Security SHAKEN G3, O=Martini Security\\, LLC, L=Seattle, ST=WA, C=US\
 Link: https://cdn.cnxcdn.com/shaken/a3a9136d93.crt
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/a3a9136d93.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

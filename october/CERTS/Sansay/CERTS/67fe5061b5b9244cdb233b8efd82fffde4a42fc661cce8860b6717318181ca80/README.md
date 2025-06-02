@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Kloud 7 LLC 214K
 
-Tested At: 02 Jun 25 03:16 UTC\
+Tested At: 02 Jun 25 18:30 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 122 day(s)\
+Remaining Validity Period: 121 day(s)\
 Subject: CN=SHAKEN Kloud 7 LLC 214K, OU=Kloud 7 LLC, O=Kloud 7 LLC, ST=Alabama, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/214K/429C7C70711E3820F0B8E1DEAE6FF3262264AC49.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/214K/429C7C70711E3820F0B8E1DEAE6FF3262264AC49.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 214K', but common name is 'SHAKEN Kloud 7 LLC 214K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

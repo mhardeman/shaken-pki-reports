@@ -2,9 +2,9 @@
 
 ## Certificate New Horizon SHAKEN 127E
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 699 day(s)\
+Remaining Validity Period: 698 day(s)\
 Subject: CN=New Horizon SHAKEN 127E, O=New Horizon, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/e7a4996270fb37885b8079d8ac50fa57f5db0fa1
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e7a4996270fb37885b8079d8ac50fa57f5db0fa
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

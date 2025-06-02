@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 288ms average time it took to download each certificate
+- 330ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://coztel.com/certificates/d373c8fa55b4fe046a14420e3c1c0deb.cer` | 28&#160;Jun&#160;25&#160;14:34&#160;UTC | true | [view](REPOS/b3d4737164e9c8d706f6b1a54294a371337f45e7/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

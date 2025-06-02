@@ -2,7 +2,7 @@
 
 ## Certificate alluretelecom.com
 
-Tested At: 02 Jun 25 03:43 UTC\
+Tested At: 02 Jun 25 18:56 UTC\
 Initial Validity Period: 364 day(s)\
 Remaining Validity Period: -41 day(s)\
 Subject: CN=alluretelecom.com, OU=VOIP, O=Allure Telecom Inc., ST=TX, C=US\
@@ -13,9 +13,9 @@ Link: https://stir.alluretelecom.com/static/846K-cert.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 846K', but common name is 'alluretelecom.com' |
 | [e_atis_subject_cn](../../ISSUES/e_atis_subject_cn/README.md) | error | ATIS1000080 | Common Name attribute 'alluretelecom.com' does not contain 'SHAKEN' |
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 846K', but common name is 'alluretelecom.com' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 919J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -300 day(s)\
 Subject: CN=SHAKEN 919J, O=Phoneic\\, Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/4298401e-2007-4042-938d-dd3b387db452/b294
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

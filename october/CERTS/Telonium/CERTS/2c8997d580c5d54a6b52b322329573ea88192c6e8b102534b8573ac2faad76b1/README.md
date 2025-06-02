@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 865K
 
-Tested At: 02 Jun 25 03:31 UTC\
+Tested At: 02 Jun 25 18:45 UTC\
 Initial Validity Period: 370 day(s)\
-Remaining Validity Period: 353 day(s)\
+Remaining Validity Period: 352 day(s)\
 Subject: serialNumber=AF1B6173-829A-46F6-A448-5C127A32561B, CN=SHAKEN 865K, O=Siplink Communications, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://hostedpbx.siplink.in/new_cert.crt
@@ -14,4 +14,4 @@ Link: https://hostedpbx.siplink.in/new_cert.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

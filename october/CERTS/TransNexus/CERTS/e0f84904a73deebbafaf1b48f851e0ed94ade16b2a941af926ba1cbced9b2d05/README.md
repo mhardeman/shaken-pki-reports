@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 416B
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -355 day(s)\
+Remaining Validity Period: -356 day(s)\
 Subject: CN=SHAKEN 416B, O=Smart Choice Communications, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/3e18c4dc-9e9c-431e-9089-f488b8f7499c/a0ab2f5fe5934aab5ac3239ee8352d65.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/3e18c4dc-9e9c-431e-9089-f488b8f7499c/a0ab
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Perfect Network LLC_1722634425181 SHAKEN 458K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 62 day(s)\
 Subject: CN=Perfect Network LLC_1722634425181 SHAKEN 458K, O=Perfect Network LLC, L=Dover, ST=DE, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.peeringhub.io/458K/cdst3ejQ/458K.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

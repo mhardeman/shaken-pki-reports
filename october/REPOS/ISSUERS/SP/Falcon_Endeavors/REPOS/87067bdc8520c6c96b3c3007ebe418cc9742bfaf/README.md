@@ -3,8 +3,8 @@
 ## Falcon Endeavors
 
 Name: `https://ssc.getsipnav.com/certs/0ca730172b48ae249d823ea924275602b5f36450`\
-Tested At: 02 Jun 25 03:40 UTC\
-Time: 191ms
+Tested At: 02 Jun 25 18:52 UTC\
+Time: 207ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 191ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header has 'max-age' directive but it's value is less than 24 hours |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

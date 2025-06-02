@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 320ms average time it took to download each certificate
+- 382ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://shaken.spectrum.com/a9214dea8d75b74eb4717f01ceecf0ad.cer` | 06&#160;Sep&#160;25&#160;17:13&#160;UTC | true | [view](REPOS/4f653667b6eccddb2e330bda9243e2207c1bc1bf/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

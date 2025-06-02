@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 823K
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -377 day(s)\
 Subject: CN=SHAKEN 823K, O=UsVox, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/58d0b9bd-391f-4bb5-85e3-74f88576973e/bd14
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

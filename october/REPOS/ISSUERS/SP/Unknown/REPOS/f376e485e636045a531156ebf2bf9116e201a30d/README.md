@@ -3,13 +3,13 @@
 ## Unknown
 
 Name: `https://dial.maqssolution.live/255KJA23.pem`\
-Tested At: 02 Jun 25 03:31 UTC\
-Time: 87ms
+Tested At: 02 Jun 25 18:45 UTC\
+Time: 3000ms
 
 ### Issues
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://dial.maqssolution.live/255KJA23.pem": dial tcp: lookup dial.maqssolution.live: no such host |
+| [e_request_timeout](../../ISSUES/e_request_timeout/README.md) | error | System | Request timed out (3s) |
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

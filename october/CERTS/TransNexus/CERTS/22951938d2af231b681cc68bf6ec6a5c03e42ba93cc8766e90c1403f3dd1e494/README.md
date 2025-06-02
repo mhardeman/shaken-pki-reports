@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 130K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -385 day(s)\
 Subject: CN=SHAKEN 130K, O=MetroConnect, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/c282e5db-7f1a-4bca-8162-4934e93ac06c/4a85
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

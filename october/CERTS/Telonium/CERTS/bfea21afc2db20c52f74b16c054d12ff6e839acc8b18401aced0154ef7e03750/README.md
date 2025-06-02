@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 854K
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 366 day(s)\
 Remaining Validity Period: -85 day(s)\
 Subject: serialNumber=26D30A3F-78D7-44D4-BBA8-848CF227C3C5, CN=SHAKEN 854K, O=UHK Networks LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/2f3616be7c8a3daaeecaa0c12757abd16e6716c1
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

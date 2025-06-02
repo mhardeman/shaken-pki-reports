@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 830K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 367 day(s)\
-Remaining Validity Period: -114 day(s)\
+Remaining Validity Period: -115 day(s)\
 Subject: serialNumber=5DB15E00-FFD0-4137-B42C-DE6F927AA07A, CN=SHAKEN 830K, O=Cebod Technologies LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/24/b56a0d6f.crt
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/b56a0d6f.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

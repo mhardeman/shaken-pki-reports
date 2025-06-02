@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 722J
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -272 day(s)\
+Remaining Validity Period: -273 day(s)\
 Subject: CN=SHAKEN 722J, O=EvolveIP LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/722J/5fd36652-0a43-4bdd-a89a-8f017f98f2b7.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/722J/5fd36652-0a43-4bdd-a89a-8f017f98f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

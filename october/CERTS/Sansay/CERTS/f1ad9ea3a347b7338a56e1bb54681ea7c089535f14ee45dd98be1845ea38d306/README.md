@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Touchtone 683A
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -479 day(s)\
 Subject: CN=SHAKEN Touchtone 683A, OU=NOC, O=Touchtone, ST=New Jersey, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Touchtone_683A
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 683A', but common name is 'SHAKEN Touchtone 683A' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Fonative, Inc. 684J
 
-Tested At: 02 Jun 25 03:22 UTC\
+Tested At: 02 Jun 25 18:36 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -213 day(s)\
+Remaining Validity Period: -214 day(s)\
 Subject: CN=SHAKEN Fonative\\, Inc. 684J, OU=Operations, O=Fonative\\, Inc., ST=Massachusetts, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/684J/429C7C70711E3820F0B8E1DEAE6FF3262264AC33.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/684J/429C7C70711E3820F0B8E1DEAE6FF3262264AC33.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

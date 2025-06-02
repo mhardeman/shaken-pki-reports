@@ -2,9 +2,9 @@
 
 ## Certificate Telcast Networks_1719335648799 SHAKEN 611J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 24 day(s)\
+Remaining Validity Period: 23 day(s)\
 Subject: CN=Telcast Networks_1719335648799 SHAKEN 611J, O=Telcast Networks, L=Dover, ST=DE, C=US\
 Issuer: CN=Peeringhub Inc SHAKEN Intermediate CA 2, OU=Certification Authorities, O=Peeringhub Inc, C=US\
 Link: https://ssc.getsipnav.com/certs/724dcfb47a877f9ba8cf306376dfde026b11b227
@@ -14,4 +14,4 @@ Link: https://ssc.getsipnav.com/certs/724dcfb47a877f9ba8cf306376dfde026b11b227
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Identidad Advertising Development LLC 617K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -466 day(s)\
+Remaining Validity Period: -467 day(s)\
 Subject: CN=SHAKEN Identidad Advertising Development LLC 617K, OU=IT-VOIP, O=Identidad Advertising Development LLC, ST=Florida, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Identidad_Advertising_Development_LLC_617K_1
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Identidad_Advertising_Development_LLC_617K_1
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 617K', but common name is 'SHAKEN Identidad Advertising Development LLC 617K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Systemverse, LLC. 194K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -187 day(s)\
 Subject: CN=SHAKEN Systemverse\\, LLC. 194K, OU=VOIP, O=Systemverse\\, LLC., ST=Texas, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Systemverse_LLC._194K
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

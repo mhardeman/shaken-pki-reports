@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 963J
 
-Tested At: 02 Jun 25 03:31 UTC\
+Tested At: 02 Jun 25 18:45 UTC\
 Initial Validity Period: 732 day(s)\
-Remaining Validity Period: 271 day(s)\
+Remaining Validity Period: 270 day(s)\
 Subject: serialNumber=76A2C025-3180-46F4-BD9B-51E398F5802D, CN=SHAKEN 963J, O=Freevoice Inc, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://freevoiceusa.com/963J_24
@@ -16,4 +16,4 @@ Link: https://freevoiceusa.com/963J_24
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

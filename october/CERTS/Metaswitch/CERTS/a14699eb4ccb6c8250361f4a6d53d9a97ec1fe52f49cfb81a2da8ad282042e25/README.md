@@ -2,9 +2,9 @@
 
 ## Certificate Verizon SHAKEN cert 5807
 
-Tested At: 02 Jun 25 03:42 UTC\
+Tested At: 02 Jun 25 18:55 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 594 day(s)\
+Remaining Validity Period: 593 day(s)\
 Subject: CN=Verizon SHAKEN cert 5807, OU=NNO CDS, O=Verizon Data Services LLC, L=Southlake, ST=Texas, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://sti.verizon.com/vzwcert/vzshaken-01-2027.crt
@@ -18,4 +18,4 @@ Link: https://sti.verizon.com/vzwcert/vzshaken-01-2027.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 521K
 
-Tested At: 02 Jun 25 03:43 UTC\
+Tested At: 02 Jun 25 18:56 UTC\
 Initial Validity Period: 180 day(s)\
-Remaining Validity Period: 146 day(s)\
+Remaining Validity Period: 145 day(s)\
 Subject: CN=SHAKEN 521K, O=Voice SY LLC, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://voicesy.46labs.com/voicesy.pem
@@ -16,4 +16,4 @@ Link: https://voicesy.46labs.com/voicesy.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

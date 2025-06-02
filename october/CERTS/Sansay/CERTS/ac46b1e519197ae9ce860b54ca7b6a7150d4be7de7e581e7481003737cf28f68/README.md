@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Talk IT Pro 321K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -226 day(s)\
+Remaining Validity Period: -227 day(s)\
 Subject: CN=SHAKEN Talk IT Pro 321K, OU=Talk IT Pro, O=Talk IT Pro, ST=Michigan, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Talk_IT_Pro_321K102522
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Talk_IT_Pro_321K102522
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 321K', but common name is 'SHAKEN Talk IT Pro 321K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

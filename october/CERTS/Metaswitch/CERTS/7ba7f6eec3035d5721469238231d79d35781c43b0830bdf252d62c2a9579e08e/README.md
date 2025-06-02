@@ -2,9 +2,9 @@
 
 ## Certificate Hunter Communications SHAKEN 660C
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 679 day(s)\
+Remaining Validity Period: 678 day(s)\
 Subject: CN=Hunter Communications SHAKEN 660C, O=Hunter Communications\\ , C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/7ac98ce362be7e0d6650ea43e17a8320e956b66a
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7ac98ce362be7e0d6650ea43e17a8320e956b66
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 683G
 
-Tested At: 02 Jun 25 03:39 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 32 day(s)\
 Remaining Validity Period: -437 day(s)\
 Subject: O=BCM One Cloud Communications\\, LLC, C=US, serialNumber=4C73B3F73559303C2572C6E8B2C9EF8A, CN=SHAKEN 683G\
@@ -16,4 +16,4 @@ Link: https://p.mtsec.me/2e5a/ckWcAyW_HMn4.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 469A
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -372 day(s)\
 Subject: CN=SHAKEN 469A, O=T3 Communications Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/88814589-ad88-4c53-b3c3-47f8334afb98/430a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

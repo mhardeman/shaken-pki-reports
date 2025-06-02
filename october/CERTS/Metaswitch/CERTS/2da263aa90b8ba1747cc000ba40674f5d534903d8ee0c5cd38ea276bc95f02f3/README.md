@@ -2,9 +2,9 @@
 
 ## Certificate Fastwyre Broadband SHAKEN Cert 0425
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 344 day(s)\
+Remaining Validity Period: 343 day(s)\
 Subject: CN=Fastwyre Broadband SHAKEN Cert 0425, O=Fastwyre Broadband, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/4f2a4a764bced7e27a5c80067dd0410ddd1b9e02
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4f2a4a764bced7e27a5c80067dd0410ddd1b9e0
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0425', but common name is 'Fastwyre Broadband SHAKEN Cert 0425' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

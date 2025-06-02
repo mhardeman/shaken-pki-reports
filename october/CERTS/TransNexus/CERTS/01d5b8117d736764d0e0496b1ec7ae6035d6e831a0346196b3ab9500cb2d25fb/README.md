@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 672B
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -279 day(s)\
 Subject: CN=SHAKEN 672B, O=Clear Rate, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/dcef9a97-b864-43ac-830b-2290a8d0f002/2f16
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 979K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -263 day(s)\
 Subject: CN=SHAKEN 979K, O=Vonexta Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/fa22aea7-f5b1-4b52-a587-bc3e7bfbcafd/7eeb
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 4427
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:27 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: 291 day(s)\
+Remaining Validity Period: 290 day(s)\
 Subject: CN=SHAKEN 4427, O=Ziply Fiber, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11128.10381.pem
@@ -16,4 +16,4 @@ Link: https://cr.ccid.neustar.biz/ccid/authn/v2/certs/11128.10381.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

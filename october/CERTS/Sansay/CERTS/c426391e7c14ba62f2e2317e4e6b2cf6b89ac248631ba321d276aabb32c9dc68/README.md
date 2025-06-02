@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN SouthPoint Communications 205k
 
-Tested At: 02 Jun 25 03:13 UTC\
+Tested At: 02 Jun 25 18:28 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -230 day(s)\
+Remaining Validity Period: -231 day(s)\
 Subject: CN=SHAKEN SouthPoint Communications 205k, O=SouthPoint Communications, ST=California, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/205k/429C7C70711E3820F0B8E1DEAE6FF3262264AA53.pem
@@ -14,8 +14,8 @@ Link: https://cr.sansay.com/205k/429C7C70711E3820F0B8E1DEAE6FF3262264AA53.pem
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 205k', but common name is 'SHAKEN SouthPoint Communications 205k' |
-| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 | [e_atis_tn_auth_list_spc_format](../../ISSUES/e_atis_tn_auth_list_spc_format/README.md) | error | ATIS1000080 | the SPC value '205k' contains characters other than uppercase letters and numbers |
+| [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

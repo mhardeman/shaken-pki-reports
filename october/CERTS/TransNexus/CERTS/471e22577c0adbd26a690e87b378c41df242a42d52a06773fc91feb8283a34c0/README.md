@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 737J
 
-Tested At: 02 Jun 25 03:42 UTC\
+Tested At: 02 Jun 25 18:55 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -318 day(s)\
+Remaining Validity Period: -319 day(s)\
 Subject: CN=SHAKEN 737J, O=US Internet Corp, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://sti.ravon.net/c/737J_2023-07-19
@@ -16,4 +16,4 @@ Link: https://sti.ravon.net/c/737J_2023-07-19
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

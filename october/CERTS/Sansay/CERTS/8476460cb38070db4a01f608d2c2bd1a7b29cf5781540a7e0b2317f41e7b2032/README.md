@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Zray Technologies Corporation 862J
 
-Tested At: 02 Jun 25 03:24 UTC\
+Tested At: 02 Jun 25 18:38 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -612 day(s)\
 Subject: emailAddress=jhansen@ztelco.com, CN=SHAKEN Zray Technologies Corporation 862J, OU=Ztelco, O=Zray Technologies Corporation, ST=California, C=US, emailAddress=jhansen@ztelco.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/862J/order/215_862J_58
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 862J', but common name is 'SHAKEN Zray Technologies Corporation 862J' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

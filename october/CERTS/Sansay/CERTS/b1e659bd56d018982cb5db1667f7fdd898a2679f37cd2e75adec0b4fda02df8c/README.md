@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Nextiva, Inc 914H
 
-Tested At: 02 Jun 25 03:28 UTC\
+Tested At: 02 Jun 25 18:42 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -25 day(s)\
 Subject: CN=SHAKEN Nextiva\\, Inc 914H, OU=UCaaS, O=Nextiva\\, Inc, ST=Arizona, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/914H/429C7C70711E3820F0B8E1DEAE6FF32622649B8F.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

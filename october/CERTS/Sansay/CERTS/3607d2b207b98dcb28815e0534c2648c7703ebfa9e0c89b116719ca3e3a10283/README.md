@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Doylestown Communications, Inc 849C
 
-Tested At: 02 Jun 25 03:24 UTC\
+Tested At: 02 Jun 25 18:38 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -348 day(s)\
+Remaining Validity Period: -349 day(s)\
 Subject: CN=SHAKEN Doylestown Communications\\, Inc 849C, O=Doylestown Communications\\, Inc, ST=Ohio, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/849C/429C7C70711E3820F0B8E1DEAE6FF32622649CE2.pem
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/849C/429C7C70711E3820F0B8E1DEAE6FF32622649CE2.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 849C', but common name is 'SHAKEN Doylestown Communications, Inc 849C' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 849C', but common name is 'SHAKEN Doylestown Communications, Inc 849C' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

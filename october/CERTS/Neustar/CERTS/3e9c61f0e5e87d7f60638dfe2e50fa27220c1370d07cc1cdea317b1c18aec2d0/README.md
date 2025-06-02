@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 525K
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:53 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -414 day(s)\
 Subject: CN=SHAKEN 525K, O=AU TELECOM LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://ssc.getsipnav.com/certs/43da6cc2f2e844f73c7ff763c81b6bbdf60a0912
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

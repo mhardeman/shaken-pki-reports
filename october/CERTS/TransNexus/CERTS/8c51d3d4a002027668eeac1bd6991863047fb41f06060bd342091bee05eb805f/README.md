@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 806J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -348 day(s)\
 Subject: CN=SHAKEN 806J, O=Converged Networks, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/50f33dd9-032e-4c8b-8683-e4125228e2b8/3fc2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Localtel SHAKEN 3229
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -19 day(s)\
 Subject: CN=Localtel SHAKEN 3229, OU=STI, O=Localtel Communications, C=US, ST=WA, L=Wenatchee\
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/AJ8dubyVgz/STI-202405-3229-587575
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

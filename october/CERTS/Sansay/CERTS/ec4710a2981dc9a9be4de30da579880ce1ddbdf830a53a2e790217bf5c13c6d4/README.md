@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Midwest Telecom of America 919A
 
-Tested At: 02 Jun 25 03:28 UTC\
+Tested At: 02 Jun 25 18:42 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -9 day(s)\
+Remaining Validity Period: -10 day(s)\
 Subject: CN=SHAKEN Midwest Telecom of America 919A, OU=Midwest, O=Midwest Telecom of America, ST=Indiana, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/919A/429C7C70711E3820F0B8E1DEAE6FF32622649D5D.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/919A/429C7C70711E3820F0B8E1DEAE6FF32622649D5D.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 660K
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -357 day(s)\
 Subject: CN=SHAKEN 660K, O=SimpleFiber Communications, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9aba2296-8b3e-464d-abe2-a6b3f9bff2b1/22c9
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

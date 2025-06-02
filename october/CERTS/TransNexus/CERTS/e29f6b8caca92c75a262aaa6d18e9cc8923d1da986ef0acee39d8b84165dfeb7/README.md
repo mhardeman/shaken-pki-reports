@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 856H
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -273 day(s)\
 Subject: CN=SHAKEN 856H, O=Mix Networks Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/357a731f-0148-4a23-9fdf-41c8734c23a7/53f7
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

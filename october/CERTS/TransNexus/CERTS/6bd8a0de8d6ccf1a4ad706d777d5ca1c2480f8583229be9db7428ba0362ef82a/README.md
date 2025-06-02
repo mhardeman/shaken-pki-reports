@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 857J
 
-Tested At: 02 Jun 25 03:31 UTC\
+Tested At: 02 Jun 25 18:45 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 171 day(s)\
 Subject: CN=SHAKEN 857J, O=IEvolve, C=US\
@@ -14,4 +14,4 @@ Link: https://icomm.i-evolve.net/certs/icomm-shaken-sbc01.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

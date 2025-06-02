@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 204ms average time it took to download each certificate
+- 181ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://commtrunks.46labs.com/commtrunks.pem` | 15&#160;Jun&#160;25&#160;18:34&#160;UTC | true | [view](REPOS/72f64d5d3b6166a68c2566fc8c8aca236183b1ed/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

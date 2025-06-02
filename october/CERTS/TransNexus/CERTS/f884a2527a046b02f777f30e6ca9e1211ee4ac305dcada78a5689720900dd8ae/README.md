@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 985J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -538 day(s)\
 Subject: CN=SHAKEN 985J, O=Think Simplicity Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/523663e9-32d6-4e91-9e0f-4585331a9a1a/caaf
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

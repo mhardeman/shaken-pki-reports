@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Asia Pacific Network 988J
 
-Tested At: 02 Jun 25 03:29 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -200 day(s)\
+Remaining Validity Period: -201 day(s)\
 Subject: CN=SHAKEN Asia Pacific Network 988J, OU=APN, O=Asia Pacific Network, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/Asia_Pacific_Network_988J
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/Asia_Pacific_Network_988J
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 988J', but common name is 'SHAKEN Asia Pacific Network 988J' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

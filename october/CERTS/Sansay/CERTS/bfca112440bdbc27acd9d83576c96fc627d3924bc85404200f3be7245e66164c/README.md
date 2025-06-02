@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Zray Technologies Corporation 862J
 
-Tested At: 02 Jun 25 03:24 UTC\
+Tested At: 02 Jun 25 18:38 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -261 day(s)\
 Subject: CN=SHAKEN Zray Technologies Corporation 862J, O=Zray Technologies Corporation, ST=California, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/862J/429C7C70711E3820F0B8E1DEAE6FF3262264A6E6.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

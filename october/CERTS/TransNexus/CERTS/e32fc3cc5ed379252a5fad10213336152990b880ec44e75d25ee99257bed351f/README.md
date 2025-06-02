@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1676
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -237 day(s)\
 Subject: CN=SHAKEN 1676, O=SDN, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/705fa592-0f34-4999-9e00-79e522ca5c70/56de
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

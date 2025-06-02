@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 220K
 
-Tested At: 02 Jun 25 03:32 UTC\
+Tested At: 02 Jun 25 18:46 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -622 day(s)\
 Subject: O=Ayden Consulting\\, LLC, C=US, serialNumber=5CBE6FBF24394C54F0E7DB06902BC19E, CN=SHAKEN 220K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2884/VggCVr2viLFG.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

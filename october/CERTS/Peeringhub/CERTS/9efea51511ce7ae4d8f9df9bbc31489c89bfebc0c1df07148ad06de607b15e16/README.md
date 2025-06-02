@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 088K
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 346 day(s)\
 Subject: CN=SHAKEN 088K, O=SmartTel Inc 2025, C=US\
@@ -14,4 +14,4 @@ Link: https://prov.smarttelinc.net/shaken/cert.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

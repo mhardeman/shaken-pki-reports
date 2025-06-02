@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Lightspeed Voice 557F
 
-Tested At: 02 Jun 25 03:21 UTC\
+Tested At: 02 Jun 25 18:35 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -541 day(s)\
 Subject: emailAddress=level5@lightspeedvoice.com, CN=SHAKEN Lightspeed Voice 557F, OU=Operations, O=Lightspeed Voice, ST=Florida, C=US, emailAddress=level5@lightspeedvoice.com\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/557F/order/16_557F_83
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 557F', but common name is 'SHAKEN Lightspeed Voice 557F' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

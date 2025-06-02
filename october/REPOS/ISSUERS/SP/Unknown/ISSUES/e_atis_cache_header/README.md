@@ -27,6 +27,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](../../REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` |  | true | [view](../../REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1697468675203-cert.crt` |  | true | [view](../../REPOS/238d1db9a65aad4c2c9960d1e2b9d8dbae4a7015/README.md) |
+| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1701967906501-cert.crt` |  | true | [view](../../REPOS/c350399198f5efb158564ac173981afc9fed0ed7/README.md) |
 | `https://certificates.piratel.com/piratel_20230907_e3b5b3828635760a.crt` |  | true | [view](../../REPOS/5082f9f27aa37546335759173425ed2f262fadfa/README.md) |
 | `https://commtrunks.46labs.com/cert.pem` |  | true | [view](../../REPOS/93169ed4244a2f0b6f9ab8fd7deb44f4d2571207/README.md) |
 | `https://cr.tntelecom.net/382G.pem` |  | true | [view](../../REPOS/390f65228d692b891c35cba43e4703358bf96cd4/README.md) |
@@ -109,4 +110,4 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 | `https://x1.uy/1` |  | true | [view](../../REPOS/1b3dcafc439fc0cadbf8d5552ed87972c4208785/README.md) |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

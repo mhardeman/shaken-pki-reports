@@ -12,6 +12,7 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
+| error | Ironton SHAKEN 1234 0175 | [view](../../CERTS/07fa407eefdb8964682deef6cbc734636b12b9e97acbc4268fef06f0182436d2/README.md) | Common name shall contain the text string 'SHAKEN 0175', but common name is 'Ironton SHAKEN 1234 0175' |
 | error | Ironton SHAKEN 1234 0175 | [view](../../CERTS/897d53482f78c037e9dd54cc3e62a1a3dba25a5abff81f1faf3ec09ef58bb5a0/README.md) | Common name shall contain the text string 'SHAKEN 0175', but common name is 'Ironton SHAKEN 1234 0175' |
 
 ### CA Certificates
@@ -19,4 +20,4 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

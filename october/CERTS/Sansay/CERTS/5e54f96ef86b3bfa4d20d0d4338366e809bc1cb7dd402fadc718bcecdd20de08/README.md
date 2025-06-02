@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 731K ChaseData Corp
 
-Tested At: 02 Jun 25 03:22 UTC\
+Tested At: 02 Jun 25 18:36 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -61 day(s)\
+Remaining Validity Period: -62 day(s)\
 Subject: CN=SHAKEN 731K ChaseData Corp, O=ChaseData Corp, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/731K/429C7C70711E3820F0B8E1DEAE6FF3262264977D.pem
@@ -16,4 +16,4 @@ Link: https://cr.sansay.com/731K/429C7C70711E3820F0B8E1DEAE6FF3262264977D.pem
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

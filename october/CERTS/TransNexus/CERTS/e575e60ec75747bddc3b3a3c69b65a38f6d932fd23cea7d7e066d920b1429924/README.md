@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 723J
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -319 day(s)\
+Remaining Validity Period: -320 day(s)\
 Subject: CN=SHAKEN 723J, O=TRACI.net, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/4017b7118b3e06ecbfeb757f9c417824.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/4017
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

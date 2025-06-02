@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 724K
 
-Tested At: 02 Jun 25 03:39 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 90 day(s)\
 Remaining Validity Period: -296 day(s)\
 Subject: O=Voitex LLC, C=US, serialNumber=0BD2DFFF5EB59C24CE26E2E9E4BB3C28, CN=SHAKEN 724K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2e5a/dOvRzl86i2M6.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

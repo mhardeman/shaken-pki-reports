@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 605K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -250 day(s)\
+Remaining Validity Period: -251 day(s)\
 Subject: CN=SHAKEN 605K, O=ComputerTel Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/605K/520d9940-25d2-476b-a623-7c2ce4617af4.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/605K/520d9940-25d2-476b-a623-7c2ce4617
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

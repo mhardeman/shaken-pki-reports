@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 333K
 
-Tested At: 02 Jun 25 03:30 UTC\
+Tested At: 02 Jun 25 18:44 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -200 day(s)\
 Subject: CN=SHAKEN 333K, O=Aovatalk, C=US\
@@ -16,4 +16,4 @@ Link: https://cr.veriswitch.com/aovatalk/9e1cb60f2ae123355ccbab4ba99ca9de.cer
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 249K Primo Dialler LLC
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 120 day(s)\
-Remaining Validity Period: -131 day(s)\
+Remaining Validity Period: -132 day(s)\
 Subject: CN=SHAKEN 249K Primo Dialler LLC, O=Primo Dialler LLC, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://primodialer.46labs.com
@@ -16,4 +16,4 @@ Link: https://primodialer.46labs.com
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

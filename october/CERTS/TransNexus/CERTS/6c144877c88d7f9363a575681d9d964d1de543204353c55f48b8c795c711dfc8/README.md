@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 320K
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -309 day(s)\
 Subject: CN=SHAKEN 320K, O=Capital Voice Services\\ , C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/9a82032e-fd7a-4d2a-b4ca-dddbf3c2f8b9/a268
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 219H
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -240 day(s)\
+Remaining Validity Period: -241 day(s)\
 Subject: CN=SHAKEN 219H, O=Network Enhanced Telecom LLP, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA4, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/219H/cbe3e868-16b0-4a40-9b76-f2338abeb406.pem
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/219H/cbe3e868-16b0-4a40-9b76-f2338abeb
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

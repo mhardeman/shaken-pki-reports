@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 873J
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -122 day(s)\
 Subject: CN=SHAKEN 873J, O=MobileSphere, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.transnexus.com/873J/f73c962e-b8da-4d33-913c-0478f6d22
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

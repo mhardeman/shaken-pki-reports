@@ -2,9 +2,9 @@
 
 ## Certificate Avid Communication SHAKEN Cert 742D
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 5 day(s)\
+Remaining Validity Period: 4 day(s)\
 Subject: CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US\
 Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/c63aca77c3a44dad9b6d8b9a53b4290e114140b8
@@ -14,8 +14,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c63aca77c3a44dad9b6d8b9a53b4290e114140b
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 742D', but common name is 'Avid Communication SHAKEN Cert 742D' |
-| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 ### Not Effective
 
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c63aca77c3a44dad9b6d8b9a53b4290e114140b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

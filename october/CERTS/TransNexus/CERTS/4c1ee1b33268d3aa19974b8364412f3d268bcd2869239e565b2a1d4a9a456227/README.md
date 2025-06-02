@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2251
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -242 day(s)\
 Subject: CN=SHAKEN 2251, O=Range Telephone Cooperative Inc. dba Range, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d22c9a26-2556-4fd2-a3cd-fe92b871a5eb/9129
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

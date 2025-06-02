@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 622K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 395 day(s)\
-Remaining Validity Period: 14 day(s)\
+Remaining Validity Period: 13 day(s)\
 Subject: serialNumber=326EBF7E-C69F-4AA8-B0B7-B62946E53C85, CN=SHAKEN 622K, O=COMMTRUNK LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://commtrunks.46labs.com/commtrunks.pem
@@ -14,4 +14,4 @@ Link: https://commtrunks.46labs.com/commtrunks.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

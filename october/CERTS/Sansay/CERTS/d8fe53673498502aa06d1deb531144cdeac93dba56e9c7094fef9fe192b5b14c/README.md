@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 688K Call Hub Inc.
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 70 day(s)\
 Subject: CN=SHAKEN 688K Call Hub Inc., O=Call Hub Inc., C=US\
@@ -16,4 +16,4 @@ Link: https://cdn.cnxcdn.com/shaken/ec993ad525.crt
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

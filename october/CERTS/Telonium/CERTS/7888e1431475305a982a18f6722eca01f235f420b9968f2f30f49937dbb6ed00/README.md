@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 143K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 731 day(s)\
-Remaining Validity Period: 60 day(s)\
+Remaining Validity Period: 59 day(s)\
 Subject: serialNumber=384AEF60-DDA6-408F-BCEC-D72DE716B62D, CN=SHAKEN 143K, O=Telonium Communications LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/23/1ee88c4a.crt
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/23/1ee88c4a.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

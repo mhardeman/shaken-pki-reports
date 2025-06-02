@@ -2,9 +2,9 @@
 
 ## Certificate ccctelecom.com
 
-Tested At: 02 Jun 25 03:43 UTC\
+Tested At: 02 Jun 25 18:56 UTC\
 Initial Validity Period: 364 day(s)\
-Remaining Validity Period: 254 day(s)\
+Remaining Validity Period: 253 day(s)\
 Subject: CN=ccctelecom.com, OU=VOIP, O=Carrier Connect Corp, ST=TX, C=US\
 Issuer: CN=SHAKEN 1RouteGroup Intermediate CA, O=1RouteGroup, ST=Texas, C=US\
 Link: https://www.ccctelecom.com/816K.pem
@@ -18,4 +18,4 @@ Link: https://www.ccctelecom.com/816K.pem
 | [e_atis_serial_number_size](../../ISSUES/e_atis_serial_number_size/README.md) | error | ATIS1000080 | STI certificates shall have a serial number that contains at least 64 bits, got 13 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

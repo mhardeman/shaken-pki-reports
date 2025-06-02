@@ -2,9 +2,9 @@
 
 ## Certificate Ribbon SHAKEN 2086
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -24 day(s)\
+Remaining Validity Period: -25 day(s)\
 Subject: CN=Ribbon SHAKEN 2086, OU=Network Operations, O=Hill Country Telephone Cooperative, C=US, ST=TX, L=Comfort\
 Issuer: CN=SHAKEN Ribbon Issuing CA 2, OU=Certification Authority, O=Ribbon Communications, C=US\
 Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/HCTCSSNewCert2024-5d8817af116deceac13051a308069aa0
@@ -16,4 +16,4 @@ Link: https://prod001-prod011-cr.rbbnidhub.com/JQApas6MRz/HCTCSSNewCert2024-5d88
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

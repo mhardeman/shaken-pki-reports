@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 274K
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -378 day(s)\
 Subject: CN=SHAKEN 274K, O=Axxess Networks, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/16ee3de7-0486-474d-8091-08a7f37461ad/8348
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

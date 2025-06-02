@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 589J
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -348 day(s)\
 Subject: CN=SHAKEN 589J, O=Simplicity VoIP, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/4ca62cb9-03b5-42f8-8fc3-67cecf1feeb2/cdd4
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

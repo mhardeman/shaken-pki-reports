@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 865K
 
-Tested At: 02 Jun 25 03:12 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: -12 day(s)\
+Remaining Validity Period: -13 day(s)\
 Subject: serialNumber=29097389-E88A-445F-9E33-7DA99B9063C3, CN=SHAKEN 865K, O=Siplink Communications, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://certs.telonium.net/24/c1076f7c.crt
@@ -14,4 +14,4 @@ Link: https://certs.telonium.net/24/c1076f7c.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate On Air Telecom LLC SHAKEN 861J
 
-Tested At: 02 Jun 25 03:40 UTC\
+Tested At: 02 Jun 25 18:52 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -331 day(s)\
 Subject: CN=On Air Telecom LLC SHAKEN 861J, O=On Air Telecom LLC, L=Owings Mills, ST=MD, C=US\
@@ -16,4 +16,4 @@ Link: https://s3.amazonaws.com/certificates.peeringhub.io/861J/861J.crt
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 2.16.840.1.114569.1.1.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

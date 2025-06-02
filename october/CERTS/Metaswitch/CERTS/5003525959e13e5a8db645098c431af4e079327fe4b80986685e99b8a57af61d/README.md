@@ -2,9 +2,9 @@
 
 ## Certificate ENA SHAKEN 521F
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 1095 day(s)\
-Remaining Validity Period: 705 day(s)\
+Remaining Validity Period: 704 day(s)\
 Subject: CN=ENA SHAKEN 521F, O=ENA, C=US\
 Issuer: O=Metaswitch Networks, C=GB, CN=Metaswitch STI-CA SHAKEN Issuing 1\
 Link: https://cdn-cr.cgah.tnsi.com/certs/7aa8c4e2c803fd15d04bf92150cb33500ec60820
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7aa8c4e2c803fd15d04bf92150cb33500ec6082
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

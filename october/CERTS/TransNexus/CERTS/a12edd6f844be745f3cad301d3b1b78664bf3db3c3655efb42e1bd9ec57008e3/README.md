@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 841J
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 14 day(s)\
-Remaining Validity Period: -336 day(s)\
+Remaining Validity Period: -337 day(s)\
 Subject: CN=SHAKEN 841J, O=Securus Technologies LLC, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.transnexus.com/841J/3598b66f-0805-4244-9f9c-e7c4fbf6b569.pem
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/841J/3598b66f-0805-4244-9f9c-e7c4fbf6b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

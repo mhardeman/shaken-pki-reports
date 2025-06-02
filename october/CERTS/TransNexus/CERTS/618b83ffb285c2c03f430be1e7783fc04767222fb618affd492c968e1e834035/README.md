@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 073H
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:26 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 68 day(s)\
 Subject: CN=SHAKEN 073H, O=Telnyx LCC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.transnexus.com/073H/7b2c36bd-9f11-4998-bc31-a6072680a
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

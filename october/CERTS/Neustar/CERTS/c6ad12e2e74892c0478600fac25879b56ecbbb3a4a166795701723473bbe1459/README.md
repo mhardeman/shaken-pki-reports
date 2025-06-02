@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 510J
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -227 day(s)\
+Remaining Validity Period: -228 day(s)\
 Subject: CN=SHAKEN 510J, O=Simwood Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://cdn.simwood.com/shaken/simwood_2023.crt
@@ -16,4 +16,4 @@ Link: https://cdn.simwood.com/shaken/simwood_2023.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

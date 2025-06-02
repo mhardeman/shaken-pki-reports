@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0843
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -269 day(s)\
 Subject: CN=SHAKEN 0843, O=Amherst Telephone Company, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/04dab6de-0fdd-4299-bd4a-bf6e4349f114/410b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Mango Voice LLC 579K
 
-Tested At: 02 Jun 25 03:21 UTC\
+Tested At: 02 Jun 25 18:35 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -309 day(s)\
 Subject: CN=SHAKEN Mango Voice LLC 579K, O=Mango Voice LLC, ST=Utah, C=US\
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/579K/429C7C70711E3820F0B8E1DEAE6FF3262264A174.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 579K', but common name is 'SHAKEN Mango Voice LLC 579K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

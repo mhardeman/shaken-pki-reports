@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 690J
 
-Tested At: 02 Jun 25 03:43 UTC\
+Tested At: 02 Jun 25 18:56 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -51 day(s)\
+Remaining Validity Period: -52 day(s)\
 Subject: CN=SHAKEN 690J, O=Business Telecommunications Services Inc, C=US\
 Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
 Link: https://stirshaken-m.bts.io/api/v1/certificates/bts_b3f8527d0c31ee0d9d9e19da01e8cf68.cer
@@ -16,4 +16,4 @@ Link: https://stirshaken-m.bts.io/api/v1/certificates/bts_b3f8527d0c31ee0d9d9e19
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

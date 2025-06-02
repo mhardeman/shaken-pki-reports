@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 1stPoint Communications, LLC 463G
 
-Tested At: 02 Jun 25 03:19 UTC\
+Tested At: 02 Jun 25 18:33 UTC\
 Initial Validity Period: 30 day(s)\
 Remaining Validity Period: -239 day(s)\
 Subject: CN=SHAKEN 1stPoint Communications\\, LLC 463G, O=1stPoint Communications\\, LLC, ST=New York, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/463G/429C7C70711E3820F0B8E1DEAE6FF3262264A94C.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463G', but common name is 'SHAKEN 1stPoint Communications, LLC 463G' |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 463G', but common name is 'SHAKEN 1stPoint Communications, LLC 463G' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

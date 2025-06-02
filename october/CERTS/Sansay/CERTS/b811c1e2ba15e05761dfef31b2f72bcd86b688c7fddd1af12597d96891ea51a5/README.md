@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN Magna5, LLC 8249
 
-Tested At: 02 Jun 25 03:23 UTC\
+Tested At: 02 Jun 25 18:37 UTC\
 Initial Validity Period: 30 day(s)\
-Remaining Validity Period: -234 day(s)\
+Remaining Validity Period: -235 day(s)\
 Subject: CN=SHAKEN Magna5\\, LLC 8249, OU=Operations, O=Magna5\\, LLC, ST=Texas, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/8249/429C7C70711E3820F0B8E1DEAE6FF3262264A9E4.pem
@@ -17,4 +17,4 @@ Link: https://cr.sansay.com/8249/429C7C70711E3820F0B8E1DEAE6FF3262264A9E4.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 8249', but common name is 'SHAKEN Magna5, LLC 8249' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

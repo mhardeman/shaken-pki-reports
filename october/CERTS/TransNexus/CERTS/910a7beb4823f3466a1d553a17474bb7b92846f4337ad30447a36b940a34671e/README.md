@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 690K
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -330 day(s)\
+Remaining Validity Period: -331 day(s)\
 Subject: CN=SHAKEN 690K, O=Fourteen IP Ltd, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/30162656-4a38-437b-b8bb-635ebb9268ce/276090c1774d6fe8fe5ef17a8df92f3c.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/30162656-4a38-437b-b8bb-635ebb9268ce/2760
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

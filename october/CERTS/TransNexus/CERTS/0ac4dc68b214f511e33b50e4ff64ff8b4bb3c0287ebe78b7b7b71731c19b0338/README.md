@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 605K
 
-Tested At: 02 Jun 25 03:11 UTC\
+Tested At: 02 Jun 25 18:25 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -368 day(s)\
 Subject: CN=SHAKEN 605K, O=ComputerTel Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/d3392d1e-7c5e-4dca-bf50-685df2e11e88/be03
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

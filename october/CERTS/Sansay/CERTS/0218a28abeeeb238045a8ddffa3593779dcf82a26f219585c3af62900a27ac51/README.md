@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN ACS Technologies 488K
 
-Tested At: 02 Jun 25 03:19 UTC\
+Tested At: 02 Jun 25 18:33 UTC\
 Initial Validity Period: 365 day(s)\
-Remaining Validity Period: -124 day(s)\
+Remaining Validity Period: -125 day(s)\
 Subject: CN=SHAKEN ACS Technologies 488K, OU=ACS Technologies, O=ACS Technologies, ST=South Carolina, C=US\
 Issuer: CN=SHAKEN Sansay Intermediate CA US WEST 1, OU=Sansay CA, O=Sansay Corporation, ST=California, C=US\
 Link: https://cr.sansay.com/488K/429C7C70711E3820F0B8E1DEAE6FF32622648FD4.pem
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/488K/429C7C70711E3820F0B8E1DEAE6FF32622648FD4.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 488K', but common name is 'SHAKEN ACS Technologies 488K' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 488K', but common name is 'SHAKEN ACS Technologies 488K' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

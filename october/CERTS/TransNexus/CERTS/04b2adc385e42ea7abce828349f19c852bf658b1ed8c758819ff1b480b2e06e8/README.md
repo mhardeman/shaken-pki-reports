@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 362B
 
-Tested At: 02 Jun 25 03:10 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -291 day(s)\
 Subject: CN=SHAKEN 362B, O=SyncGlobal, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/2e6b3a40-7eb0-4f17-b97f-88856f45697c/c89f
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

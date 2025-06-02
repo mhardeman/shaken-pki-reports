@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 850J
 
-Tested At: 02 Jun 25 03:31 UTC\
+Tested At: 02 Jun 25 18:45 UTC\
 Initial Validity Period: 366 day(s)\
-Remaining Validity Period: 234 day(s)\
+Remaining Validity Period: 233 day(s)\
 Subject: serialNumber=C23E2706-6A61-4CF3-9B0F-5356F24DA460, CN=SHAKEN 850J, O=VoIPPlus LLC, C=US\
 Issuer: CN=Telonium SHAKEN Intermediate G1, O=Telonium Communications LLC, L=Atlanta, ST=GA, C=US\
 Link: https://mango.voipplus.net/cert.pem
@@ -14,4 +14,4 @@ Link: https://mango.voipplus.net/cert.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

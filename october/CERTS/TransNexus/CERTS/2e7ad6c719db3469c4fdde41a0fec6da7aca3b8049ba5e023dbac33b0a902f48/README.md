@@ -2,9 +2,9 @@
 
 ## Certificate SHAKEN 0586
 
-Tested At: 02 Jun 25 03:09 UTC\
+Tested At: 02 Jun 25 18:24 UTC\
 Initial Validity Period: 7 day(s)\
-Remaining Validity Period: -268 day(s)\
+Remaining Validity Period: -269 day(s)\
 Subject: CN=SHAKEN 0586, O=Com Net Inc, C=US\
 Issuer: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
 Link: https://certificates.clearip.com/073a0bab-9fae-4b15-8b93-39f894a5cc49/015cb57bd56b6ce12be45bfc21d794eb.pem
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/073a0bab-9fae-4b15-8b93-39f894a5cc49/015c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

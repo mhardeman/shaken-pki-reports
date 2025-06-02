@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 825K
 
-Tested At: 02 Jun 25 03:38 UTC\
+Tested At: 02 Jun 25 18:51 UTC\
 Initial Validity Period: 282 day(s)\
 Remaining Validity Period: -4 day(s)\
 Subject: O=The Spartan Group Inc., C=US, serialNumber=1D3BB12B9E2BD448B31B22C42EEE9C54, CN=SHAKEN 825K\
@@ -14,4 +14,4 @@ Link: https://p.mtsec.me/2e5a/ZtrQzS9DroJE.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC

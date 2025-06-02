@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bek Communications Cooperative 1604
 
-Tested At: 02 Jun 25 03:13 UTC\
+Tested At: 02 Jun 25 18:28 UTC\
 Initial Validity Period: 364 day(s)\
 Remaining Validity Period: 26 day(s)\
 Subject: CN=SHAKEN Bek Communications Cooperative 1604, OU=Enterprise Technology Department, O=Bek Communications Cooperative, ST=North Dakota, C=US\
@@ -13,8 +13,8 @@ Link: https://cr.sansay.com/1604/429C7C70711E3820F0B8E1DEAE6FF3262264A19B.pem
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1604', but common name is 'SHAKEN Bek Communications Cooperative 1604' |
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+| [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 1604', but common name is 'SHAKEN Bek Communications Cooperative 1604' |
 
 
-Generated: 02 Jun 25 03:45 UTC
+Generated: 02 Jun 25 18:58 UTC
