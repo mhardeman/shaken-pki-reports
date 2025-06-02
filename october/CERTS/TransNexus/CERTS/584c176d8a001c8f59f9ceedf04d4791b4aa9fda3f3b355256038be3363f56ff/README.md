@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 674J
 
-Tested At: 02 Jun 25 00:18 UTC\
+Tested At: 02 Jun 25 02:38 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -363 day(s)\
 Subject: CN=SHAKEN 674J, O=Panterra Networks Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0b98ecf4-0a43-4b89-8fc0-8e029d8258fa/06e5
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

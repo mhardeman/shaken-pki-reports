@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 723J
 
-Tested At: 02 Jun 25 00:18 UTC\
+Tested At: 02 Jun 25 02:38 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -319 day(s)\
 Subject: CN=SHAKEN 723J, O=TRACI.net, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0f1766a8-5beb-4396-9c92-b0ca02bfa565/4017
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

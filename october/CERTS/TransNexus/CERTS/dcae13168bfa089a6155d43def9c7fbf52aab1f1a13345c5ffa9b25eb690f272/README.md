@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 060K
 
-Tested At: 02 Jun 25 00:18 UTC\
+Tested At: 02 Jun 25 02:38 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -648 day(s)\
 Subject: CN=SHAKEN 060K, O=Telware, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0c4e235f-3e3e-4dd3-bbfc-2f15badab180/ceda
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

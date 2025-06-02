@@ -2,7 +2,7 @@
 
 ## Certificate Union Telephone Company SHAKEN 2297
 
-Tested At: 02 Jun 25 00:17 UTC\
+Tested At: 02 Jun 25 02:37 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 714 day(s)\
 Subject: CN=Union Telephone Company SHAKEN 2297, O=Union Telephone Company, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/15af00a5f4965617a4b01a66dfa46df0c93f7da
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

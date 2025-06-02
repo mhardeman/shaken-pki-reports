@@ -9,29 +9,29 @@
 
 #### Leaf Certificates
 
-- 93 certificates were included in the corpus being tested
-- 2 certificates in the corpus were skipped because they are duplicates
-- 33 certificates in the corpus were skipped because they are expired
+- 86 certificates were included in the corpus being tested
+- 1 certificates in the corpus were skipped because they are duplicates
+- 29 certificates in the corpus were skipped because they are expired
 - 0 certificates in the corpus were skipped because they are not currently trusted
-- 58 certificates being tested against the remaining rules
-- 2.48 issues on average found in unexpired, trusted, and non-compliant certificates
+- 56 certificates being tested against the remaining rules
+- 2.54 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
-- 13.79% of certificates are too old to be assessed against currently enforced expectations
-- 1087 days is the average remaining validity for the certificates in the corpus
+- 19.64% of certificates are too old to be assessed against currently enforced expectations
+- 1083 days is the average remaining validity for the certificates in the corpus
 - 1095 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 4 certificates expire in the next 30 days
 - 1.00 average number of unexpired certificates per OCN observed
-- 58 unique OCNs observed in unexpired and valid certificate corpus
+- 56 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 16 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
+| 13 | [e_atis_ext_crl_distribution_struct](ISSUES/e_atis_ext_crl_distribution_struct/README.md) | ATIS1000080 |
 | 46 | [e_atis_ext_key_usage_ee](ISSUES/e_atis_ext_key_usage_ee/README.md) | ATIS1000080 |
 | 1 | [e_atis_subject_cn](ISSUES/e_atis_subject_cn/README.md) | ATIS1000080 |
 | 39 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
-| 42 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
+| 43 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -65,6 +65,9 @@
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
+| 02&#160;Mar&#160;22&#160;17:52&#160;UTC | Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159 | 01&#160;Mar&#160;25&#160;17:52&#160;UTC | true | [view](CERTS/f0883d130f625c1b8157e54e090e4df461fd9afc05aff09d5a08cf50f9cd37aa/README.md) |
+| 05&#160;May&#160;22&#160;14:14&#160;UTC | Kaplan Telephone SHAKEN cert 0432 | 04&#160;May&#160;25&#160;14:14&#160;UTC | true | [view](CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) |
+| 19&#160;May&#160;22&#160;15:44&#160;UTC | DTC Communications SHAKEN Cert 0562 | 18&#160;May&#160;25&#160;15:44&#160;UTC | true | [view](CERTS/e72f0cf001ceeb26687b4aefba16aedc0006f2ce1b8069325adb312389e28173/README.md) |
 | 07&#160;Jun&#160;22&#160;12:24&#160;UTC | Avid Communication SHAKEN Cert 742D | 06&#160;Jun&#160;25&#160;12:24&#160;UTC | true | [view](CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) |
 | 02&#160;Aug&#160;22&#160;10:43&#160;UTC | Encore Communications SHAKEN Cert 956H | 01&#160;Aug&#160;25&#160;10:43&#160;UTC | true | [view](CERTS/cc63709890efdf1d938ab01b88b7d4f8368361ffd8572f46cd707e5b3807c95f/README.md) |
 | 18&#160;Aug&#160;22&#160;10:39&#160;UTC | Pembroke Telephone Company, Inc SHAKEN Cert 0376 | 17&#160;Aug&#160;25&#160;10:39&#160;UTC | true | [view](CERTS/69ab198b52280bf3d729e1427f62d521e91796e2bae19f99fa0ccd8d024b32de/README.md) |
@@ -96,7 +99,6 @@
 | 05&#160;Oct&#160;23&#160;13:44&#160;UTC | Fidelity Communications SHAKEN Cert 1882 | 04&#160;Oct&#160;26&#160;13:44&#160;UTC | true | [view](CERTS/af56b81c67b9b517530e053f153af3c7d6a72620c04f84b1ff648e7c137e1376/README.md) |
 | 06&#160;Dec&#160;23&#160;17:30&#160;UTC | TDS Telecom SHAKEN Cert 7804 | 05&#160;Dec&#160;26&#160;17:30&#160;UTC | true | [view](CERTS/dce299b1c08b1429bf51a4f30484ba06034302b3a668d75122b8df4e6d847077/README.md) |
 | 10&#160;Jan&#160;24&#160;10:41&#160;UTC | Telesystem SHAKEN Cert  786E | 09&#160;Jan&#160;27&#160;10:41&#160;UTC | true | [view](CERTS/1803673087bbc5010fdcdf8ec7308a8d5c3fee7bc564896cce642b5e32744f6b/README.md) |
-| 17&#160;Jan&#160;24&#160;11:59&#160;UTC | Verizon SHAKEN cert 5807 | 16&#160;Jan&#160;27&#160;11:59&#160;UTC | true | [view](CERTS/a14699eb4ccb6c8250361f4a6d53d9a97ec1fe52f49cfb81a2da8ad282042e25/README.md) |
 | 17&#160;Jan&#160;24&#160;17:28&#160;UTC | Buckeye SHAKEN Cert 7608 | 16&#160;Jan&#160;27&#160;17:28&#160;UTC | true | [view](CERTS/d3a051450eb1766106edeb97ef0206906b249e07e741717dbb954dbb987baef3/README.md) |
 | 02&#160;Feb&#160;24&#160;18:21&#160;UTC | GCI SHAKEN Cert 7785 | 01&#160;Feb&#160;27&#160;18:21&#160;UTC | true | [view](CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) |
 | 13&#160;Feb&#160;24&#160;10:39&#160;UTC | Northeast Communications of Wisconsin SHAKEN Cert 6692 | 12&#160;Feb&#160;27&#160;10:39&#160;UTC | true | [view](CERTS/3d46aceeef2cac6a05000c9888af4d55ccd3201ea00ab98a2c6ff4309ef8dfb3/README.md) |
@@ -105,9 +107,7 @@
 | 23&#160;Feb&#160;24&#160;11:12&#160;UTC | Segra SHAKEN Cert 1784 | 22&#160;Feb&#160;27&#160;11:12&#160;UTC | true | [view](CERTS/43e33ae8510822ad85afd4b972224c56b6e303b38e8ee3487836f32e2b2b6c89/README.md) |
 | 27&#160;Feb&#160;24&#160;11:26&#160;UTC | RCN SHAKEN Cert 7615 | 26&#160;Feb&#160;27&#160;11:26&#160;UTC | true | [view](CERTS/a3e31a58c4128199dd01dd48c23aa4d650b693b47341f25c0c316f4196e034b9/README.md) |
 | 08&#160;Mar&#160;24&#160;16:27&#160;UTC | Altafiber SHAKEN Cert 600F | 08&#160;Mar&#160;27&#160;16:27&#160;UTC | true | [view](CERTS/539f95db9ccfdb4fbde5313b77c2b42bd0353b0bb2506829cbc995f7bb7bcf8e/README.md) |
-| 15&#160;Mar&#160;24&#160;10:27&#160;UTC | USCellular SHAKEN Cert 6349 | 15&#160;Mar&#160;27&#160;10:27&#160;UTC | true | [view](CERTS/ec7913d85bed7d54482116c71ed51e9b018642cd690670bb870d5c7fc55ff439/README.md) |
 | 20&#160;Mar&#160;24&#160;19:46&#160;UTC | Nex-Tech Wireless SHAKEN Cert 122D | 20&#160;Mar&#160;27&#160;19:46&#160;UTC | true | [view](CERTS/29b17dc541b9267c439d4c77923a9cdbb64b8183e42a8915c9c7e705234538fa/README.md) |
-| 05&#160;Apr&#160;24&#160;09:53&#160;UTC | U. S. Telepacific Corp SHAKEN 7453 | 05&#160;Apr&#160;27&#160;09:53&#160;UTC | true | [view](CERTS/2382a05acdbbcac50de555226898695d61ee942019e54ce2f84dbb85455b2e46/README.md) |
 | 11&#160;Apr&#160;24&#160;10:09&#160;UTC | Hunter Communications SHAKEN 660C | 11&#160;Apr&#160;27&#160;10:09&#160;UTC | true | [view](CERTS/7ba7f6eec3035d5721469238231d79d35781c43b0830bdf252d62c2a9579e08e/README.md) |
 | 11&#160;Apr&#160;24&#160;10:10&#160;UTC | Everstream SHAKEN 472C | 11&#160;Apr&#160;27&#160;10:10&#160;UTC | true | [view](CERTS/ef8932bec0b9fb4dce93bc75b789ad3c6b7f2a9d16d781a65d0b314651d3a8af/README.md) |
 | 25&#160;Apr&#160;24&#160;12:08&#160;UTC | Viaero Wireless SHAKEN 6874 | 25&#160;Apr&#160;27&#160;12:08&#160;UTC | true | [view](CERTS/a78a872118a4c72e76b6751e8c04590e534c15dbdbf9813d6d1f5a3e671e44a8/README.md) |
@@ -121,8 +121,6 @@
 | 24&#160;May&#160;24&#160;13:21&#160;UTC | Carolina West Wireless SHAKEN 5932 | 24&#160;May&#160;27&#160;13:21&#160;UTC | true | [view](CERTS/295732fec21729ae13022f5a282d6650170fb9ed597a7e64112d614ce5ce19ca/README.md) |
 | 29&#160;May&#160;24&#160;09:35&#160;UTC | Hawaiian Telcom SHAKEN 009G | 29&#160;May&#160;27&#160;09:35&#160;UTC | true | [view](CERTS/66c671582a791af13a5672f2b6ea2e2c88ecc4e59d6b74bd8a4387554048d897/README.md) |
 | 03&#160;Jun&#160;24&#160;16:26&#160;UTC | Clearwave SHAKEN 9915 | 03&#160;Jun&#160;27&#160;16:26&#160;UTC | true | [view](CERTS/496f7dda838fe8c12d36121018d5f77c50d6470e494da7b99a23e79b50fe3352/README.md) |
-| 03&#160;Jun&#160;24&#160;17:14&#160;UTC | Mediacom SHAKEN 846F | 03&#160;Jun&#160;27&#160;17:14&#160;UTC | true | [view](CERTS/a2d12c9920c165e8132a4bc24e4d7eed1f1a077add8515b2252dc058d348c728/README.md) |
-| 13&#160;Jun&#160;24&#160;09:26&#160;UTC | Sonic Telecom SHAKEN 433E | 13&#160;Jun&#160;27&#160;09:26&#160;UTC | true | [view](CERTS/f18ce346a58e8224d3c89a2fe9b70579724cd396eff02d4af2df348f40aca05a/README.md) |
 
 #### CA Certificates
 
@@ -134,4 +132,4 @@
 | 21&#160;Mar&#160;24&#160;10:14&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 18&#160;Mar&#160;36&#160;10:14&#160;UTC | true | [view](CERTS/12d67681ec2bd575ddcb33c721fe445dc556f0e362ba5b565a1f03897cb542f6/README.md) |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

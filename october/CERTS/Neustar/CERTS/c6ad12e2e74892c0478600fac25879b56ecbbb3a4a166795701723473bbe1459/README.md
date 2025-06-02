@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 510J
 
-Tested At: 02 Jun 25 00:17 UTC\
+Tested At: 02 Jun 25 02:37 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -227 day(s)\
 Subject: CN=SHAKEN 510J, O=Simwood Inc, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn.simwood.com/shaken/simwood_2023.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

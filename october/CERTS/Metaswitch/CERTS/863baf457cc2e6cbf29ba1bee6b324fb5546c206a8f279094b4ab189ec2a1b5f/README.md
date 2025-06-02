@@ -2,7 +2,7 @@
 
 ## Certificate Twin Lakes SHAKEN Cert 0579
 
-Tested At: 02 Jun 25 00:17 UTC\
+Tested At: 02 Jun 25 02:37 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 302 day(s)\
 Subject: CN=Twin Lakes SHAKEN Cert 0579, O=Twin Lakes, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c432230cd80da72d58bde759a7f87ea43effba4
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 0579', but common name is 'Twin Lakes SHAKEN Cert 0579' |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

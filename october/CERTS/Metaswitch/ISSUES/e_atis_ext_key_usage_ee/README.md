@@ -22,6 +22,7 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 | error | Eatel SHAKEN Cert 8839 | [view](../../CERTS/a28d2c246508e2e6cff13fe388c7553b5490afb448d03437142aaea9ddc8d439/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | South Central Rural Telecommunications Coop SHAKEN Cert 0418 | [view](../../CERTS/3447893d621b5342a19be4adc6fa962c8b03b3d934d10ad5e8a9de85f1b33df5/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Whidbey Telephone Company SHAKEN Cert 2452 | [view](../../CERTS/11a8d77aa46349b365d5740e537d242f906b2729b3a16dcc5008297a8a7e3a3c/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| error | Valley Telephone Cooperative Inc / VTX1 SHAKEN 2159 | [view](../../CERTS/f0883d130f625c1b8157e54e090e4df461fd9afc05aff09d5a08cf50f9cd37aa/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Fastwyre Broadband SHAKEN Cert 0425 | [view](../../CERTS/2da263aa90b8ba1747cc000ba40674f5d534903d8ee0c5cd38ea276bc95f02f3/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Chariton Valley SHAKEN 250A | [view](../../CERTS/377c6fcbcdf110f0b2474415f03d1fb592deb2fcd7394e0404799ede3bb74163/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Fidelity Communications SHAKEN Cert 1882 | [view](../../CERTS/af56b81c67b9b517530e053f153af3c7d6a72620c04f84b1ff648e7c137e1376/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
@@ -47,21 +48,20 @@ Description: The Key Usage extension for STI end-entity certificates shall conta
 | error | 3 Rivers Communications SHAKEN Cert 2255 | [view](../../CERTS/8b53182b31f279a02c6fd03f50762f1d9e3412dc8bd0d2535380627545e28a2c/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Blackfoot Communications SHAKEN Cert 2235 | [view](../../CERTS/1ae2c0be152e4cef8d41bcfc9809e5d8c71251f93f845e84304ca5a3603019a4/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Twin Lakes SHAKEN Cert 0579 | [view](../../CERTS/863baf457cc2e6cbf29ba1bee6b324fb5546c206a8f279094b4ab189ec2a1b5f/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Segra SHAKEN Cert 1784 | [view](../../CERTS/43e33ae8510822ad85afd4b972224c56b6e303b38e8ee3487836f32e2b2b6c89/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Cellular South Licenses SHAKEN Cert 6581 | [view](../../CERTS/00941a6765df10dc35107d8f82f07a6bde43aeef738821df1ac58d997fcaf5ea/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Project Mutual SHAKEN Cert 2231 | [view](../../CERTS/d0a2456e20d153010a45b43f3247b0e6ce7bbd4e614967f3184d8e9516995bba/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| error | DTC Communications SHAKEN Cert 0562 | [view](../../CERTS/e72f0cf001ceeb26687b4aefba16aedc0006f2ce1b8069325adb312389e28173/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | West Kentucky Rural SHAKEN Cert 0421 | [view](../../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Alma Tel SHAKEN 0344 | [view](../../CERTS/1008e70b562dafabfb601eb7e7706c597172afcd0728a9e7602454dd0f365a7b/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
-| error | U. S. Telepacific Corp SHAKEN 7453 | [view](../../CERTS/2382a05acdbbcac50de555226898695d61ee942019e54ce2f84dbb85455b2e46/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
-| error | USCellular SHAKEN Cert 6349 | [view](../../CERTS/ec7913d85bed7d54482116c71ed51e9b018642cd690670bb870d5c7fc55ff439/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
-| error | Verizon SHAKEN cert 5807 | [view](../../CERTS/a14699eb4ccb6c8250361f4a6d53d9a97ec1fe52f49cfb81a2da8ad282042e25/README.md) | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

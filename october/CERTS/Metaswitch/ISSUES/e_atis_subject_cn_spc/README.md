@@ -42,19 +42,19 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 | error | 3 Rivers Communications SHAKEN Cert 2255 | [view](../../CERTS/8b53182b31f279a02c6fd03f50762f1d9e3412dc8bd0d2535380627545e28a2c/README.md) | Common name shall contain the text string 'SHAKEN 2255', but common name is '3 Rivers Communications SHAKEN Cert 2255' |
 | error | Blackfoot Communications SHAKEN Cert 2235 | [view](../../CERTS/1ae2c0be152e4cef8d41bcfc9809e5d8c71251f93f845e84304ca5a3603019a4/README.md) | Common name shall contain the text string 'SHAKEN 2235', but common name is 'Blackfoot Communications SHAKEN Cert 2235' |
 | error | Twin Lakes SHAKEN Cert 0579 | [view](../../CERTS/863baf457cc2e6cbf29ba1bee6b324fb5546c206a8f279094b4ab189ec2a1b5f/README.md) | Common name shall contain the text string 'SHAKEN 0579', but common name is 'Twin Lakes SHAKEN Cert 0579' |
+| error | Kaplan Telephone SHAKEN cert 0432 | [view](../../CERTS/24c1b7c4dc4aeda21b5d1c5ff7f059903693c4a8b67ecc054ef05542a2ff4c35/README.md) | Common name shall contain the text string 'SHAKEN 0432', but common name is 'Kaplan Telephone SHAKEN cert 0432' |
 | error | Avid Communication SHAKEN Cert 742D | [view](../../CERTS/b63d54026dfcdfd16495ad6fdda8993de182c86b4aa870784177c38c53842cba/README.md) | Common name shall contain the text string 'SHAKEN 742D', but common name is 'Avid Communication SHAKEN Cert 742D' |
 | error | Segra SHAKEN Cert 1784 | [view](../../CERTS/43e33ae8510822ad85afd4b972224c56b6e303b38e8ee3487836f32e2b2b6c89/README.md) | Common name shall contain the text string 'SHAKEN 1784', but common name is 'Segra SHAKEN Cert 1784' |
 | error | Cellular South Licenses SHAKEN Cert 6581 | [view](../../CERTS/00941a6765df10dc35107d8f82f07a6bde43aeef738821df1ac58d997fcaf5ea/README.md) | Common name shall contain the text string 'SHAKEN 6581', but common name is 'Cellular South Licenses SHAKEN Cert 6581' |
 | error | Project Mutual SHAKEN Cert 2231 | [view](../../CERTS/d0a2456e20d153010a45b43f3247b0e6ce7bbd4e614967f3184d8e9516995bba/README.md) | Common name shall contain the text string 'SHAKEN 2231', but common name is 'Project Mutual SHAKEN Cert 2231' |
+| error | DTC Communications SHAKEN Cert 0562 | [view](../../CERTS/e72f0cf001ceeb26687b4aefba16aedc0006f2ce1b8069325adb312389e28173/README.md) | Common name shall contain the text string 'SHAKEN 0562', but common name is 'DTC Communications SHAKEN Cert 0562' |
 | error | West Kentucky Rural SHAKEN Cert 0421 | [view](../../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) | Common name shall contain the text string 'SHAKEN 0421', but common name is 'West Kentucky Rural SHAKEN Cert 0421' |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | Common name shall contain the text string 'SHAKEN 7785', but common name is 'GCI SHAKEN Cert 7785' |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | Common name shall contain the text string 'SHAKEN 0553', but common name is 'Ben Lomand SHAKEN Cert 0553' |
-| error | USCellular SHAKEN Cert 6349 | [view](../../CERTS/ec7913d85bed7d54482116c71ed51e9b018642cd690670bb870d5c7fc55ff439/README.md) | Common name shall contain the text string 'SHAKEN 6349', but common name is 'USCellular SHAKEN Cert 6349' |
-| error | Verizon SHAKEN cert 5807 | [view](../../CERTS/a14699eb4ccb6c8250361f4a6d53d9a97ec1fe52f49cfb81a2da8ad282042e25/README.md) | Common name shall contain the text string 'SHAKEN 5807', but common name is 'Verizon SHAKEN cert 5807' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

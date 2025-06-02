@@ -11,7 +11,6 @@ Description: The verifier should not dereference any protocol other than https o
 |-----------------|-----------|-----------|------|
 | `http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt` |  | true | [view](../../REPOS/c6d2cb3bdc1e822ced5bb191ab336e0b567479e4/README.md) |
 | `http://stirshaken.corvitbpo.com/zg-key.pem` |  | true | [view](../../REPOS/88b8d76fa66010cc301a89a6ce1a2d44e2dc1354/README.md) |
-| `https://sip.gnvoip.net:5000/stirshaken_certs/665K.crt` |  | true | [view](../../REPOS/6120c9c9e0969c758c0dbab9cd7449c03439ba25/README.md) |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

@@ -12,11 +12,11 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/0f55e9a64c9e80bd8d9ad8b5e8324e6f842dc193a2b81e708a45dfc4f41d96c8/README.md) | Common name shall contain the text string 'SHAKEN 490J', but common name is 'DISH Wireless L.L.C.SHAKEN.490J' |
+| error | Plivo Inc | [view](../../CERTS/842b9c1621617feb8d70fbe7aa3008ca7d41b51cae837e7ae72f235593062e0d/README.md) | Common name shall contain the text string 'SHAKEN 800J', but common name is 'Plivo Inc' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

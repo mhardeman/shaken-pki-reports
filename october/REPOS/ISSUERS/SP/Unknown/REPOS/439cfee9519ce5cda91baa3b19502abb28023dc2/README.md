@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://az.tax/5`\
-Tested At: 02 Jun 25 00:17 UTC\
-Time: 95ms
+Tested At: 02 Jun 25 02:37 UTC\
+Time: 6ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 95ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://az.tax/5": dial tcp: lookup az.tax: no such host |
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC

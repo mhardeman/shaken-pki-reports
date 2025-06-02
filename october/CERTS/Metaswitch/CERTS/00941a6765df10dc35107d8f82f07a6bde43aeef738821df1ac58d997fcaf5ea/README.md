@@ -2,7 +2,7 @@
 
 ## Certificate Cellular South Licenses SHAKEN Cert 6581
 
-Tested At: 02 Jun 25 00:17 UTC\
+Tested At: 02 Jun 25 02:37 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 624 day(s)\
 Subject: CN=Cellular South Licenses SHAKEN Cert 6581, O=Cellular South Licenses  DBA C Spire, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/d1af372b9cdb3ceba1f85f4ec3657797b3eb1c7
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 02 Jun 25 01:01 UTC
+Generated: 02 Jun 25 02:39 UTC
