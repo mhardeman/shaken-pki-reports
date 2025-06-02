@@ -1,0 +1,32 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate GCI SHAKEN Cert 7785
+
+Tested At: 02 Jun 25 00:08 UTC\
+Initial Validity Period: 1095 day(s)\
+Remaining Validity Period: -442 day(s)\
+Subject: CN=GCI SHAKEN Cert 7785, O=GCI, C=us\
+Issuer: CN=Metaswitch STI-CA SHAKEN Issuing 1\
+Link: https://cdn-cr.cgah.tnsi.com/certs/69fae8e574f06fb796e08c7b6ea847f2563cea5b
+
+[View certificate details](https://x509.io/?cert=MIICQjCCAeegAwIBAgIQWVIfIucXyRwdk2r1QxfxijAKBggqhkjOPQQDAjAtMSswKQYDVQQDDCJNZXRhc3dpdGNoIFNUSS1DQSBTSEFLRU4gSXNzdWluZyAxMB4XDTIxMDMxNzE3MTI0MFoXDTI0MDMxNjE3MTI0MFowOjELMAkGA1UEBhMCdXMxDDAKBgNVBAoMA0dDSTEdMBsGA1UEAwwUR0NJIFNIQUtFTiBDZXJ0IDc3ODUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARaB2tkqnNVmOGuizyDsUBBLFhwWwoHf7WBK%2B539zfhV1dT5OQrbZJOgmiMy1cW7q%2BOAd1uuyOeag%2B2jcvLXmquo4HbMIHYMAwGA1UdEwEB%2FwQCMAAwDgYDVR0PAQH%2FBAQDAgXgMBYGCCsGAQUFBwEaBAowCKAGFgQ3Nzg1MEcGA1UdHwRAMD4wPKA6oDiGNmh0dHBzOi8vYXV0aGVudGljYXRlLWFwaS5pY29uZWN0aXYuY29tL2Rvd25sb2FkL3YxL2NybDAXBgNVHSAEEDAOMAwGCmCGSAGG%2FwkBAQEwHQYDVR0OBBYEFNBTKUsbL5mmfkdrpXdVRnf1NlU8MB8GA1UdIwQYMBaAFM0epwAQENoyHWkaOdXSRgssPIfWMAoGCCqGSM49BAMCA0kAMEYCIQD1plr6Dl%2FKnrzzFBGkxc17Py0p0BToNjrqn8ReVd9RWQIhAK8BHwvgTKCJ8QAi2yCwJN%2Bc%2BWK4Jd2oKPkmxZuKlwHL)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+
+### Not Effective
+
+- e_atis_ext_not_specified
+- e_atis_serial_number_size
+- e_atis_subject_c_iso
+- e_atis_subject_cn_spc
+- e_atis_subject_key_identifier_size
+- e_atis_subject_o_required
+- e_atis_tn_auth_list_spc_format
+- e_shaken_certificate_policies_id
+
+\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
+
+
+Generated: 02 Jun 25 00:08 UTC
