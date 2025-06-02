@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0732
 
-Tested At: 02 Jun 25 02:38 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -647 day(s)\
 Subject: CN=SHAKEN 0732, O=Michigan Broadband Services, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/10d5d33a-25e1-4ec4-8dcb-70aa26849d9f/3c88
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

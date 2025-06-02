@@ -2,7 +2,7 @@
 
 ## Certificate RCN SHAKEN Cert 7615
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -442 day(s)\
 Subject: CN=RCN SHAKEN Cert 7615, O=RCN, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/91cb0b66fe231e4eb06ddad650a80f4f09cdfdc
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

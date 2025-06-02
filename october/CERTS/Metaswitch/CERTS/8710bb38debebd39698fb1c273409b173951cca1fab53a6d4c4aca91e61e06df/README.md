@@ -2,7 +2,7 @@
 
 ## Certificate Everstream SHAKEN Cert 472C 
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -378 day(s)\
 Subject: CN=Everstream SHAKEN Cert 472C\\ , O=Everstream, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/9a7b2a6d4386c07c3a93defdf06692adca9b47c
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

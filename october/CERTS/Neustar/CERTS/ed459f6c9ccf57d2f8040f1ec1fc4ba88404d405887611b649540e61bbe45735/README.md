@@ -1,0 +1,19 @@
+# STIR/SHAKEN CA Ecosystem Compliance
+
+## Certificate SHAKEN 704J
+
+Tested At: 02 Jun 25 03:30 UTC\
+Initial Validity Period: 365 day(s)\
+Remaining Validity Period: -75 day(s)\
+Subject: CN=SHAKEN 704J, O=Clearly IP Inc, C=US\
+Issuer: CN=Neustar Certified Caller ID SHAKEN CA-2, OU=www.ccid.neustar, O=Neustar Information Services Inc, C=US\
+Link: https://cr.xcastlabs.net/1742317921/xclsshaken.pem
+
+[View certificate details](https://x509.io/?cert=MIIDAzCCAqigAwIBAgIUY%2FChu2j0ZS0ZUCUcaa1u%2FoMwERAwCgYIKoZIzj0EAwIwgYUxCzAJBgNVBAYTAlVTMSkwJwYDVQQKDCBOZXVzdGFyIEluZm9ybWF0aW9uIFNlcnZpY2VzIEluYzEZMBcGA1UECwwQd3d3LmNjaWQubmV1c3RhcjEwMC4GA1UEAwwnTmV1c3RhciBDZXJ0aWZpZWQgQ2FsbGVyIElEIFNIQUtFTiBDQS0yMB4XDTI0MDMxODE3MTIwMVoXDTI1MDMxODE3MTIwMVowPDELMAkGA1UEBhMCVVMxFzAVBgNVBAoMDkNsZWFybHkgSVAgSW5jMRQwEgYDVQQDDAtTSEFLRU4gNzA0SjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDtdRQUNUwZ86UF0DOnzXdECtPXFIWmShNM6XBSf4Gguq5AR65mAoV3x6jzMSfllpJ%2Bpy3g0x4KSlBv1WU7z4pWjggE8MIIBODAWBggrBgEFBQcBGgQKMAigBhYENzA0SjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIJOFf%2F%2Bn2pnUeTIl8dtdMP8ZUV4MBcGA1UdIAQQMA4wDAYKYIZIAYb%2FCQEBAzCBpgYDVR0fBIGeMIGbMIGYoDqgOIY2aHR0cHM6Ly9hdXRoZW50aWNhdGUtYXBpLmljb25lY3Rpdi5jb20vZG93bmxvYWQvdjEvY3JsolqkWDBWMRQwEgYDVQQHDAtCcmlkZ2V3YXRlcjELMAkGA1UECAwCTkoxEzARBgNVBAMMClNUSS1QQSBDUkwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQKDAZTVEktUEEwHQYDVR0OBBYEFJ0HkG1Q4g8rdZgRqRXE%2BTRNYi57MA4GA1UdDwEB%2FwQEAwIHgDAKBggqhkjOPQQDAgNJADBGAiEAlWAcE3%2BxFYwosMsAsNirwqSSttHhwp1NBaPba%2BcIrJkCIQCcyuKfRI%2FerjeGqUuDGhjhPjCSUyW3nx3d5a5Sj1l7dQ%3D%3D)
+
+| Code | Type | Source | Details |
+|------|------|--------|---------|
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
+
+
+Generated: 02 Jun 25 03:45 UTC

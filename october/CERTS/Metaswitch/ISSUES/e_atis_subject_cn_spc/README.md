@@ -51,10 +51,12 @@ Description: For end-entity certificate, the Common Name attribute shall contain
 | error | West Kentucky Rural SHAKEN Cert 0421 | [view](../../CERTS/62a29b3d0b7af5b22427dc5dee9d649652664d6a455a601ed01b85592ad9a0a6/README.md) | Common name shall contain the text string 'SHAKEN 0421', but common name is 'West Kentucky Rural SHAKEN Cert 0421' |
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | Common name shall contain the text string 'SHAKEN 7785', but common name is 'GCI SHAKEN Cert 7785' |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | Common name shall contain the text string 'SHAKEN 0553', but common name is 'Ben Lomand SHAKEN Cert 0553' |
+| error | USCellular SHAKEN Cert 6349 | [view](../../CERTS/ec7913d85bed7d54482116c71ed51e9b018642cd690670bb870d5c7fc55ff439/README.md) | Common name shall contain the text string 'SHAKEN 6349', but common name is 'USCellular SHAKEN Cert 6349' |
+| error | Verizon SHAKEN cert 5807 | [view](../../CERTS/a14699eb4ccb6c8250361f4a6d53d9a97ec1fe52f49cfb81a2da8ad282042e25/README.md) | Common name shall contain the text string 'SHAKEN 5807', but common name is 'Verizon SHAKEN cert 5807' |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

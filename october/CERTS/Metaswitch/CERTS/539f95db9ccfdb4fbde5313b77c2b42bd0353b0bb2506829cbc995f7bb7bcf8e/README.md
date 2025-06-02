@@ -2,7 +2,7 @@
 
 ## Certificate Altafiber SHAKEN Cert 600F
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 645 day(s)\
 Subject: CN=Altafiber SHAKEN Cert 600F, O=Altafiber, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/5bf43a66fdefa14ec681ce439ba5f70dce880ac
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 600F', but common name is 'Altafiber SHAKEN Cert 600F' |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

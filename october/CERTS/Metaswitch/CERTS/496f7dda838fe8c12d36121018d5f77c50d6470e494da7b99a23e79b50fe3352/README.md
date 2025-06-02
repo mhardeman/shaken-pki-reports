@@ -2,7 +2,7 @@
 
 ## Certificate Clearwave SHAKEN 9915
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 732 day(s)\
 Subject: CN=Clearwave SHAKEN 9915, O=Clearwave Communications, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/8c047baba4b6c6f319541b73856679bda03e801
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

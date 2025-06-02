@@ -2,7 +2,7 @@
 
 ## Certificate Utility SHAKEN 9262
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 711 day(s)\
 Subject: CN=Utility SHAKEN 9262, O=Utility Telecom Group\\, LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/163df7e9d1e2d91487cc2788653619a671bc918
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

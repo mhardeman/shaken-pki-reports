@@ -2,7 +2,7 @@
 
 ## Certificate Plant Telephone Company SHAKEN 0379
 
-Tested At: 02 Jun 25 02:37 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 337 day(s)\
 Subject: CN=Plant Telephone Company SHAKEN 0379, O=Plant Telephone Company, C=US\
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/81f3a3da944c5778c3db724e7f2a7a58accbd30
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://stirshaken.ellianz.com/`\
-Tested At: 02 Jun 25 02:37 UTC\
-Time: 1236ms
+Tested At: 02 Jun 25 03:09 UTC\
+Time: 785ms
 
 ### Issues
 
@@ -15,4 +15,4 @@ Time: 1236ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

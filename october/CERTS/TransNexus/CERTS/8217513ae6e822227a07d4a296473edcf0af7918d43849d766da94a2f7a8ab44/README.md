@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2277
 
-Tested At: 02 Jun 25 02:38 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -526 day(s)\
 Subject: CN=SHAKEN 2277, O=CentraCom, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/0ed28b24-35cd-4fbe-82b2-ae7b4e44f3d3/a2bf
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 0586
 
-Tested At: 02 Jun 25 02:38 UTC\
+Tested At: 02 Jun 25 03:09 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -268 day(s)\
 Subject: CN=SHAKEN 0586, O=Com Net Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/073a0bab-9fae-4b15-8b93-39f894a5cc49/015c
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

@@ -3,8 +3,8 @@
 ## Everstream
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/b1bc161ddcafa35c5036dfe9b37e9b7bc16c5bcd`\
-Tested At: 02 Jun 25 02:37 UTC\
-Time: 103ms
+Tested At: 02 Jun 25 03:09 UTC\
+Time: 21ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 103ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

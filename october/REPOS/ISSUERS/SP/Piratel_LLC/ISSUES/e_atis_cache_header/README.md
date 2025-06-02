@@ -1,0 +1,15 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## Piratel LLC
+
+Name: e_atis_cache_header\
+Source: ATIS-1000074\
+Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
+### Repository URLs
+
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://certificates.piratel.com/piratel_20240813.crt` | 13&#160;Aug&#160;25&#160;18:14&#160;UTC | true | [view](../../REPOS/9fad5944a28b0e33e6a5b5630630953a66458c7c/README.md) |
+
+
+Generated: 02 Jun 25 03:45 UTC

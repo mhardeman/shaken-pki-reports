@@ -3,8 +3,8 @@
 ## Hawaiian Telcom
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/e41b2df552e335b829a64d4d88a3bf63bb39b248`\
-Tested At: 02 Jun 25 02:37 UTC\
-Time: 102ms
+Tested At: 02 Jun 25 03:09 UTC\
+Time: 22ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 102ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

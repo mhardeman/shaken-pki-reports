@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 95ms average time it took to download each certificate
+- 27ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -22,4 +22,4 @@
 | `https://cdn-cr.cgah.tnsi.com/certs/27c187b748655ad5d9d3a570aefb8db66d57f3eb` | 26&#160;Apr&#160;27&#160;09:58&#160;UTC | true | [view](REPOS/56c832e32fcac5b9087f2e0a10abc1e65da40a1a/README.md) |
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC

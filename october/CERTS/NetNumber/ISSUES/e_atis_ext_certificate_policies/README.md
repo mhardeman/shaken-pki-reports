@@ -13,10 +13,11 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
 | error | Plivo Inc | [view](../../CERTS/842b9c1621617feb8d70fbe7aa3008ca7d41b51cae837e7ae72f235593062e0d/README.md) | The Certificate Policies extension is marked as critical |
+| error | DISH Wireless L.L.C.SHAKEN.490J | [view](../../CERTS/0f55e9a64c9e80bd8d9ad8b5e8324e6f842dc193a2b81e708a45dfc4f41d96c8/README.md) | The Certificate Policies extension is marked as critical |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 02:39 UTC
+Generated: 02 Jun 25 03:45 UTC
