@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 331K
 
-Tested At: 02 Jun 25 00:08 UTC\
+Tested At: 02 Jun 25 00:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 306 day(s)\
 Subject: CN=SHAKEN 331K, O=PROCESAMOS LLC, L=Albuquerque, ST=NM, C=US\
@@ -14,4 +14,4 @@ Link: https://billing.procesamos.net/cert/331K.pem
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

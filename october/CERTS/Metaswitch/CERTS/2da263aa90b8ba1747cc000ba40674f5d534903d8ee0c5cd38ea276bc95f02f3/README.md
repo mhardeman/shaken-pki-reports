@@ -2,7 +2,7 @@
 
 ## Certificate Fastwyre Broadband SHAKEN Cert 0425
 
-Tested At: 02 Jun 25 00:08 UTC\
+Tested At: 02 Jun 25 00:17 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 344 day(s)\
 Subject: CN=Fastwyre Broadband SHAKEN Cert 0425, O=Fastwyre Broadband, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4f2a4a764bced7e27a5c80067dd0410ddd1b9e0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

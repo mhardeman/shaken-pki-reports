@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 212ms average time it took to download each certificate
+- 220ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://callhub.46labs.com/callhub.pem` | 22&#160;Aug&#160;25&#160;16:18&#160;UTC | true | [view](REPOS/ee75a4007362a2c6bb1fdaccebeb10c8074bd38b/README.md) |
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

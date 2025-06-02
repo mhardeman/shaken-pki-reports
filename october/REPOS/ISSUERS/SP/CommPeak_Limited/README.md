@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 222ms average time it took to download each certificate
+- 265ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cdn.commpeak.com/sti/cmmpkusns` | 19&#160;Aug&#160;25&#160;18:27&#160;UTC | true | [view](REPOS/b8e0fa3dca0c4e6292409c1b204d76224c40c662/README.md) |
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

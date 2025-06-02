@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 788J 1724072973
 
-Tested At: 02 Jun 25 00:07 UTC\
+Tested At: 02 Jun 25 00:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 79 day(s)\
 Subject: CN=SHAKEN 788J 1724072973, O=New Age Consulting Service\\, Inc., L=Cleveland, ST=Ohio, C=US\
@@ -14,4 +14,4 @@ Link: http://sip-proxy02.n2net.net/certs/cert-1724072973
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

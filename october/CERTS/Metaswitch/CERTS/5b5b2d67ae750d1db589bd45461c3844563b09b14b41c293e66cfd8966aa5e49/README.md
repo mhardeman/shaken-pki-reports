@@ -2,7 +2,7 @@
 
 ## Certificate New Horizon SHAKEN 127E
 
-Tested At: 02 Jun 25 00:08 UTC\
+Tested At: 02 Jun 25 00:17 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 699 day(s)\
 Subject: CN=New Horizon SHAKEN 127E, O=New Horizon, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e7a4996270fb37885b8079d8ac50fa57f5db0fa
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

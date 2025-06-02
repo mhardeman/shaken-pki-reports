@@ -2,7 +2,7 @@
 
 ## Certificate Telonium STI-CA Root2
 
-Tested At: 02 Jun 25 00:08 UTC\
+Tested At: 02 Jun 25 01:01 UTC\
 Initial Validity Period: 5478 day(s)\
 Remaining Validity Period: 4662 day(s)\
 Subject: CN=Telonium STI-CA Root2, O=Telonium, C=US\
@@ -17,4 +17,4 @@ Issuer: CN=Telonium STI-CA Root2, O=Telonium, C=US
 | [e_atis_ext_key_usage](../../ISSUES/e_atis_ext_key_usage/README.md) | error | ATIS1000080 | Key Usage extension not found |
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

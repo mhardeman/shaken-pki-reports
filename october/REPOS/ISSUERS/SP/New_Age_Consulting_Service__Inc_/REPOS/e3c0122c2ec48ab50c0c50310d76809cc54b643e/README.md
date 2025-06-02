@@ -3,8 +3,8 @@
 ## New Age Consulting Service, Inc.
 
 Name: `http://sip-proxy01.n2net.net/certs/cert-1692309910`\
-Tested At: 02 Jun 25 00:07 UTC\
-Time: 175ms
+Tested At: 02 Jun 25 00:17 UTC\
+Time: 197ms
 
 ### Issues
 
@@ -14,4 +14,4 @@ Time: 175ms
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC

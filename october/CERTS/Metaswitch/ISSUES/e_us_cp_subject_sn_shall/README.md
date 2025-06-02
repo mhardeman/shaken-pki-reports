@@ -52,10 +52,12 @@ Description: The DN shall contain a serialNumber attribute.
 | error | GCI SHAKEN Cert 7785 | [view](../../CERTS/756b85600764bd2c72e98777b98791b6005640feb1fba6f3d9c1a278c9e66f87/README.md) | The DN does not contain a serialNumber attribute. |
 | error | Alma Tel SHAKEN 0344 | [view](../../CERTS/1008e70b562dafabfb601eb7e7706c597172afcd0728a9e7602454dd0f365a7b/README.md) | The DN does not contain a serialNumber attribute. |
 | error | Ben Lomand SHAKEN Cert 0553 | [view](../../CERTS/ce469ff39f245721d8c523af0a6fbd26fc0742e3c18b0b5adc627794eaad6231/README.md) | The DN does not contain a serialNumber attribute. |
+| error | USCellular SHAKEN Cert 6349 | [view](../../CERTS/ec7913d85bed7d54482116c71ed51e9b018642cd690670bb870d5c7fc55ff439/README.md) | The DN does not contain a serialNumber attribute. |
+| error | Verizon SHAKEN cert 5807 | [view](../../CERTS/a14699eb4ccb6c8250361f4a6d53d9a97ec1fe52f49cfb81a2da8ad282042e25/README.md) | The DN does not contain a serialNumber attribute. |
 
 ### CA Certificates
 
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 00:08 UTC
+Generated: 02 Jun 25 01:01 UTC
