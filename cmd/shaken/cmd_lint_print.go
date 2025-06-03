@@ -84,20 +84,20 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 }
 
 func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
-	fmt.Fprintf(w, "- %d potential certificates were requested for retrieval\n", r.FetchAttemptAmount)
-	fmt.Fprintf(w, "- %d candidate certificates were included in the corpus being tested\n", r.Amount)
-	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they are duplicates\n", r.SkippedRepositoriesAmount)
-	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they are outside-target-validity-period\n", r.SkippedExpiredAmount)
-	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they did not chain to trust anchors\n", r.SkippedUntrustedAmount)
-	fmt.Fprintf(w, "- %d certificates being tested against the remaining rules\n", r.TestedAmount)
-	fmt.Fprintf(w, "- %0.2f issues on average found in unexpired, trusted, and non-compliant certificates\n", r.AverageCertificatesWithProblems())
+	fmt.Fprintf(w, "- %d potential certificate URLs were requested for retrieval\n", r.FetchAttemptAmount)
+	fmt.Fprintf(w, "- %d candidate certificates were parsed from the potential certificate URLs\n", r.Amount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were excluded because they are duplicates\n", r.SkippedRepositoriesAmount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were excluded because they are outside-target-validity-period\n", r.SkippedExpiredAmount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were excluded because they did not chain to trust anchors\n", r.SkippedUntrustedAmount)
+	fmt.Fprintf(w, "- %d valid certificates being tested against the remaining rules\n", r.TestedAmount)
+	fmt.Fprintf(w, "- %0.2f issues on average found in valid but non-compliant certificates\n", r.AverageCertificatesWithProblems())
 	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Error level issue\n", r.AverageErrors())
 	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Warning level issue\n", r.AverageWarns())
 	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Notice level issue\n", r.AverageNotices())
 	fmt.Fprintf(w, "- %0.2f%% of certificates are too old to be assessed against currently enforced expectations\n", r.AverageNotEffective())
-	fmt.Fprintf(w, "- %0.0f days is the average remaining validity for the certificates in the corpus\n", r.AverageRemainingValidity())
-	fmt.Fprintf(w, "- %0.0f days is the average initial validity for the certificates in the corpus\n", r.AverageInitialValidity())
-	fmt.Fprintf(w, "- %d certificates expire in the next 30 days\n", r.ExpiresSoon)
+	fmt.Fprintf(w, "- %0.0f days is the average remaining validity for the valid certificates\n", r.AverageRemainingValidity())
+	fmt.Fprintf(w, "- %0.0f days is the average initial validity for the valid certificates\n", r.AverageInitialValidity())
+	//fmt.Fprintf(w, "- %d certificates expire in the next 30 days\n", r.ExpiresSoon)
 }
 
 func PrintCertificateSummaryIssuers(w io.Writer, r *CertificateIssuersReport, anchor string) {
