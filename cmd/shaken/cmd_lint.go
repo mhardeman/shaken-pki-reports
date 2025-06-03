@@ -202,14 +202,14 @@ func (t *LintCommandItem) UpdateStatuses() {
 			t.IsUntrusted = true
 		}
 
-		t.IsExpired = false;
+		t.IsExpired = false
 
 		if t.Certificate.NotAfter.Before(time.UnixMilli(1696118400000)) {
-			t.IsExpired = true;
+			t.IsExpired = true
 		}
 
 		if (t.Certificate.NotBefore.After(time.UnixMilli(1730419200000)) {
-			t.IsExpired = true;	
+			t.IsExpired = true	
 		}
 
 		// check expired
