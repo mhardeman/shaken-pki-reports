@@ -2,7 +2,7 @@
 
 ## Certificate Aeneas Communications SHAKEN Cert 2891
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 320 day(s)\
 Subject: CN=Aeneas Communications SHAKEN Cert 2891, O=Aeneas Communications\\ , C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/25d9b4b15a9c7d0d8358bd9eb307a6ebbd8b7d0
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

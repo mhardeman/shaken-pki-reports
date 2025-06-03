@@ -2,7 +2,7 @@
 
 ## Certificate RCN SHAKEN Cert 7615
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 634 day(s)\
 Subject: CN=RCN SHAKEN Cert 7615, O=RCN, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/a23201bf22dbf58314c267f8d2dc304ff278000
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

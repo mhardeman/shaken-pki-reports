@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 849K
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -51 day(s)\
 Subject: O=Flow VOIP LLC., C=US, serialNumber=127610CED3468D3E1A756DC70AB9018E, CN=SHAKEN 849K\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/a3a9136d93.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

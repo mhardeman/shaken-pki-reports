@@ -2,7 +2,7 @@
 
 ## Certificate TDS Telecom SHAKEN Cert 7804
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -533 day(s)\
 Subject: CN=TDS Telecom SHAKEN Cert 7804, O=TDS Telecom, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/9ce9430dbe64eaf1eded88e8494d43dd11ee6ae
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

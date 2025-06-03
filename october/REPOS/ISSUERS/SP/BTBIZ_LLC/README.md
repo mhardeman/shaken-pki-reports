@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 338ms average time it took to download each certificate
+- 342ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://btbiz.46labs.com/btbiz.pem` | 30&#160;Apr&#160;25&#160;15:59&#160;UTC | true | [view](REPOS/cf5607093517eb91b62352b3ba5c5b0d20b51a5d/README.md) |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

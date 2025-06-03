@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 962J
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 29 day(s)\
 Subject: CN=SHAKEN 962J, O=Versatel LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://cert.46labs.com/cert.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

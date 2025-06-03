@@ -3,8 +3,8 @@
 ## BTBIZ LLC
 
 Name: `https://btbiz.46labs.com/btbiz.pem`\
-Tested At: 03 Jun 25 00:36 UTC\
-Time: 338ms
+Tested At: 03 Jun 25 00:47 UTC\
+Time: 342ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 338ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

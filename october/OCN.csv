@@ -106,7 +106,6 @@ OCN,Org Name,CN,Cert
 "308H","Crosstel Tandem Inc Holston","Crosstel Tandem Inc Holston Shaken Cert 308H ","https://cdn-cr.cgah.tnsi.com/certs/2411390577fae283ff16682fc3c75cb0597b918e"
 "355D","American Broadband","American Broadband SHAKEN Cert 355D","https://cdn-cr.cgah.tnsi.com/certs/f786e53509092c8a45b19b7dcd6886b5316d333b"
 "357H","Crosstel Tandem Inc SEPB","Crosstel Tandem Inc SEPB SHAKEN Cert 357H","https://cdn-cr.cgah.tnsi.com/certs/15812c8f761ade70a623766b81fb851b88f684b3"
-"4036","ATT SHAKEN E-E","ATT SHAKEN 4036","https://cert2.sticr.att.net:8443/sti-cr/att-stica1701967906501-cert.crt"
 "4036","AT&T Services, Inc.","SHAKEN 4036","https://cert2.sticr.att.net:8443/sti-cr/att-stica1719858820982-cert.crt"
 "442K","Meta-lynk","Meta-lynk Telecom SHAKEN 442K","https://cdn.cnxcdn.com/shaken/5a9877f6c8.crt"
 "452K","Swift Telco LLC","SHAKEN Swift Telco LLC 452K","https://cdn.cnxcdn.com/shaken/c015310d91.crt"

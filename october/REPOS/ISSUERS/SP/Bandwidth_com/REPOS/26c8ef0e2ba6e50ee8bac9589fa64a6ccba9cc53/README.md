@@ -3,11 +3,11 @@
 ## Bandwidth.com
 
 Name: `https://bw-shaken-cert-pub.s3.amazonaws.com/bw-can-shaken_20250706.pem`\
-Tested At: 03 Jun 25 00:36 UTC\
-Time: 255ms
+Tested At: 03 Jun 25 00:47 UTC\
+Time: 277ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

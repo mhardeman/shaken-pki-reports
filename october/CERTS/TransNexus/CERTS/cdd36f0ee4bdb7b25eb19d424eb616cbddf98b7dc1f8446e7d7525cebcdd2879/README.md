@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 208K
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:48 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -390 day(s)\
 Subject: CN=SHAKEN 208K, O=Vested Networks, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/3ffc
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

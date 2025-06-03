@@ -9,27 +9,26 @@
 
 #### Leaf Certificates
 
-- 11 potential certificates were requested for retrieval
-- 11 candidate certificates were included in the corpus being tested
+- 10 potential certificates were requested for retrieval
+- 10 candidate certificates were included in the corpus being tested
 - 0 certificates in the candidate corpus were skipped because they are duplicates
 - 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
 - 1 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 10 certificates being tested against the remaining rules
-- 1.10 issues on average found in unexpired, trusted, and non-compliant certificates
+- 9 certificates being tested against the remaining rules
+- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 334 days is the average remaining validity for the certificates in the corpus
+- 331 days is the average remaining validity for the certificates in the corpus
 - 365 days is the average initial validity for the certificates in the corpus
-- 8 certificates expire in the next 30 days
-- 1.43 average number of unexpired certificates per OCN observed
+- 7 certificates expire in the next 30 days
+- 1.29 average number of unexpired certificates per OCN observed
 - 7 unique OCNs observed in unexpired and valid certificate corpus
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 1 | [e_atis_ext_not_specified](ISSUES/e_atis_ext_not_specified/README.md) | ATIS1000080 |
-| 10 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
+| 9 | [e_us_cp_subject_sn_shall](ISSUES/e_us_cp_subject_sn_shall/README.md) | US_SHAKEN_CP |
 
 #### CA Certificates
 
@@ -59,7 +58,6 @@ No error, warning, or notice level issues were found
 | 30&#160;Apr&#160;23&#160;22:24&#160;UTC | SHAKEN 997E | 29&#160;Apr&#160;24&#160;22:24&#160;UTC | true | [view](CERTS/0dc3f445b4b78538a8c2c930df2b0334edcc81f225e64312ce14fc9e290b86f3/README.md) |
 | 26&#160;Sep&#160;23&#160;15:26&#160;UTC | SHAKEN 9555 | 25&#160;Sep&#160;24&#160;15:26&#160;UTC | true | [view](CERTS/b9cae288342f8bbe68f46fd1853f3f5f8f2861b9257b388edff1a7886a5ba986/README.md) |
 | 18&#160;Oct&#160;23&#160;17:32&#160;UTC | SHAKEN 510J | 17&#160;Oct&#160;24&#160;17:32&#160;UTC | true | [view](CERTS/c6ad12e2e74892c0478600fac25879b56ecbbb3a4a166795701723473bbe1459/README.md) |
-| 07&#160;Dec&#160;23&#160;16:28&#160;UTC | ATT SHAKEN 4036 | 06&#160;Dec&#160;24&#160;16:28&#160;UTC | true | [view](CERTS/af305ddae3b679f7bde37d64510b467dddfa0d2312be53aa9ae8dd83839d77ce/README.md) |
 | 15&#160;Apr&#160;24&#160;16:57&#160;UTC | SHAKEN 997E | 15&#160;Apr&#160;25&#160;16:57&#160;UTC | true | [view](CERTS/fa6c1952b481a1a69b032efb2d3bba89e6408158aaad971debf9d8057298be47/README.md) |
 | 22&#160;May&#160;24&#160;18:36&#160;UTC | SHAKEN 139K | 22&#160;May&#160;25&#160;18:36&#160;UTC | true | [view](CERTS/b42601237dcb1c77ca4896380df9e216d5deaa3b1838f0e749d033d99e593739/README.md) |
 | 01&#160;Jul&#160;24&#160;17:05&#160;UTC | SHAKEN 962J | 01&#160;Jul&#160;25&#160;17:05&#160;UTC | true | [view](CERTS/0ba8d7326d25fd1fdcd6c28325ddff0fe1cf610a1a8ec92ef8a8083e3f3cc4ee/README.md) |
@@ -76,4 +74,4 @@ No error, warning, or notice level issues were found
 | 05&#160;Oct&#160;22&#160;17:26&#160;UTC | Neustar Certified Caller ID SHAKEN CA-2 | 05&#160;Oct&#160;32&#160;17:26&#160;UTC | false | [view](CERTS/0bd95ecbb97c09de0df079ca41e10c360c4b5928ac56c496879a2c90c6bbffe4/README.md) |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

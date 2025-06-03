@@ -7,11 +7,11 @@
 - 235 repository URLs were included in the corpus being tested
 - 5 repository URLs in the corpus were skipped because they were duplicated
 - 230 repository URLs being tested against the remaining rules
-- 2.17 issues on average found in non-compliant certificate repository URLs
+- 2.18 issues on average found in non-compliant certificate repository URLs
 - 62.17% of repository URLs contain one or more Error level issue
 - 56.09% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 169ms average time it took to download each certificate
+- 141ms average time it took to download each certificate
 
 ### CA Operated Repository URLs
 
@@ -22,18 +22,18 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 36ms average time it took to download each certificate
+- 9ms average time it took to download each certificate
 
 ### Service Provider Operated Repository URLs
 
 - 151 repository URLs were included in the corpus being tested
 - 5 repository URLs in the corpus were skipped because they were duplicated
 - 146 repository URLs being tested against the remaining rules
-- 2.17 issues on average found in non-compliant certificate repository URLs
+- 2.18 issues on average found in non-compliant certificate repository URLs
 - 97.95% of repository URLs contain one or more Error level issue
 - 88.36% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 245ms average time it took to download each certificate
+- 218ms average time it took to download each certificate
 
 ## Details
 
@@ -51,7 +51,6 @@
 | [3 Rivers Communications](ISSUERS/SP/3_Rivers_Communications/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [702 Communications](ISSUERS/SP/702_Communications/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AT&T Services, Inc.](ISSUERS/SP/AT&T_Services__Inc_/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
-| [ATT SHAKEN E-E](ISSUERS/SP/ATT_SHAKEN_E-E/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [AcmeTelecom, Inc.](ISSUERS/SP/AcmeTelecom__Inc_/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Aeneas Communications ](ISSUERS/SP/Aeneas_Communications_/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Alma Tel](ISSUERS/SP/Alma_Tel/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -133,7 +132,7 @@
 | [Tri-County Telephone West Association Inc](ISSUERS/SP/Tri-County_Telephone_West_Association_Inc/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Twin Lakes](ISSUERS/SP/Twin_Lakes/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [Union Telephone Company](ISSUERS/SP/Union_Telephone_Company/README.md) | 2 (1.37%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
-| [Unknown](ISSUERS/SP/Unknown/README.md) | 33 (22.60%) | 33 (100.00%) | 18 (54.55%) | 0 (0.00%) |
+| [Unknown](ISSUERS/SP/Unknown/README.md) | 34 (23.29%) | 34 (100.00%) | 19 (55.88%) | 0 (0.00%) |
 | [Utility Telecom Group, LLC](ISSUERS/SP/Utility_Telecom_Group__LLC/README.md) | 2 (1.37%) | 2 (100.00%) | 2 (100.00%) | 0 (0.00%) |
 | [Valley Telephone Cooperative Inc / VTX1](ISSUERS/SP/Valley_Telephone_Cooperative_Inc__VTX1/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
 | [VaultTel Solutions Inc](ISSUERS/SP/VaultTel_Solutions_Inc/README.md) | 1 (0.68%) | 1 (100.00%) | 1 (100.00%) | 0 (0.00%) |
@@ -155,4 +154,4 @@
 | Notices | Tests in which industry best practices are not followed. |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

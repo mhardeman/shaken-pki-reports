@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `http://certs-clb-1999937273.us-east-1.elb.amazonaws.com/576K_20230815.crt`\
-Tested At: 03 Jun 25 00:35 UTC\
-Time: 141ms
+Tested At: 03 Jun 25 00:47 UTC\
+Time: 184ms
 
 ### Issues
 
@@ -16,4 +16,4 @@ Time: 141ms
 | [w_atis_pem_certificate_chain](../../ISSUES/w_atis_pem_certificate_chain/README.md) | warn | ATIS-1000080 | HTTP response body should be PEM certificate chain. Response body is not PEM encoded |
 | [w_atis_protocol](../../ISSUES/w_atis_protocol/README.md) | warn | ATIS-1000080 | The verifier should not dereference any protocol other than https or a port other than 443 or 8443 |
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

@@ -1,6 +1,5 @@
 OCN,Org Name,CN,Cert
 "139K","FaxLogic, LLC","SHAKEN 139K","https://cdn.pgxn.net/sti/20250522.cer"
-"4036","ATT SHAKEN E-E","ATT SHAKEN 4036","https://cert2.sticr.att.net:8443/sti-cr/att-stica1701967906501-cert.crt"
 "4036","AT&T Services, Inc.","SHAKEN 4036","https://cert2.sticr.att.net:8443/sti-cr/att-stica1719858820982-cert.crt"
 "510J","Simwood Inc","SHAKEN 510J","https://cdn.simwood.com/shaken/simwood_2023.crt"
 "872J","CommPeak Limited","SHAKEN 872J","https://cdn.commpeak.com/sti/cmmpkusns"

@@ -2,7 +2,7 @@
 
 ## Certificate Altafiber SHAKEN Cert 600F
 
-Tested At: 03 Jun 25 00:36 UTC\
+Tested At: 03 Jun 25 00:47 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 644 day(s)\
 Subject: CN=Altafiber SHAKEN Cert 600F, O=Altafiber, C=US\
@@ -14,8 +14,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/5bf43a66fdefa14ec681ce439ba5f70dce880ac
 | Code | Type | Source | Details |
 |------|------|--------|---------|
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 600F', but common name is 'Altafiber SHAKEN Cert 600F' |
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC

@@ -20,7 +20,6 @@ Description: The DN shall contain a serialNumber attribute.
 | error | SHAKEN 139K | [view](../../CERTS/b42601237dcb1c77ca4896380df9e216d5deaa3b1838f0e749d033d99e593739/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 510J | [view](../../CERTS/c6ad12e2e74892c0478600fac25879b56ecbbb3a4a166795701723473bbe1459/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 962J | [view](../../CERTS/0ba8d7326d25fd1fdcd6c28325ddff0fe1cf610a1a8ec92ef8a8083e3f3cc4ee/README.md) | The DN does not contain a serialNumber attribute. |
-| error | ATT SHAKEN 4036 | [view](../../CERTS/af305ddae3b679f7bde37d64510b467dddfa0d2312be53aa9ae8dd83839d77ce/README.md) | The DN does not contain a serialNumber attribute. |
 | error | SHAKEN 4036 | [view](../../CERTS/0823fce516b339bda1acf5b484481f12fe068273d2760a87647fbcfd93591c6c/README.md) | The DN does not contain a serialNumber attribute. |
 
 ### CA Certificates
@@ -28,4 +27,4 @@ Description: The DN shall contain a serialNumber attribute.
 No error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 00:36 UTC
+Generated: 03 Jun 25 00:48 UTC
