@@ -342,6 +342,8 @@ func NewCertificateSummaryReport() *CertificateSummaryReport {
 
 func (t *CertificateSummaryReport) Append(i *LintCommandItem) bool {
 	if !t.CertificateGroupReport.Append(i) {
+		issuers := t.Leaf
+		issuers.Append(i)
 		return false
 	}
 
