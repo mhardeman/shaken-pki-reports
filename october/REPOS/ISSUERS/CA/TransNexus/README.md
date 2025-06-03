@@ -9,7 +9,7 @@
 - 0.00% of repository URLs contain one or more Error level issue
 - 0.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 9ms average time it took to download each certificate
+- 82ms average time it took to download each certificate
 
 No error, warning, or notice level issues were found
 
@@ -101,4 +101,4 @@ No error, warning, or notice level issues were found
 | `https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/d681fabff198ed5d9cc9140166633ca1.pem` | 20&#160;Aug&#160;24&#160;15:33&#160;UTC | false | [view](REPOS/b2f887b9123462b92a6ee703f892d631cde9f81a/README.md) |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

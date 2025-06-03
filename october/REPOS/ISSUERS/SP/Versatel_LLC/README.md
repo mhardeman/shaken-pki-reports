@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 304ms average time it took to download each certificate
+- 198ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://cert.46labs.com/cert.pem` | 01&#160;Jul&#160;25&#160;17:05&#160;UTC | true | [view](REPOS/42370ca00cf54c895d6e24c5d0e9ecde0024d52a/README.md) |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

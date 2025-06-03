@@ -28,4 +28,4 @@ Description: HTTP response shall have StatusCode 200
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1701967906501-cert.crt` |  | true | [view](../../REPOS/c350399198f5efb158564ac173981afc9fed0ed7/README.md) |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

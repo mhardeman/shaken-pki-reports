@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 872J
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 78 day(s)\
 Subject: CN=SHAKEN 872J, O=CommPeak Limited, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn.commpeak.com/sti/cmmpkusns
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

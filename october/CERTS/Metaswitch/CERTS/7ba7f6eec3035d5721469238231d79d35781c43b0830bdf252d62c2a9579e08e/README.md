@@ -2,7 +2,7 @@
 
 ## Certificate Hunter Communications SHAKEN 660C
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 678 day(s)\
 Subject: CN=Hunter Communications SHAKEN 660C, O=Hunter Communications\\ , C=US\
@@ -13,8 +13,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/7ac98ce362be7e0d6650ea43e17a8320e956b66
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
+| [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

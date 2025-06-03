@@ -2,7 +2,7 @@
 
 ## Certificate DTC Communications SHAKEN Cert 0562
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -15 day(s)\
 Subject: CN=DTC Communications SHAKEN Cert 0562, O=DTC Communications, C=US\
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/e5db82c70d06ef1ac7577b261ae7f92b94871f9
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

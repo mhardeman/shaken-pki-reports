@@ -3,8 +3,8 @@
 ## Telesystem
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/1119f8a66803e30896e315d1e9766b55ab10e7f9`\
-Tested At: 03 Jun 25 00:47 UTC\
-Time: 8ms
+Tested At: 03 Jun 25 01:17 UTC\
+Time: 26ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 8ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

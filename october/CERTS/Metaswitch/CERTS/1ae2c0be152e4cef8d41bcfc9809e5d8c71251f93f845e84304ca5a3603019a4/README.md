@@ -2,7 +2,7 @@
 
 ## Certificate Blackfoot Communications SHAKEN Cert 2235
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 320 day(s)\
 Subject: CN=Blackfoot Communications SHAKEN Cert 2235, O=Blackfoot Communications, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/bc1696dd44b2d632822353b64e87d310d5fd7bf
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2235', but common name is 'Blackfoot Communications SHAKEN Cert 2235' |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Foothills Rural Tel SHAKEN Cert 0406
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -308 day(s)\
 Subject: CN=Foothills Rural Tel SHAKEN Cert 0406, O=Foothills Rural Tel, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/75cbed3f99e2082742446010d73f3f45e7ffbb6
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

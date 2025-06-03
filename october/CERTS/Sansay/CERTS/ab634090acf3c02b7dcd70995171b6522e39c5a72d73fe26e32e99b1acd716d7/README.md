@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:17 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -179 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=Voice Engineering, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
@@ -17,4 +17,4 @@ Link: https://bulkvs-cr.s3.amazonaws.com/644J_2023120501.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

@@ -10,7 +10,7 @@ This report is broken int two parts:
 
 ### Leaf Certificates
 
-- 201 potential certificates were requested for retrieval
+- 235 potential certificates were requested for retrieval
 - 201 candidate certificates were included in the corpus being tested
 - 5 certificates in the candidate corpus were skipped because they are duplicates
 - 13 certificates in the candidate corpus were skipped because they are outside-target-validity-period
@@ -100,4 +100,4 @@ This report is broken int two parts:
 | Not Effective | Tests that exist in the current specifications but were not in effect at the time of issuance. |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

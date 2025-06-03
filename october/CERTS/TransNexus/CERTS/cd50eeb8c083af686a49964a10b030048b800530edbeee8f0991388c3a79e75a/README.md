@@ -2,7 +2,7 @@
 
 ## Certificate TransNexus, Inc. SHAKEN Issuing CA5
 
-Tested At: 03 Jun 25 00:48 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 3652 day(s)\
 Remaining Validity Period: 3213 day(s)\
 Subject: CN=TransNexus\\, Inc. SHAKEN Issuing CA5, O=TransNexus\\, Inc., C=US\
@@ -13,4 +13,4 @@ Issuer: CN=TransNexus\\, Inc. SHAKEN Root CA2, O=TransNexus\\, Inc., C=US
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

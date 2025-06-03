@@ -3,11 +3,11 @@
 ## Bandwidth.com CLEC LLC
 
 Name: `https://bw-shaken-cert-pub.s3.amazonaws.com/bw-shaken_20240429.pem`\
-Tested At: 03 Jun 25 00:47 UTC\
-Time: 248ms
+Tested At: 03 Jun 25 01:17 UTC\
+Time: 56ms
 
 ### Issues
 
 no warning, or error, or notice date level issues were found
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

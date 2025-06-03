@@ -2,7 +2,7 @@
 
 ## Certificate Whidbey Telephone Company SHAKEN Cert 2452
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 370 day(s)\
 Subject: CN=Whidbey Telephone Company SHAKEN Cert 2452, O=Whidbey Telephone Company, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/4b8c18a5a68450eb480b9727e86382fdaa4afa6
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 2452', but common name is 'Whidbey Telephone Company SHAKEN Cert 2452' |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

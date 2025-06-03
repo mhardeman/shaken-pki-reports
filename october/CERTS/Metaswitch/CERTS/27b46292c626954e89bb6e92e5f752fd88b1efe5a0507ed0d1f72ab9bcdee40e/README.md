@@ -2,7 +2,7 @@
 
 ## Certificate Point Broadband Inc Bristol SHAKEN Cert 9809
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 327 day(s)\
 Subject: CN=Point Broadband Inc Bristol SHAKEN Cert 9809, O=Point Broadband Inc Bristol, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/2aeba0ef7bc96ec8521d519c00854a8f850ddb3
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

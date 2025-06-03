@@ -12,4 +12,4 @@ Description: The STI-VS shall not follow HTTP redirections
 | `http://stirshaken.ellianz.com/` |  | true | [view](../../REPOS/0fbeae17ac34cc39daf2136e92f1e71b28db4cbc/README.md) |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

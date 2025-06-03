@@ -9,7 +9,7 @@
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 303ms average time it took to download each certificate
+- 329ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://46labsconvo.peeredge.com/cert/9lF0pGoJ.pem` | 25&#160;Sep&#160;25&#160;15:16&#160;UTC | true | [view](REPOS/08cc47312793b7dc5dc62d31bd1d769cb6c5407c/README.md) |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

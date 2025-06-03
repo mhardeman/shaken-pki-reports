@@ -2,7 +2,7 @@
 
 ## Certificate Carolina West Wireless SHAKEN 5932
 
-Tested At: 03 Jun 25 00:47 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 721 day(s)\
 Subject: CN=Carolina West Wireless SHAKEN 5932, O=Carolina West Wireless, C=US\
@@ -16,4 +16,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/2d6c7d95ae300fd6b02acec8bda8d6119ea390d
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC

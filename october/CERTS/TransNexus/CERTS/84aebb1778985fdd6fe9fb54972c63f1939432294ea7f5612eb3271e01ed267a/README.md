@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 912K
 
-Tested At: 03 Jun 25 00:48 UTC\
+Tested At: 03 Jun 25 01:18 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -264 day(s)\
 Subject: CN=SHAKEN 912K, O=BBIT LLC, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/0449db64-4795-4735-b359-8dec139b2913/7d72
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 00:48 UTC
+Generated: 03 Jun 25 01:18 UTC
