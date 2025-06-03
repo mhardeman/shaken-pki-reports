@@ -7,7 +7,7 @@
 \* The percent of errors, warnings and notices is calculated against total observed unexpired and trusted certificates from the specified issuer.\
 \*\* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran.
 
-#### Leaf Certificates
+#### CA Certificates
 
 - 1 potential certificates were requested for retrieval
 - 1 candidate certificates were included in the corpus being tested
@@ -15,66 +15,24 @@
 - 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
 - 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
 - 1 certificates being tested against the remaining rules
-- 7.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 100.00% of certificates contain one or more Error level issue
-- 0.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
-- 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 760 days is the average remaining validity for the certificates in the corpus
-- 1095 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
-- 1.00 average number of unexpired certificates per OCN observed
-- 1 unique OCNs observed in unexpired and valid certificate corpus
-
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_atis_ext_certificate_policies](ISSUES/e_atis_ext_certificate_policies/README.md) | ATIS1000080 |
-| 1 | [e_atis_ext_crl_distribution](ISSUES/e_atis_ext_crl_distribution/README.md) | ATIS1000080 |
-| 1 | [e_atis_serial_number_size](ISSUES/e_atis_serial_number_size/README.md) | ATIS1000080 |
-| 1 | [e_atis_subject_cn_spc](ISSUES/e_atis_subject_cn_spc/README.md) | ATIS1000080 |
-| 1 | [e_atis_tn_auth_list](ISSUES/e_atis_tn_auth_list/README.md) | ATIS1000080 |
-| 1 | [e_atis_tn_auth_list_spc_format](ISSUES/e_atis_tn_auth_list_spc_format/README.md) | ATIS1000080 |
-| 1 | [e_shaken_certificate_policies_id](ISSUES/e_shaken_certificate_policies_id/README.md) | US_SHAKEN_CP |
-
-#### CA Certificates
-
-- 2 potential certificates were requested for retrieval
-- 2 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 2 certificates being tested against the remaining rules
-- 5.00 issues on average found in unexpired, trusted, and non-compliant certificates
-- 50.00% of certificates contain one or more Error level issue
+- 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6803 days is the average remaining validity for the certificates in the corpus
+- 6556 days is the average remaining validity for the certificates in the corpus
 - 7300 days is the average initial validity for the certificates in the corpus
 - 0 certificates expire in the next 30 days
 
-| Instances | Test | Source |
-|-----------|------|--------|
-| 1 | [e_atis_ext_authority_key_identifier_ca](ISSUES/e_atis_ext_authority_key_identifier_ca/README.md) | ATIS1000080 |
-| 1 | [e_atis_ext_certificate_policies_ca](ISSUES/e_atis_ext_certificate_policies_ca/README.md) | ATIS1000080 |
-| 1 | [e_atis_ext_crl_distribution_ca](ISSUES/e_atis_ext_crl_distribution_ca/README.md) | ATIS1000080 |
-| 1 | [e_ext_authority_key_identifier_missing](ISSUES/e_ext_authority_key_identifier_missing/README.md) | RFC5280 |
-| 1 | [e_ext_authority_key_identifier_no_key_identifier](ISSUES/e_ext_authority_key_identifier_no_key_identifier/README.md) | RFC5280 |
+No error, warning, or notice level issues were found
 
 ### Details
-
-#### Leaf Certificates
-
-| Created At | Subject | Not After | Problems | Link |
-|------------|---------|-----------|----------|------|
-| 03&#160;Aug&#160;23&#160;19:55&#160;UTC | MYPBXManager SHAKEN | 02&#160;Aug&#160;26&#160;19:55&#160;UTC | true | [view](CERTS/ea5813855308274fae05fdcae622a159efa47cde2ccf87a9cdf09d9ef43d93f2/README.md) |
 
 #### CA Certificates
 
 | Created At | Subject | Not After | Problems | Link |
 |------------|---------|-----------|----------|------|
 | 05&#160;May&#160;21&#160;19:05&#160;UTC | GBSDTech SHAKEN Root CA | 30&#160;Apr&#160;41&#160;19:05&#160;UTC | false | [view](CERTS/6d2bee73a01c1c9fe92273ff8ba56e0c870b7b901cbebcc9e12226fc109e1af9/README.md) |
-| 05&#160;May&#160;21&#160;20:22&#160;UTC | 1RouteGroup SHAKEN Intermediate CA | 29&#160;Apr&#160;41&#160;20:22&#160;UTC | true | [view](CERTS/99e9a67644a30ebc33ecc9aa8df6335524d49a4691164e357c5d2406b58a578e/README.md) |
 
 
-Generated: 03 Jun 25 00:33 UTC
+Generated: 03 Jun 25 00:36 UTC
