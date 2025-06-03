@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN Bulk Solutions, LLC 644J
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -179 day(s)\
 Subject: CN=SHAKEN Bulk Solutions\\, LLC 644J, OU=Voice Engineering, O=Bulk Solutions\\, LLC, ST=Delaware, C=US\
@@ -17,4 +17,4 @@ Link: https://bulkvs-cr.s3.amazonaws.com/644J_2023120501.pem
 | [e_atis_subject_cn_spc](../../ISSUES/e_atis_subject_cn_spc/README.md) | error | ATIS1000080 | Common name shall contain the text string 'SHAKEN 644J', but common name is 'SHAKEN Bulk Solutions, LLC 644J' |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate ENA SHAKEN cert 521F
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -353 day(s)\
 Subject: CN=ENA SHAKEN cert 521F, O=ENA, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/9250a80252020815b39f56087a0145eb69a4527
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

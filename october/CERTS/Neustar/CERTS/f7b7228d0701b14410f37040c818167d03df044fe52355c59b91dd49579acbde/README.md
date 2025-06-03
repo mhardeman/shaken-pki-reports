@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9555
 
-Tested At: 03 Jun 25 01:29 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 115 day(s)\
 Subject: CN=SHAKEN 9555, O=Hypercube Networks LLC, C=US\
@@ -16,4 +16,4 @@ Link: https://46labsconvo.peeredge.com/cert/9lF0pGoJ.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

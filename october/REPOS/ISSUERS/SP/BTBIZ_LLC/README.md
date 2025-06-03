@@ -2,14 +2,14 @@
 
 ## BTBIZ LLC
 
-- 1 repository URLs were included in the corpus being tested
-- 0 repository URLs in the corpus were skipped because they were duplicated
+- 2 repository URLs were included in the corpus being tested
+- 1 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 236ms average time it took to download each certificate
+- 377ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -21,4 +21,4 @@
 | `https://btbiz.46labs.com/btbiz.pem` | 30&#160;Apr&#160;25&#160;15:59&#160;UTC | true | [view](REPOS/cf5607093517eb91b62352b3ba5c5b0d20b51a5d/README.md) |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

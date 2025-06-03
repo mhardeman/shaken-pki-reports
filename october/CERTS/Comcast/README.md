@@ -12,16 +12,16 @@
 - 1 potential certificate URLs were requested for retrieval
 - 1 candidate certificates were parsed from the potential certificate URLs
 - 0 certificates in the candidate corpus were excluded because they are duplicates
-- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
-- 1 valid certificates being tested against the remaining rules
+- 0 certificates in the candidate corpus were excluded because they were not valid during the target validity period
+- 0 certificates in the candidate corpus were excluded because they did not chain to program trust anchors
+- 1 valid certificates were tested against the remaining rules
 - 0.00 issues on average found in valid but non-compliant certificates
-- 0.00% of certificates contain one or more Error level issue
-- 0.00% of certificates contain one or more Warning level issue
-- 0.00% of certificates contain one or more Notice level issue
-- 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 6348 days is the average remaining validity for the valid certificates
-- 7300 days is the average initial validity for the valid certificates
+- 0.00% of valid certificates contain one or more Error level issue
+- 0.00% of valid certificates contain one or more Warning level issue
+- 0.00% of valid certificates contain one or more Notice level issue
+- 100.00% of valid certificates are too old to be assessed against currently enforced expectations
+- 6348 days is the average remaining validity of the valid certificates
+- 7300 days is the average initial validity of the valid certificates
 
 No error, warning, or notice level issues were found
 
@@ -34,4 +34,4 @@ No error, warning, or notice level issues were found
 | 17&#160;Mar&#160;20&#160;14:45&#160;UTC | Comcast SHAKEN Root CA | 12&#160;Mar&#160;40&#160;14:45&#160;UTC | false | [view](CERTS/b1132c5f12c3ca4d2ff119f2df99544336eb1703512ac99cc42d596e25125bbd/README.md) |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

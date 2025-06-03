@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 012K
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -319 day(s)\
 Subject: CN=SHAKEN 012K, O=CallCurrent\\, Inc., C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/06ebd24a-1f0a-46d5-8a2f-a7ae49be8ed6/9451
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

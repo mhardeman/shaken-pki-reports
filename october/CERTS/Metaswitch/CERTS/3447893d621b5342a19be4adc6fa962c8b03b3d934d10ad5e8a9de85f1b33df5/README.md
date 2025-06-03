@@ -2,7 +2,7 @@
 
 ## Certificate South Central Rural Telecommunications Coop SHAKEN Cert 0418
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 623 day(s)\
 Subject: CN=South Central Rural Telecommunications Coop SHAKEN Cert 0418, O=South Central Rural Telephone, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/448db51c0154c1b4aa55612c8779cede93963e9
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

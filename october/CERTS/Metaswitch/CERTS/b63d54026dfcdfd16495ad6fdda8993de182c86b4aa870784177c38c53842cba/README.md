@@ -2,7 +2,7 @@
 
 ## Certificate Avid Communication SHAKEN Cert 742D
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 4 day(s)\
 Subject: CN=Avid Communication SHAKEN Cert 742D, O=Avid Communication, C=US\
@@ -27,4 +27,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/c63aca77c3a44dad9b6d8b9a53b4290e114140b
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

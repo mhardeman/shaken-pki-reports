@@ -2,7 +2,7 @@
 
 ## Certificate Alma Tel SHAKEN 0344
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 356 day(s)\
 Subject: CN=Alma Tel SHAKEN 0344, O=Alma Tel, C=US\
@@ -13,8 +13,8 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/fcae7b765809ac42ad6055a645d5bf714d945ba
 
 | Code | Type | Source | Details |
 |------|------|--------|---------|
-| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
+| [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

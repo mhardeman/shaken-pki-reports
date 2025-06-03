@@ -1,0 +1,13 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## TransNexus
+
+Name: `https://certificates.clearip.com/d61e8937-0b43-4828-9876-81561d25f1de/498daddf8d99931010d54932382ad0f1.pem`\
+Tested At: 03 Jun 25 01:41 UTC\
+Time: 9ms
+
+### Issues
+
+no warning, or error, or notice date level issues were found
+
+Generated: 03 Jun 25 02:15 UTC

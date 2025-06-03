@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 155F
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -245 day(s)\
 Subject: CN=SHAKEN 155F, O=Super-Net Inc, C=US\
@@ -14,4 +14,4 @@ Link: https://certificates.clearip.com/037240bc-315a-4975-b8f0-2a4ec2b5a0aa/8f4b
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

@@ -1,0 +1,15 @@
+# STIR/SHAKEN Certificate Repository Compliance
+
+## On
+
+Name: e_atis_cache_header\
+Source: ATIS-1000074\
+Description: The STI-VS shall implement the cache behavior described in RFC7234. If the HTTP response does not include any recognized caching directives or indicates caching for less than 24 hours, then the STI-VS should cache the HTTP response for 24 hours
+### Repository URLs
+
+| Repository URLs | Not After |  Problems | Link |
+|-----------------|-----------|-----------|------|
+| `https://onairtel.46labs.com` | 16&#160;Jul&#160;25&#160;18:07&#160;UTC | true | [view](../../REPOS/6c191e1608b921df9b334795414b01f105ef9d85/README.md) |
+
+
+Generated: 03 Jun 25 02:15 UTC

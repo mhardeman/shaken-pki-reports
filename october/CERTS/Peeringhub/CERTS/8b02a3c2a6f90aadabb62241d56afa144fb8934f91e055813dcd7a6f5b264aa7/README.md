@@ -2,7 +2,7 @@
 
 ## Certificate FlowVOIP LLC._1744088504457 SHAKEN 849K
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 310 day(s)\
 Subject: CN=FlowVOIP LLC._1744088504457 SHAKEN 849K, O=FlowVOIP, L=miami, ST=FL, C=US\
@@ -14,4 +14,4 @@ Link: https://cdn.cnxcdn.com/shaken/2cee92bfa4.crt
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

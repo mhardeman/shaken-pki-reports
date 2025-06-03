@@ -3,8 +3,8 @@
 ## Unknown
 
 Name: `https://Identity.ellianz.com:5000/stirshaken_certs/sp-cert.pem`\
-Tested At: 03 Jun 25 01:29 UTC\
-Time: 156ms
+Tested At: 03 Jun 25 01:40 UTC\
+Time: 137ms
 
 ### Issues
 
@@ -12,4 +12,4 @@ Time: 156ms
 |------|------|--------|---------|
 | [e_bad_url](../../ISSUES/e_bad_url/README.md) | error | System | Get "https://Identity.ellianz.com:5000/stirshaken_certs/sp-cert.pem": dial tcp: lookup Identity.ellianz.com: no such host |
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

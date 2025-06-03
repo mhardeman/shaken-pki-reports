@@ -3,8 +3,8 @@
 ## Project Mutual
 
 Name: `https://cdn-cr.cgah.tnsi.com/certs/d4e575ce3348a47b80616aae48c240808772df2d`\
-Tested At: 03 Jun 25 01:30 UTC\
-Time: 23ms
+Tested At: 03 Jun 25 01:40 UTC\
+Time: 11ms
 
 ### Issues
 
@@ -13,4 +13,4 @@ Time: 23ms
 | [e_atis_cache_header](../../ISSUES/e_atis_cache_header/README.md) | error | ATIS-1000074 | The STI-VS shall implement the cache behavior. The Cache-Control header is missed |
 | [w_atis_content_type](../../ISSUES/w_atis_content_type/README.md) | warn | ATIS-1000080 | HTTP response should contain Content-Type header and it's value should be application/pem-certificate-chain |
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 4036
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: 29 day(s)\
 Subject: CN=SHAKEN 4036, OU=ATT SHAKEN Prod E-E, O=AT&T Services\\, Inc., L=Dallas, ST=Texas, C=US\
@@ -16,4 +16,4 @@ Link: https://cert2.sticr.att.net:8443/sti-cr/att-stica1719858820982-cert.crt
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

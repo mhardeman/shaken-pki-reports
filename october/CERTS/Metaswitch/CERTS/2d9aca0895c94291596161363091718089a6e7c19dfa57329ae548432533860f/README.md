@@ -2,7 +2,7 @@
 
 ## Certificate Telesystem SHAKEN Cert 786E
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -492 day(s)\
 Subject: CN=Telesystem SHAKEN Cert 786E, O=Telesystem, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/9a9d047943fd910a6df566d57af59a46a867276
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC

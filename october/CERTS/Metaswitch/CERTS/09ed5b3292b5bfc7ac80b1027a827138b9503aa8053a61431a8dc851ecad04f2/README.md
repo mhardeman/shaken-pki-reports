@@ -2,7 +2,7 @@
 
 ## Certificate Cspire SHAKEN Cert 6581
 
-Tested At: 03 Jun 25 01:30 UTC\
+Tested At: 03 Jun 25 01:40 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -436 day(s)\
 Subject: CN=Cspire SHAKEN Cert 6581, O=Cspire, C=US\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/2487f31aa2e09ad03fa91fa776793115d03392e
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 01:30 UTC
+Generated: 03 Jun 25 02:15 UTC
