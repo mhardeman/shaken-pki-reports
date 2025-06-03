@@ -10,6 +10,7 @@ import (
 )
 
 type CertificateGroupReport struct {
+	FetchAttemptAmount	  int
 	Amount                    int
 	Items                     []*LintCommandItem
 	RepositoryErrorAmount     int
@@ -42,6 +43,7 @@ func averagePercent(sum int, amount int) float64 {
 
 func (t *CertificateGroupReport) Join(c *CertificateGroupReport) {
 	t.Items = append(t.Items, c.Items...)
+	t.FetchAttemptAmount += c.FetchAttemptAmount
 	t.Amount += c.Amount
 	t.RepositoryErrorAmount += c.RepositoryErrorAmount
 	t.RepositoryWarnAmount += c.RepositoryWarnAmount
@@ -120,6 +122,9 @@ func (t *CertificateGroupReport) AverageNotEffective() float64 {
 }
 
 func (t *CertificateGroupReport) Append(i *LintCommandItem) bool {
+	
+	t.FetchAttemptAmount += 1
+	
 	if i == nil || i.Certificate == nil || i.CertificateResult == nil {
 		return false
 	}
@@ -416,6 +421,7 @@ func (t *CertificateIssuerJoin) Join(r *CertificateIssuerReport) {
 
 type RepositoryGroupReport struct {
 	Items         []*LintCommandItem
+	FetchAttemptAmount	int
 	Amount        int
 	TestedAmount  int
 	SkippedAmount int
@@ -439,6 +445,8 @@ func (t *RepositoryGroupReport) AverageUrlsWithProblems() float64 {
 }
 
 func (t *RepositoryGroupReport) Append(v *LintCommandItem) bool {
+	t.FetchAttemptAmount += 1
+	
 	if v.Url == nil || v.UrlResult == nil {
 		return false
 	}
