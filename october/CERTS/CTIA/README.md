@@ -9,10 +9,11 @@
 
 #### CA Certificates
 
-- 1 certificates were included in the corpus being tested
-- 0 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
-- 0 certificates in the corpus were skipped because they are not currently trusted
+- 1 potential certificates were requested for retrieval
+- 1 candidate certificates were included in the corpus being tested
+- 0 certificates in the candidate corpus were skipped because they are duplicates
+- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
 - 1 certificates being tested against the remaining rules
 - 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
@@ -36,4 +37,4 @@
 | 21&#160;Jun&#160;23&#160;13:15&#160;UTC | SHAKEN Root CA | 14&#160;Jun&#160;48&#160;13:15&#160;UTC | true | [view](CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) |
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

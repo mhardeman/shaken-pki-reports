@@ -9,10 +9,11 @@
 
 #### CA Certificates
 
-- 1 certificates were included in the corpus being tested
-- 0 certificates in the corpus were skipped because they are duplicates
-- 0 certificates in the corpus were skipped because they are expired
-- 0 certificates in the corpus were skipped because they are not currently trusted
+- 1 potential certificates were requested for retrieval
+- 1 candidate certificates were included in the corpus being tested
+- 0 certificates in the candidate corpus were skipped because they are duplicates
+- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
 - 1 certificates being tested against the remaining rules
 - 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
@@ -34,4 +35,4 @@ No error, warning, or notice level issues were found
 | 11&#160;Jan&#160;24&#160;22:00&#160;UTC | SHAKEN ROOT - somos.com | 11&#160;Jan&#160;49&#160;04:00&#160;UTC | false | [view](CERTS/c704a027cedcc2c7286829920fef2397cc7e7bce7eb337a587e9494be9389462/README.md) |
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

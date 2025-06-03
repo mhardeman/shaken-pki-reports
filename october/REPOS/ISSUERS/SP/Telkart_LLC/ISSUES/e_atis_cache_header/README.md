@@ -9,7 +9,7 @@ Description: The STI-VS shall implement the cache behavior described in RFC7234.
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://telkart.46labs.com` | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | true | [view](../../REPOS/164d641d4b8feb006177594cb78c196c21da302d/README.md) |
+| `https://telkart.46labs.com/telkart.pem` | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | true | [view](../../REPOS/32c2cfe13b8c57eee5462b8f1078f7a72ef905fe/README.md) |
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

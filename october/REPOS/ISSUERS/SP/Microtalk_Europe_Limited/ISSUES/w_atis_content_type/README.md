@@ -9,7 +9,7 @@ Description: ATIS-1000080 separately indicates that the mime type should be appl
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://telcoportal.com/mobileapps/neustar23/9c680c2b2d89e44b0a235be6685bbc8d.cer` | 07&#160;Jan&#160;26&#160;16:01&#160;UTC | true | [view](../../REPOS/5049feb7c5de471719790aabfb7e3ed34722a9ef/README.md) |
+| `https://cdn.cnxcdn.com/shaken/bb327a8979.crt` | 07&#160;Jan&#160;26&#160;16:01&#160;UTC | true | [view](../../REPOS/d43e4067c7fa004b6bd97b834e23c2730fd9b679/README.md) |
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

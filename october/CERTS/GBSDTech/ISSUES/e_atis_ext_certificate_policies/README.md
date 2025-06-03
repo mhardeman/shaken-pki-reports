@@ -12,8 +12,6 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 
 | Status | Subject | Link | Details |
 |--------|---------|------|---------|
-| error | Edify SHAKEN | [view](../../CERTS/d092ee80d10eb8c6656246f9ffa3d2100319fb217c50c8cc03e4d84e654da026/README.md) | The Certificate Policies extension is not present |
-| error | Edify SHAKEN | [view](../../CERTS/224a236b36499273c1a11a37e7df69b3dd72f4747dad0f3faf092b0069eb0b1d/README.md) | The Certificate Policies extension is not present |
 | error | MYPBXManager SHAKEN | [view](../../CERTS/ea5813855308274fae05fdcae622a159efa47cde2ccf87a9cdf09d9ef43d93f2/README.md) | The Certificate Policies extension is not present |
 
 ### CA Certificates
@@ -21,4 +19,4 @@ Description: STI intermediate and end-entity certificates shall include a Certif
 No error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

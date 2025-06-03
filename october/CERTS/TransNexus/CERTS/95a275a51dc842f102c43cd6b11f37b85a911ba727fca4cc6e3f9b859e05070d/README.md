@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 2720
 
-Tested At: 02 Jun 25 18:52 UTC\
+Tested At: 03 Jun 25 00:33 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -61 day(s)\
 Subject: CN=SHAKEN 2720, O=Fusion Connect, C=US\
@@ -14,4 +14,4 @@ Link: https://prod001-cr.rbbnidhub.com/8ZJdVFg7gz/2
 164 tests were ran and no error, warning, or notice level issues were found
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC

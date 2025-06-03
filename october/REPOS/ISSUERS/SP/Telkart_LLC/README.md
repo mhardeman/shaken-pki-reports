@@ -2,14 +2,14 @@
 
 ## Telkart LLC
 
-- 2 repository URLs were included in the corpus being tested
-- 1 repository URLs in the corpus were skipped because they were duplicated
+- 1 repository URLs were included in the corpus being tested
+- 0 repository URLs in the corpus were skipped because they were duplicated
 - 1 repository URLs being tested against the remaining rules
 - 2.00 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
 - 100.00% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 343ms average time it took to download each certificate
+- 360ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -18,7 +18,7 @@
 
 | Repository URLs | Not After |  Problems | Link |
 |-----------------|-----------|-----------|------|
-| `https://telkart.46labs.com` | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | true | [view](REPOS/164d641d4b8feb006177594cb78c196c21da302d/README.md) |
+| `https://telkart.46labs.com/telkart.pem` | 27&#160;Dec&#160;25&#160;16:31&#160;UTC | true | [view](REPOS/32c2cfe13b8c57eee5462b8f1078f7a72ef905fe/README.md) |
 
 
-Generated: 02 Jun 25 18:58 UTC
+Generated: 03 Jun 25 00:33 UTC
