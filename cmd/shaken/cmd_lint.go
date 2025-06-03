@@ -208,7 +208,7 @@ func (t *LintCommandItem) UpdateStatuses() {
 			t.IsExpired = true
 		}
 
-		if (t.Certificate.NotBefore.After(time.UnixMilli(1730419200000)) {
+		if t.Certificate.NotBefore.After(time.UnixMilli(1730419200000)) {
 			t.IsExpired = true	
 		}
 
