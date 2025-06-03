@@ -84,10 +84,11 @@ func PrintCertificateSummaryReport(w io.Writer, r *CertificateSummaryReport) {
 }
 
 func PrintCertificateFindings(w io.Writer, r *CertificateGroupReport) {
-	fmt.Fprintf(w, "- %d certificates were included in the corpus being tested\n", r.Amount)
-	fmt.Fprintf(w, "- %d certificates in the corpus were skipped because they are duplicates\n", r.SkippedRepositoriesAmount)
-	fmt.Fprintf(w, "- %d certificates in the corpus were skipped because they are expired\n", r.SkippedExpiredAmount)
-	fmt.Fprintf(w, "- %d certificates in the corpus were skipped because they are not currently trusted\n", r.SkippedUntrustedAmount)
+	fmt.Fprintf(w, "- %d potential certificates were requested for retrieval\n", r.FetchAttemptAmount)
+	fmt.Fprintf(w, "- %d candidate certificates were included in the corpus being tested\n", r.Amount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they are duplicates\n", r.SkippedRepositoriesAmount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they are outside-target-validity-period\n", r.SkippedExpiredAmount)
+	fmt.Fprintf(w, "- %d certificates in the candidate corpus were skipped because they did not chain to trust anchors\n", r.SkippedUntrustedAmount)
 	fmt.Fprintf(w, "- %d certificates being tested against the remaining rules\n", r.TestedAmount)
 	fmt.Fprintf(w, "- %0.2f issues on average found in unexpired, trusted, and non-compliant certificates\n", r.AverageCertificatesWithProblems())
 	fmt.Fprintf(w, "- %0.2f%% of certificates contain one or more Error level issue\n", r.AverageErrors())
