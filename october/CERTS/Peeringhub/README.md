@@ -9,20 +9,19 @@
 
 #### Leaf Certificates
 
-- 7 potential certificates were requested for retrieval
-- 7 candidate certificates were included in the corpus being tested
-- 1 certificates in the candidate corpus were skipped because they are duplicates
-- 2 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 4 certificates being tested against the remaining rules
-- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 7 potential certificate URLs were requested for retrieval
+- 7 candidate certificates were parsed from the potential certificate URLs
+- 1 certificates in the candidate corpus were excluded because they are duplicates
+- 2 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 4 valid certificates being tested against the remaining rules
+- 1.00 issues on average found in valid but non-compliant certificates
 - 50.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 265 days is the average remaining validity for the certificates in the corpus
-- 326 days is the average initial validity for the certificates in the corpus
-- 3 certificates expire in the next 30 days
+- 265 days is the average remaining validity for the valid certificates
+- 326 days is the average initial validity for the valid certificates
 - 1.33 average number of unexpired certificates per OCN observed
 - 3 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -32,20 +31,19 @@
 
 #### CA Certificates
 
-- 2 potential certificates were requested for retrieval
-- 2 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 2 certificates being tested against the remaining rules
-- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2 potential certificate URLs were requested for retrieval
+- 2 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 2 valid certificates being tested against the remaining rules
+- 1.00 issues on average found in valid but non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 100.00% of certificates are too old to be assessed against currently enforced expectations
-- 5541 days is the average remaining validity for the certificates in the corpus
-- 5475 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
+- 5541 days is the average remaining validity for the valid certificates
+- 5475 days is the average initial validity for the valid certificates
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -71,4 +69,4 @@
 | 22&#160;Jun&#160;22&#160;22:45&#160;UTC | Peeringhub Inc SHAKEN Intermediate CA 2 | 19&#160;Jun&#160;32&#160;22:45&#160;UTC | true | [view](CERTS/f00871963a40b04269c4b019968e42f9f40964cbfb512ff5342307e9942874ce/README.md) |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

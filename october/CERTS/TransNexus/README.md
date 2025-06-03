@@ -9,20 +9,19 @@
 
 #### Leaf Certificates
 
-- 84 potential certificates were requested for retrieval
-- 84 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 11 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 73 certificates being tested against the remaining rules
-- 1.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 84 potential certificate URLs were requested for retrieval
+- 84 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 11 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 73 valid certificates being tested against the remaining rules
+- 1.00 issues on average found in valid but non-compliant certificates
 - 39.73% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 3 days is the average remaining validity for the certificates in the corpus
-- 7 days is the average initial validity for the certificates in the corpus
-- 73 certificates expire in the next 30 days
+- 3 days is the average remaining validity for the valid certificates
+- 7 days is the average initial validity for the valid certificates
 - 12.17 average number of unexpired certificates per OCN observed
 - 6 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -32,20 +31,19 @@
 
 #### CA Certificates
 
-- 3 potential certificates were requested for retrieval
-- 3 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 3 certificates being tested against the remaining rules
-- 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 3 potential certificate URLs were requested for retrieval
+- 3 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 3 valid certificates being tested against the remaining rules
+- 0.00 issues on average found in valid but non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 66.67% of certificates are too old to be assessed against currently enforced expectations
-- 5240 days is the average remaining validity for the certificates in the corpus
-- 4870 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
+- 5240 days is the average remaining validity for the valid certificates
+- 4870 days is the average initial validity for the valid certificates
 
 No error, warning, or notice level issues were found
 
@@ -138,4 +136,4 @@ No error, warning, or notice level issues were found
 | 21&#160;Mar&#160;24&#160;00:00&#160;UTC | TransNexus, Inc. SHAKEN Issuing CA5 | 20&#160;Mar&#160;34&#160;23:59&#160;UTC | false | [view](CERTS/cd50eeb8c083af686a49964a10b030048b800530edbeee8f0991388c3a79e75a/README.md) |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

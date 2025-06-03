@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 208K
 
-Tested At: 03 Jun 25 01:18 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 7 day(s)\
 Remaining Validity Period: -594 day(s)\
 Subject: CN=SHAKEN 208K, O=Vested Networks, C=US\
@@ -16,4 +16,4 @@ Link: https://certificates.clearip.com/000b56ea-b4c8-46f2-89e0-ac03650b1b97/a28e
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

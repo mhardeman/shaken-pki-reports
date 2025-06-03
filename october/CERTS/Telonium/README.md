@@ -9,20 +9,19 @@
 
 #### Leaf Certificates
 
-- 2 potential certificates were requested for retrieval
-- 2 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 2 certificates being tested against the remaining rules
-- 0.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 2 potential certificate URLs were requested for retrieval
+- 2 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 2 valid certificates being tested against the remaining rules
+- 0.00 issues on average found in valid but non-compliant certificates
 - 0.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 270 days is the average remaining validity for the certificates in the corpus
-- 366 days is the average initial validity for the certificates in the corpus
-- 1 certificates expire in the next 30 days
+- 270 days is the average remaining validity for the valid certificates
+- 366 days is the average initial validity for the valid certificates
 - 1.00 average number of unexpired certificates per OCN observed
 - 2 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -30,20 +29,19 @@ No error, warning, or notice level issues were found
 
 #### CA Certificates
 
-- 4 potential certificates were requested for retrieval
-- 4 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 4 certificates being tested against the remaining rules
-- 3.00 issues on average found in unexpired, trusted, and non-compliant certificates
+- 4 potential certificate URLs were requested for retrieval
+- 4 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 4 valid certificates being tested against the remaining rules
+- 3.00 issues on average found in valid but non-compliant certificates
 - 50.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 0.00% of certificates are too old to be assessed against currently enforced expectations
-- 4319 days is the average remaining validity for the certificates in the corpus
-- 4474 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
+- 4319 days is the average remaining validity for the valid certificates
+- 4474 days is the average initial validity for the valid certificates
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -70,4 +68,4 @@ No error, warning, or notice level issues were found
 | 01&#160;Aug&#160;23&#160;16:36&#160;UTC | Telonium SHAKEN Intermediate G1 | 01&#160;Aug&#160;33&#160;16:36&#160;UTC | false | [view](CERTS/8c0ef8682826bec79a8c64881899f6a5a4a1d52dfebe28ae419c23f85df96ea0/README.md) |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate Viaero Wireless SHAKEN 6874
 
-Tested At: 03 Jun 25 01:18 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 692 day(s)\
 Subject: CN=Viaero Wireless SHAKEN 6874, O=Viaero Wireless, C=US\
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/707a2acb3852ef80a0144461abbbf848dfe45b5
 | [e_atis_ext_crl_distribution_struct](../../ISSUES/e_atis_ext_crl_distribution_struct/README.md) | error | ATIS1000080 | CRL Distribution Point shall contain a CRLIssuer field |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

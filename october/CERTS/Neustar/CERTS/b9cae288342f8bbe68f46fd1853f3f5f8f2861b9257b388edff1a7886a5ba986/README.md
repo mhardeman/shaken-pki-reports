@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 9555
 
-Tested At: 03 Jun 25 01:17 UTC\
+Tested At: 03 Jun 25 01:29 UTC\
 Initial Validity Period: 365 day(s)\
 Remaining Validity Period: -250 day(s)\
 Subject: CN=SHAKEN 9555, O=Intrado Corporation, C=US\
@@ -16,4 +16,4 @@ Link: https://46labsconvo.peeredge.com/cert/TOH7P0gL.pem
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

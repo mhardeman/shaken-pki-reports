@@ -2,7 +2,7 @@
 
 ## Certificate Telesystem SHAKEN Cert  786E
 
-Tested At: 03 Jun 25 01:17 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 586 day(s)\
 Subject: CN=Telesystem SHAKEN Cert  786E, O=Telesystem, C=US\
@@ -18,4 +18,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/1119f8a66803e30896e315d1e9766b55ab10e7f
 | [e_atis_ext_key_usage_ee](../../ISSUES/e_atis_ext_key_usage_ee/README.md) | error | ATIS1000080 | The Key Usage extension for STI end-entity certificates shall contain a single key usage value of digitalSignature (0). |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

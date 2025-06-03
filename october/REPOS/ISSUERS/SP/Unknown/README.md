@@ -2,24 +2,24 @@
 
 ## Unknown
 
-- 34 repository URLs were included in the corpus being tested
+- 33 repository URLs were included in the corpus being tested
 - 0 repository URLs in the corpus were skipped because they were duplicated
-- 34 repository URLs being tested against the remaining rules
-- 2.71 issues on average found in non-compliant certificate repository URLs
+- 33 repository URLs being tested against the remaining rules
+- 2.67 issues on average found in non-compliant certificate repository URLs
 - 100.00% of repository URLs contain one or more Error level issue
-- 55.88% of repository URLs contain one or more Warning level issue
+- 54.55% of repository URLs contain one or more Warning level issue
 - 0.00% of repository URLs contain one or more Notice level issue
-- 762ms average time it took to download each certificate
+- 730ms average time it took to download each certificate
 
 | Instances | Test | Source |
 |-----------|------|--------|
-| 19 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
+| 18 | [e_atis_cache_header](ISSUES/e_atis_cache_header/README.md) | ATIS-1000074 |
 | 1 | [e_atis_redirect](ISSUES/e_atis_redirect/README.md) | ATIS-1000074 |
 | 9 | [e_bad_url](ISSUES/e_bad_url/README.md) | System |
-| 17 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
+| 16 | [e_http_status_200](ISSUES/e_http_status_200/README.md) | HTTP |
 | 6 | [e_request_timeout](ISSUES/e_request_timeout/README.md) | System |
-| 19 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
-| 19 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
+| 18 | [w_atis_content_type](ISSUES/w_atis_content_type/README.md) | ATIS-1000080 |
+| 18 | [w_atis_pem_certificate_chain](ISSUES/w_atis_pem_certificate_chain/README.md) | ATIS-1000080 |
 | 2 | [w_atis_protocol](ISSUES/w_atis_protocol/README.md) | ATIS-1000080 |
 
 | Repository URLs | Not After |  Problems | Link |
@@ -57,7 +57,6 @@
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1683567574984-cert.crt` |  | true | [view](REPOS/4f3540566a280856005a2a2784a22866ff8bd10d/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1691767810461-cert.crt` |  | true | [view](REPOS/e927f896f26103d706a2a5a669617a09cb847758/README.md) |
 | `https://cert2.sticr.att.net:8443/sti-cr/att-stica1697468675203-cert.crt` |  | true | [view](REPOS/238d1db9a65aad4c2c9960d1e2b9d8dbae4a7015/README.md) |
-| `https://cert2.sticr.att.net:8443/sti-cr/att-stica1701967906501-cert.crt` |  | true | [view](REPOS/c350399198f5efb158564ac173981afc9fed0ed7/README.md) |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

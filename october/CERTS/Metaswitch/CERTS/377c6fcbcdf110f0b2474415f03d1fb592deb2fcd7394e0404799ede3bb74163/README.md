@@ -2,7 +2,7 @@
 
 ## Certificate Chariton Valley SHAKEN 250A
 
-Tested At: 03 Jun 25 01:18 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: 334 day(s)\
 Subject: CN=Chariton Valley SHAKEN 250A, O=Chariton Valley Communications Corporation, C=US\
@@ -17,4 +17,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/5059f73c1bde1cdf7d280f005cc7a0ba008c1e5
 | [e_us_cp_subject_sn_shall](../../ISSUES/e_us_cp_subject_sn_shall/README.md) | error | US_SHAKEN_CP | The DN does not contain a serialNumber attribute. |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

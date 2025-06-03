@@ -9,20 +9,19 @@
 
 #### Leaf Certificates
 
-- 86 potential certificates were requested for retrieval
-- 86 candidate certificates were included in the corpus being tested
-- 1 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 85 certificates being tested against the remaining rules
-- 2.02 issues on average found in unexpired, trusted, and non-compliant certificates
+- 86 potential certificate URLs were requested for retrieval
+- 86 candidate certificates were parsed from the potential certificate URLs
+- 1 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 85 valid certificates being tested against the remaining rules
+- 2.02 issues on average found in valid but non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 47.06% of certificates are too old to be assessed against currently enforced expectations
-- 1087 days is the average remaining validity for the certificates in the corpus
-- 1095 days is the average initial validity for the certificates in the corpus
-- 33 certificates expire in the next 30 days
+- 1087 days is the average remaining validity for the valid certificates
+- 1095 days is the average initial validity for the valid certificates
 - 1.37 average number of unexpired certificates per OCN observed
 - 62 unique OCNs observed in unexpired and valid certificate corpus
 
@@ -36,20 +35,19 @@
 
 #### CA Certificates
 
-- 4 potential certificates were requested for retrieval
-- 4 candidate certificates were included in the corpus being tested
-- 0 certificates in the candidate corpus were skipped because they are duplicates
-- 0 certificates in the candidate corpus were skipped because they are outside-target-validity-period
-- 0 certificates in the candidate corpus were skipped because they did not chain to trust anchors
-- 4 certificates being tested against the remaining rules
-- 2.25 issues on average found in unexpired, trusted, and non-compliant certificates
+- 4 potential certificate URLs were requested for retrieval
+- 4 candidate certificates were parsed from the potential certificate URLs
+- 0 certificates in the candidate corpus were excluded because they are duplicates
+- 0 certificates in the candidate corpus were excluded because they are outside-target-validity-period
+- 0 certificates in the candidate corpus were excluded because they did not chain to trust anchors
+- 4 valid certificates being tested against the remaining rules
+- 2.25 issues on average found in valid but non-compliant certificates
 - 100.00% of certificates contain one or more Error level issue
 - 0.00% of certificates contain one or more Warning level issue
 - 0.00% of certificates contain one or more Notice level issue
 - 50.00% of certificates are too old to be assessed against currently enforced expectations
-- 5218 days is the average remaining validity for the certificates in the corpus
-- 5110 days is the average initial validity for the certificates in the corpus
-- 0 certificates expire in the next 30 days
+- 5218 days is the average remaining validity for the valid certificates
+- 5110 days is the average initial validity for the valid certificates
 
 | Instances | Test | Source |
 |-----------|------|--------|
@@ -163,4 +161,4 @@
 | 21&#160;Mar&#160;24&#160;10:14&#160;UTC | Metaswitch STI-CA SHAKEN Issuing 1 | 18&#160;Mar&#160;36&#160;10:14&#160;UTC | true | [view](CERTS/12d67681ec2bd575ddcb33c721fe445dc556f0e362ba5b565a1f03897cb542f6/README.md) |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

@@ -2,7 +2,7 @@
 
 ## Certificate SHAKEN 979E
 
-Tested At: 03 Jun 25 01:17 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 398 day(s)\
 Remaining Validity Period: 34 day(s)\
 Subject: CN=SHAKEN 979E, O=Bandwidth.com, C=CA\
@@ -16,4 +16,4 @@ Link: https://bw-shaken-cert-pub.s3.amazonaws.com/bw-can-shaken_20250706.pem
 | [e_shaken_certificate_policies_id](../../ISSUES/e_shaken_certificate_policies_id/README.md) | error | US_SHAKEN_CP | The Certificate Policies extension contains an invalid OID value: 1.3.6.1.4.1.56223.1. Available OIDs: 2.16.840.1.114569.1.1.3, 2.16.840.1.114569.1.1.4 |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

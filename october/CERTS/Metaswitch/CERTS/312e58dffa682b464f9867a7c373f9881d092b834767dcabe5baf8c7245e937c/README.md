@@ -2,7 +2,7 @@
 
 ## Certificate GCI SHAKEN Cert 7785
 
-Tested At: 03 Jun 25 01:18 UTC\
+Tested At: 03 Jun 25 01:30 UTC\
 Initial Validity Period: 1095 day(s)\
 Remaining Validity Period: -443 day(s)\
 Subject: CN=GCI SHAKEN Cert 7785, O=GCI, C=us\
@@ -29,4 +29,4 @@ Link: https://cdn-cr.cgah.tnsi.com/certs/69fae8e574f06fb796e08c7b6ea847f2563cea5
 \* Tests use the ATIS-1000080 and Certificate Policy versions release dates to determine if tests are ran. Certificates issued before these dates are not executed as the rules may not have been enforce at the time.
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC

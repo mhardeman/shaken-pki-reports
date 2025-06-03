@@ -15,4 +15,4 @@ Description: STI certificates shall contain a Subject Public Key Info field spec
 | error | SHAKEN Root CA | [view](../../CERTS/ee1cf83becad4777dcf250170efecc7fc7498d85097e9a570dfac542151ebf53/README.md) | Subject Public Key Info field contains a public key that is not 256 bits |
 
 
-Generated: 03 Jun 25 01:18 UTC
+Generated: 03 Jun 25 01:30 UTC
