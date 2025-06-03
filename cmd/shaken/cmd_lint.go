@@ -606,9 +606,9 @@ func MakeReport(items []*LintCommandItem) *Report {
 			mapItems[id] = item
 		}
 
-		if item.Certificate != nil && item.CertificateResult != nil {
+		//if item.Certificate != nil && item.CertificateResult != nil {
 			r.Certificates.Append(item)
-		}
+		//}
 		if item.Url != nil && item.UrlResult != nil {
 			r.Repositories.Append(item)
 		}
